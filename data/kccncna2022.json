@@ -4087,19 +4087,6 @@
         }
       ],
       "video": "https://www.youtube.com/watch?v=6-akjOASvxc"
-    },
-    {
-      "name": "Building Multi-Tenant Routing And Scaling With Envoy - Yiming Peng, Amazon Web Services, Inc.",
-      "url": "https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no",
-      "description": "AWS App Runner is using Envoy underhood for its multi-tenant request-routing, load balancing and auto scaling. In this session, the AWS App Runner service team will share Envoy user experience. Journey of building an Envoy-based scalable request-router from developer point of view. Reason to choose Envoy and benefits it brings to the product. Lessons learnt and best practices for maintaining and operating Envoy-based systems in day-to-day work life.",
-      "attachment": [
-        {
-          "name": "Building multi tenant routing and scaling with Envoy YimingPeng v2",
-          "type": "slides",
-          "url": "https://static.sched.com/hosted_files/kccncna2022/1b/Building%20multi-tenant%20routing%20and%20scaling%20with%20Envoy_YimingPeng_v2.pdf"
-        }
-      ],
-      "video": "https://www.youtube.com/watch?v=6-akjOASvxc"
     }
   ]
 }

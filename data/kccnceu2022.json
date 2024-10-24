@@ -3674,19 +3674,6 @@
         }
       ],
       "video": "https://www.youtube.com/watch?v=u7vUA61sZI4"
-    },
-    {
-      "name": "Navigating the CNCF Landscape, the Right Way - Divya Mohan, SUSE; Savitha Raghunathan, Red Hat; Kunal Kushwaha \u0026 Saiyam Pathak, Civo",
-      "url": "https://kccnceu2022.sched.com/event/ytuG/navigating-the-cncf-landscape-the-right-way-divya-mohan-suse-savitha-raghunathan-red-hat-kunal-kushwaha-saiyam-pathak-civo?iframe=no",
-      "description": "CNCF is the vendor-neutral home for cloud native projects. Including the most famous open source project in recent times, Kubernetes, it currently houses ~1,019 cards with a total of 2,957,938 stars. With a growing ecosystem, at an initial glance, the landscape may seem intimidating to newcomers, especially students. Journeying through the entire development and operations lifecycle, this panel aims to take a guided approach to cover the various projects involved right from the creation of the application to the deployment \u0026 monitoring. With various pit stops \u0026 forks along the way, the speakers hope to leave the audience with a fair idea of how to navigate the landscape effectively and embark on their cloud native journey. Should they also wish to contribute to any of the projects, the session also covers various tips \u0026 tricks on how to take their very first steps in the ecosystem as well.Click here to view captioning/translation in the MeetingPlay platform!",
-      "attachment": [
-        {
-          "name": "Navigating the CNCF landscape, the right way",
-          "type": "slides",
-          "url": "https://static.sched.com/hosted_files/kccnceu2022/38/Navigating%20the%20CNCF%20landscape%2C%20the%20right%20way.pdf"
-        }
-      ],
-      "video": "https://www.youtube.com/watch?v=u7vUA61sZI4"
     }
   ]
 }

@@ -4749,19 +4749,6 @@
         }
       ],
       "video": "https://www.youtube.com/watch?v=H0Cdf--4uq8"
-    },
-    {
-      "name": "Search at Shopify: Highly Available Platform for Data Resilience and Compliance - Leila Vayghan, Shopify",
-      "url": "https://kccnceu2024.sched.com/event/1YeSk/search-at-shopify-highly-available-platform-for-data-resilience-and-compliance-leila-vayghan-shopify?iframe=no",
-      "description": "Millions of merchants rely on Shopify’s search platform that indexes petabytes of data from traditional databases to Elasticsearch through Kafka in record time. Search is fundamental to a commerce platform at Shopify’s scale and has key requirements such as high availability, scalability, and disaster recovery. Other constraints such as data residency regulations also add complexity to the design and maintenance of search infrastructure. These requirements need a complex infrastructure composed of numerous components to build an indexing pipeline that guarantees write performance and search query efficiency. This talk explains how Kafka messaging service is used for in-order and realtime indexing of millions of documents per minute to Elasticsearch in multiple global regions to achieve high availability. Challenges such as handling different levels of write loads and storage autoscaling are also addressed. Use of Envoy for disaster recovery and regional failover is also discussed.",
-      "attachment": [
-        {
-          "name": "KubeConEU24   for PDF.pptx",
-          "type": "slides",
-          "url": "https://static.sched.com/hosted_files/kccnceu2024/55/KubeConEU24%20-%20for%20PDF.pptx.pdf"
-        }
-      ],
-      "video": "https://www.youtube.com/watch?v=H0Cdf--4uq8"
     }
   ]
 }

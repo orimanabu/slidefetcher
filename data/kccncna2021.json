@@ -3420,19 +3420,6 @@
         }
       ],
       "video": ""
-    },
-    {
-      "name": "Do Not Disturb Mode: Fine-Tuning Resources for Latency Sensitive Workloads - Antti Kervinen, Intel \u0026 Peter Hunt, Red Hat",
-      "url": "https://kccncna2021.sched.com/event/m4t2/do-not-disturb-mode-fine-tuning-resources-for-latency-sensitive-workloads-antti-kervinen-intel-peter-hunt-red-hat?iframe=no",
-      "description": "Do you get your best work done without interruptions? Many people do, and Kubernetes workloads are no different. While there exist ways to run workloads in Kubernetes on dedicated CPUs, they still share resources like CPU cache, memory bandwidth and storage I/O. Recently, CRI-O and containerd have been extended to allow admins to control how these resources are shared. With the correct hardware and node configuration, users can put their applications in different classes that configure the amount of storage and memory bandwidth, and CPU cache that their applications need.In this talk, Antti Kervinen and Peter Hunt will talk about required hardware, the extensions, and describe ways that admins can configure their workloads to finally get some peace and quiet.",
-      "attachment": [
-        {
-          "name": "DoNotDisturbMode KervinenHunt",
-          "type": "slides",
-          "url": "https://static.sched.com/hosted_files/kccncna2021/89/DoNotDisturbMode_KervinenHunt.pdf"
-        }
-      ],
-      "video": ""
     }
   ]
 }

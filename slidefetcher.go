@@ -23,6 +23,8 @@ const (
 	selectorFile = ".file-uploaded"
 	selectorVideo1 = ".sched-event-details iframe" // 2022-
 	selectorVideo2 = ".sched-button" // 2021
+	selectorVideo3 = ".sched-button" // 2021
+	selectorHTMLTitle = "html title"
 	selectorTitle = ".list-single__event a"
 	selectorDescription = ".tip-description"
 )
@@ -53,6 +55,26 @@ var knownConfs = []KnownConf{
 		"kccnceu2024",
 		"KubeCon + CloudNativeCon Europe 2024",
 		"https://kccnceu2024.sched.com",
+	},
+	{
+		"kccncna2017",
+		"KubeCon + CloudNative North America 2017",
+		"https://kccncna17.sched.com",
+	},
+	{
+		"kccncna2018",
+		"KubeCon + CloudNative North America 2018",
+		"https://kccna18.sched.com",
+	},
+	{
+		"kccncna2019",
+		"KubeCon + CloudNative North America 2019",
+		"https://kccncna19.sched.com",
+	},
+	{
+		"kccncna2020",
+		"KubeCon + CloudNative North America 2020",
+		"https://kccncna20.sched.com",
 	},
 	{
 		"kccncna2021",
@@ -150,19 +172,22 @@ func prepare(targetURL string) {
 	// 	// fmt.Println("")
 	// })
 
-	c.OnHTML("html title", func(e *colly.HTMLElement) {
+	c.OnHTML(selectorHTMLTitle, func(e *colly.HTMLElement) {
+		// fmt.Printf("<OnHTML-selectorHTMLTitle> [%s]\n", e.Text)
 		if (conf.Name == "") {
 			conf.Name = e.Text
 		}
 	})
 
 	c.OnHTML(selectorTitle, func(e *colly.HTMLElement) {
+		// fmt.Printf("<OnHTML-selectorTitle> [%s]\n", e.Text)
 		s.Name = strings.TrimSpace(e.Text)
 		// fmt.Println("**", s.Video)
 		// fmt.Println("")
 	})
 
 	c.OnHTML(selectorDescription, func(e *colly.HTMLElement) {
+		// fmt.Printf("<OnHTML-selectorDescription> [%s]\n", e.Text)
 		desc := e.Text
 		// if strings.HasPrefix("\n  ", desc) {
 		// 	desc = desc[3:]
@@ -171,6 +196,7 @@ func prepare(targetURL string) {
 	})
 
 	c.OnHTML(selectorPDF, func(e *colly.HTMLElement) {
+		// fmt.Printf("<OnHTML-selectorPDF> [%s]\n", e.Text)
 		at := setupAttachment(e, "slides")
 		if !existsAttachment(s, at) {
 			s.Attachments = append(s.Attachments, at)
@@ -178,6 +204,7 @@ func prepare(targetURL string) {
 	})
 
 	c.OnHTML(selectorFile, func(e *colly.HTMLElement) {
+		// fmt.Printf("<OnHTML-selectorFile> [%s]\n", e.Text)
 		at := setupAttachment(e, "other")
 		if !existsAttachment(s, at) {
 			s.Attachments = append(s.Attachments, at)
@@ -185,12 +212,12 @@ func prepare(targetURL string) {
 	})
 
 	c.OnHTML(selectorVideo1, func(e *colly.HTMLElement) {
-		// fmt.Println("**", s.Video)
-		// fmt.Println("")
+		// fmt.Printf("<OnHTML-selectorVideo1> [%s]\n", e.Text)
 		s.Video = strings.Replace(e.Attr("src"), "embed/", "watch?v=", 1)
 	})
 
 	c.OnHTML(selectorVideo2, func(e *colly.HTMLElement) {
+		// fmt.Printf("<OnHTML-selectorVideo2> [%s]\n", e.Text)
 		if e.Text == "LINK TO VIDEO RECORDING" {
 			e.ForEach("a", func(_ int, el *colly.HTMLElement) {
 				s.Video = el.Attr("href")
@@ -201,17 +228,16 @@ func prepare(targetURL string) {
 	c.OnHTML(selectorSession, func(e *colly.HTMLElement) {
 		s = Session{}
 		href := e.Attr("href")
-		// fmt.Println("*", e.Text)
-		// fmt.Println("*", href)
+		// fmt.Printf("<OnHTML-selectorSession> [%s][%s]\n", e.Text, href)
 		s.URL = targetURL + "/" + href + "?iframe=no"
 		e.Request.Visit(s.URL)
 	})
 
 	c.OnScraped(func(r *colly.Response) {
-		// fmt.Println(r.Request.URL, " scraped!")
-		if r.Request.URL.String() != targetURL {
+		if r.Request.URL.String() != targetURL + targetQuery {
 			conf.Sessions = append(conf.Sessions, s)
 		}
+		// fmt.Printf("<OnScraped> [%s][%s] (%d)\n", r.Request.URL, targetURL + targetQuery, len(conf.Sessions))
 	})
 
 	c.Visit(targetURL + targetQuery)
