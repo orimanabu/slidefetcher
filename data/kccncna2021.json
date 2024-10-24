@@ -1,0 +1,3078 @@
+{
+  "url": "https://kccncna2021.sched.com/?iframe=no",
+  "name": "KubeCon + CloudNative North America 2021: Schedule",
+  "sessions": [
+    {
+      "name": "Registration + Vaccine Verification + Badge Pick-up",
+      "url": "https://kccncna2021.sched.com/event/ld45/registration-vaccine-verification-badge-pick-up?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Overcoming Data-Tier Challenges on Kubernetes and Cloud-Native Deployments hosted by DataStax (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/nDOH/overcoming-data-tier-challenges-on-kubernetes-and-cloud-native-deployments-hosted-by-datastax-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "GitLab Commit at KubeCon: DevOps hosted by GitLab (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/o02s/gitlab-commit-at-kubecon-devops-hosted-by-gitlab-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Quiet Rooms",
+      "url": "https://kccncna2021.sched.com/event/mxPB/quiet-rooms?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Longhorn",
+      "url": "https://kccncna2021.sched.com/event/mtJ9/virtual-project-office-hours-longhorn?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Getting started with Kubernetes hosted by Google Cloud (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/nA0Q/getting-started-with-kubernetes-hosted-by-google-cloud-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Cloud Native eBPF Day North America Hosted By CNCF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leZu/cloud-native-ebpf-day-north-america-hosted-by-cncf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Cloud Native for Eclipse Foundation Day hosted by Eclipse Foundation (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/mIoq/cloud-native-for-eclipse-foundation-day-hosted-by-eclipse-foundation-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "EnvoyCon North America Hosted By CNCF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/lea0/envoycon-north-america-hosted-by-cncf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Production Identity Day: SPIFFE + SPIRE North America Hosted By CNCF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leaF/production-identity-day-spiffe-spire-north-america-hosted-by-cncf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "PromCon North America Hosted By CNCF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leaa/promcon-north-america-hosted-by-cncf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "SupplyChainSecurityCon North America Hosted by CNCF + CDF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leag/supplychainsecuritycon-north-america-hosted-by-cncf-cdf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual: A Crash Course in mTLS and Authorization for Kubernetes with Linkerd - William Morgan, Buoyant",
+      "url": "https://kccncna2021.sched.com/event/o4Ac/virtual-a-crash-course-in-mtls-and-authorization-for-kubernetes-with-linkerd-william-morgan-buoyant?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual: Rescuing Messy Schema Migrations with SchemaHero - Treva Williams, Replicated",
+      "url": "https://kccncna2021.sched.com/event/o4An/virtual-rescuing-messy-schema-migrations-with-schemahero-treva-williams-replicated?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual: Rook: Enterprise Storage for Kubernetes - Travis Nielsen, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/o4B6/virtual-rook-enterprise-storage-for-kubernetes-travis-nielsen-red-hat?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual: The Roadmap of TiKV, A Cloud Native Key-value Database - Liming Deng, Pingcap",
+      "url": "https://kccncna2021.sched.com/event/o4AG/virtual-the-roadmap-of-tikv-a-cloud-native-key-value-database-liming-deng-pingcap?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Krator",
+      "url": "https://kccncna2021.sched.com/event/mtJF/virtual-project-office-hours-krator?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Battlesnake: KubeCon Cup - Workshop \u0026 Group Stages",
+      "url": "https://kccncna2021.sched.com/event/nzE5/battlesnake-kubecon-cup-workshop-group-stages?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Bug Bash Online Kick Off!",
+      "url": "https://kccncna2021.sched.com/event/ok4n/bug-bash-online-kick-off?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Argo Project Meeting",
+      "url": "https://kccncna2021.sched.com/event/p0Az/argo-project-meeting?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "cloudnative.tv Daily Recap",
+      "url": "https://kccncna2021.sched.com/event/n5qH/cloudnativetv-daily-recap?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: CloudEvents",
+      "url": "https://kccncna2021.sched.com/event/mtJ8/virtual-project-office-hours-cloudevents?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "(Virtual Attendance Only) Operator Day hosted by Canonical (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/n9ms/virtual-attendance-only-operator-day-hosted-by-canonical-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Registration + Vaccine Verification + Badge Pick-up",
+      "url": "https://kccncna2021.sched.com/event/lf7V/registration-vaccine-verification-badge-pick-up?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "College to Cloud Native: A Student's Introduction to KubeCon + CloudNativeCon",
+      "url": "https://kccncna2021.sched.com/event/n5q9/college-to-cloud-native-a-students-introduction-to-kubecon-cloudnativecon?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Helm",
+      "url": "https://kccncna2021.sched.com/event/mtJL/virtual-project-office-hours-helm?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: NATS",
+      "url": "https://kccncna2021.sched.com/event/mtJK/virtual-project-office-hours-nats?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "CNCF End User Partner Summit (RSVP Required)",
+      "url": "https://kccncna2021.sched.com/event/n6hw/cncf-end-user-partner-summit-rsvp-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Air Gap Lab: Delivering Kubernetes Applications to Air Gapped Environments hosted by Replicated (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/n9sk/air-gap-lab-delivering-kubernetes-applications-to-air-gapped-environments-hosted-by-replicated-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Instantly Debug your Kubernetes Clusters with Pixie hosted by New Relic (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/nCWy/instantly-debug-your-kubernetes-clusters-with-pixie-hosted-by-new-relic-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Cloud Native DevX Day North America Hosted by CNCF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leYD/cloud-native-devx-day-north-america-hosted-by-cncf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Cloud Native Security Conference North America Hosted by CNCF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leYh/cloud-native-security-conference-north-america-hosted-by-cncf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Cloud Native Wasm Day North America Hosted By CNCF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leZ0/cloud-native-wasm-day-north-america-hosted-by-cncf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Data on Kubernetes Day hosted by CNCF (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/mEhA/data-on-kubernetes-day-hosted-by-cncf-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "FluentCon North America Hosted By CNCF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leZE/fluentcon-north-america-hosted-by-cncf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "GitOpsCon North America hosted by CNCF (Additional Fee + Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/leZX/gitopscon-north-america-hosted-by-cncf-additional-fee-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Governance as Code Day with Cloud Custodian hosted by Stacklet (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/nCo5/governance-as-code-day-with-cloud-custodian-hosted-by-stacklet-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Kubernetes AI Day North America Hosted by CNCF + LFAI \u0026 Data (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leZg/kubernetes-ai-day-north-america-hosted-by-cncf-lfai-data-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Kubernetes Platform Design hosted by VMware - SOLD OUT (Waitlist Available)",
+      "url": "https://kccncna2021.sched.com/event/muv7/kubernetes-platform-design-hosted-by-vmware-sold-out-waitlist-available?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "OpenShift Commons Gathering hosted by Red Hat (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/mINu/openshift-commons-gathering-hosted-by-red-hat-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "ServiceMeshCon North America Hosted by CNCF (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/leZm/servicemeshcon-north-america-hosted-by-cncf-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "KubeSec Enterprise vSummit 2021 hosted by Aqua Security (Additional Registration + Fee Required)",
+      "url": "https://kccncna2021.sched.com/event/lfHQ/kubesec-enterprise-vsummit-2021-hosted-by-aqua-security-additional-registration-fee-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "From Allies to Partners: A Foundational Toolkit for Inclusive Leadership",
+      "url": "https://kccncna2021.sched.com/event/o48f/from-allies-to-partners-a-foundational-toolkit-for-inclusive-leadership?iframe=no",
+      "Attachments": [
+        {
+          "name": "From Allies to Partners  A Foundational Toolkit for Inclusive Leadership YulkendyValdez OnDemand V1.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/13/From%20Allies%20to%20Partners_%20A%20Foundational%20Toolkit%20for%20Inclusive%20Leadership_YulkendyValdez_OnDemand_V1.pptx.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Flux",
+      "url": "https://kccncna2021.sched.com/event/nNS3/virtual-project-office-hours-flux?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: OpenEBS",
+      "url": "https://kccncna2021.sched.com/event/mtJO/virtual-project-office-hours-openebs?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Advanced Kubernetes: Learn How To Build Your Next App with Kube, Istio, and Advanced Services Like Watson hosted by IBM Cloud - SOLD OUT",
+      "url": "https://kccncna2021.sched.com/event/mx5L/advanced-kubernetes-learn-how-to-build-your-next-app-with-kube-istio-and-advanced-services-like-watson-hosted-by-ibm-cloud-sold-out?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Marketing Office Hours",
+      "url": "https://kccncna2021.sched.com/event/lgAC/marketing-office-hours?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Brigade",
+      "url": "https://kccncna2021.sched.com/event/mtJW/virtual-project-office-hours-brigade?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: CRI-O",
+      "url": "https://kccncna2021.sched.com/event/n0Ch/virtual-project-office-hours-cri-o?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Advanced Kubernetes Troubleshooting Made Simple with Open Source Tools hosted by Replicated (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/nCVe/advanced-kubernetes-troubleshooting-made-simple-with-open-source-tools-hosted-by-replicated-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: LitmusChaos",
+      "url": "https://kccncna2021.sched.com/event/mtJf/virtual-project-office-hours-litmuschaos?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: SPIFFE/SPIRE",
+      "url": "https://kccncna2021.sched.com/event/n0CC/virtual-project-office-hours-spiffespire?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Cloud Native Data Management Day hosted by Kasten by Veeam, MinIO, NetApp, Nutanix, Portworx, Scality, StorageOS, and VMware (REGISTRATION CLOSED))",
+      "url": "https://kccncna2021.sched.com/event/mvav/cloud-native-data-management-day-hosted-by-kasten-by-veeam-minio-netapp-nutanix-portworx-scality-storageos-and-vmware-registration-closed?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Instantly Debug your Kubernetes Clusters with Pixie hosted by New Relic (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/nCXj/instantly-debug-your-kubernetes-clusters-with-pixie-hosted-by-new-relic-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Falco",
+      "url": "https://kccncna2021.sched.com/event/nF4B/virtual-project-office-hours-falco?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Keylime",
+      "url": "https://kccncna2021.sched.com/event/n0NT/virtual-project-office-hours-keylime?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Quest for the Kubernetes Ring hosted by Replicated (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/n9tk/quest-for-the-kubernetes-ring-hosted-by-replicated-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Advanced Kubernetes: Learn How To Build Your Next App with Kube, Istio, and Advanced Services Like Watson hosted by IBM Cloud - SOLD OUT",
+      "url": "https://kccncna2021.sched.com/event/oAHv/advanced-kubernetes-learn-how-to-build-your-next-app-with-kube-istio-and-advanced-services-like-watson-hosted-by-ibm-cloud-sold-out?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Instantly Debug your Kubernetes Clusters with Pixie hosted by New Relic (Complimentary Registration Required)",
+      "url": "https://kccncna2021.sched.com/event/nCZd/instantly-debug-your-kubernetes-clusters-with-pixie-hosted-by-new-relic-complimentary-registration-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Antrea",
+      "url": "https://kccncna2021.sched.com/event/nBua/virtual-project-office-hours-antrea?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "cloudnative.tv Daily Recap",
+      "url": "https://kccncna2021.sched.com/event/n5qg/cloudnativetv-daily-recap?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Harbor",
+      "url": "https://kccncna2021.sched.com/event/nNaB/virtual-project-office-hours-harbor?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: KubeVela",
+      "url": "https://kccncna2021.sched.com/event/mwNC/virtual-project-office-hours-kubevela?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Registration + Vaccine Verification + Badge Pick-up",
+      "url": "https://kccncna2021.sched.com/event/ld4L/registration-vaccine-verification-badge-pick-up?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Building Your Brand with CNCF",
+      "url": "https://kccncna2021.sched.com/event/n5q5/building-your-brand-with-cncf?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Bug Bash, presented by CNCF + Sonatype",
+      "url": "https://kccncna2021.sched.com/event/nGDh/bug-bash-presented-by-cncf-sonatype?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Wednesday Keynote Sessions",
+      "url": "https://kccncna2021.sched.com/event/ocQM/wednesday-keynote-sessions?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Coffee Break",
+      "url": "https://kccncna2021.sched.com/event/lVB5/coffee-break?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Serverless Workflow Specification",
+      "url": "https://kccncna2021.sched.com/event/mtMa/virtual-project-office-hours-serverless-workflow-specification?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Submariner",
+      "url": "https://kccncna2021.sched.com/event/mtMd/virtual-project-office-hours-submariner?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Project Pavilion",
+      "url": "https://kccncna2021.sched.com/event/ofJD/project-pavilion?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Solutions Showcase",
+      "url": "https://kccncna2021.sched.com/event/lf6m/solutions-showcase?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Bug Bash Kick Off!",
+      "url": "https://kccncna2021.sched.com/event/ok5F/bug-bash-kick-off?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "How NOT to Start with Kubernetes - Christian Heckelmann, Dynatrace",
+      "url": "https://kccncna2021.sched.com/event/lV1Z/how-not-to-start-with-kubernetes-christian-heckelmann-dynatrace?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon 2021   How not to start with Kubernetes v2",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/d5/KubeCon%202021%20-%20How%20not%20to%20start%20with%20Kubernetes_v2.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Back to the Drawing Board: Building Containers with SBoMs - Nisha Kumar, VMware",
+      "url": "https://kccncna2021.sched.com/event/lUzg/back-to-the-drawing-board-building-containers-with-sboms-nisha-kumar-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "kubecon 2021",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c7/kubecon_2021.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Manage More Clusters with Less Hassle, with Argo CD Application Sets - Jonathan West, Red Hat \u0026 Kshama Jain, Independent Contributor",
+      "url": "https://kccncna2021.sched.com/event/lUzj/manage-more-clusters-with-less-hassle-with-argo-cd-application-sets-jonathan-west-red-hat-kshama-jain-independent-contributor?iframe=no",
+      "Attachments": [
+        {
+          "name": "Manage More Clusters with Less Hassle, with Argo CD Application Sets   Jonathan and Kshama",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/eb/Manage%20More%20Clusters%20with%20Less%20Hassle%2C%20with%20Argo%20CD%20Application%20Sets%20-%20Jonathan%20and%20Kshama.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Customizing Kustomize with Client-Side Custom Resources - Katrina Verey, Apple \u0026 Jeff Regan, Google",
+      "url": "https://kccncna2021.sched.com/event/lUzm/customizing-kustomize-with-client-side-custom-resources-katrina-verey-apple-jeff-regan-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "Customizing Kustomize   Verey:Regan",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/da/Customizing%20Kustomize%20-%20Verey%3ARegan.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Envoy Maintainer Q\u0026A - Lizan Zhou, Tetrate",
+      "url": "https://kccncna2021.sched.com/event/lV7T/envoy-maintainer-qa-lizan-zhou-tetrate?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Hardening the Kubernetes Software Supply Chain Through Better Transparency - Adolfo García Veytia, uServers; Verónica López González, Digital Ocean; Nabarun Pal, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV6P/hardening-the-kubernetes-software-supply-chain-through-better-transparency-adolfo-garcia-veytia-uservers-veronica-lopez-gonzalez-digital-ocean-nabarun-pal-vmware?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Helm: The Charts and the Curious - Karena Angell, Paul Czarkowski \u0026 Andrew Block, Red Hat; Scott Rigby, Weaveworks",
+      "url": "https://kccncna2021.sched.com/event/lV7H/helm-the-charts-and-the-curious-karena-angell-paul-czarkowski-andrew-block-red-hat-scott-rigby-weaveworks?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "What's New With SIG-Windows: HostProcess and Developer environments - Brandon Smith \u0026 Danny Canter, Microsoft; Jay Vyas, VMware; Friedrich Wilken, SAP Hybrid",
+      "url": "https://kccncna2021.sched.com/event/lV6S/whats-new-with-sig-windows-hostprocess-and-developer-environments-brandon-smith-danny-canter-microsoft-jay-vyas-vmware-friedrich-wilken-sap-hybrid?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 SIG Windows",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/07/KubeCon_NA_2021_SIG_Windows.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cloud Native and Kubernetes Observability Panel: The State of Union - Bartek Plotka, Red Hat; Liz Fong-Jones, Honeycomb; Josh Suereth, Google; Frederic Branczyk, Polar Signals; Rags Srinivas, InfoQ",
+      "url": "https://kccncna2021.sched.com/event/lV1N/cloud-native-and-kubernetes-observability-panel-the-state-of-union-bartek-plotka-red-hat-liz-fong-jones-honeycomb-josh-suereth-google-frederic-branczyk-polar-signals-rags-srinivas-infoq?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Case Study : Improving Resilience of Applications in Telco Environments - Uma Mukkara, ChaosNative \u0026 Samar Sidharth, Orange",
+      "url": "https://kccncna2021.sched.com/event/lV0e/case-study-improving-resilience-of-applications-in-telco-environments-uma-mukkara-chaosnative-samar-sidharth-orange?iframe=no",
+      "Attachments": [
+        {
+          "name": "UmaMukkara Session GitOpsCon2021.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/5b/UmaMukkara-Session-GitOpsCon2021.pptx.pdf"
+        },
+        {
+          "name": "Reslience telco KubeCon NA 2021.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/be/Reslience-telco-KubeCon_NA_2021.pptx.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Kubernetes Supply Chain Security: The Software Factory - Andrew Martin, Control Plane",
+      "url": "https://kccncna2021.sched.com/event/lUzv/kubernetes-supply-chain-security-the-software-factory-andrew-martin-control-plane?iframe=no",
+      "Attachments": [
+        {
+          "name": "ControlPlane   Kubernetes Supply Chain Security The Software Factory (KubeCon NA, October 2021)",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/1f/ControlPlane%20-%20Kubernetes%20Supply%20Chain%20Security%20The%20Software%20Factory%20%28KubeCon%20NA%2C%20October%202021%29.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "How to Improve Your Kubernetes Experience with Service Mesh and MLOps - Maksim Chudnovskii \u0026 Igor Gustomyasov, Sber",
+      "url": "https://kccncna2021.sched.com/event/lUzy/how-to-improve-your-kubernetes-experience-with-service-mesh-and-mlops-maksim-chudnovskii-igor-gustomyasov-sber?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 MaksimChudnovskii\u0026IgorGustomyasov",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/75/KubeCon_NA_2021_MaksimChudnovskii%26IgorGustomyasov.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Linkerd",
+      "url": "https://kccncna2021.sched.com/event/mtMj/virtual-project-office-hours-linkerd?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Tremor",
+      "url": "https://kccncna2021.sched.com/event/mtMg/virtual-project-office-hours-tremor?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "A Safari of Kubernetes and its Natural Habitat - Noah Abrahams, StormForge",
+      "url": "https://kccncna2021.sched.com/event/lV01/a-safari-of-kubernetes-and-its-natural-habitat-noah-abrahams-stormforge?iframe=no",
+      "Attachments": [
+        {
+          "name": "A Safari of Kubernetes",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/1a/A%20Safari%20of%20Kubernetes.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cloud-Agnostic Design for Fun and Profit - Alex Meijer \u0026 Anusha Iyer, Corsha, Inc.",
+      "url": "https://kccncna2021.sched.com/event/lV04/cloud-agnostic-design-for-fun-and-profit-alex-meijer-anusha-iyer-corsha-inc?iframe=no",
+      "Attachments": [
+        {
+          "name": "Corsha Kubecon 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/0f/Corsha_Kubecon_2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Microservices Made Easy! - Donovan Brown \u0026 Jessica Deen, Microsoft",
+      "url": "https://kccncna2021.sched.com/event/lV0q/microservices-made-easy-donovan-brown-jessica-deen-microsoft?iframe=no",
+      "Attachments": [
+        {
+          "name": "Dapr",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/6b/Dapr.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Capacity Scheduling for Elastic Resource Sharing in Kubernetes - Qingcan Wang, Alibaba \u0026 Yuan Chen, Apple",
+      "url": "https://kccncna2021.sched.com/event/lV0A/capacity-scheduling-for-elastic-resource-sharing-in-kubernetes-qingcan-wang-alibaba-yuan-chen-apple?iframe=no",
+      "Attachments": [
+        {
+          "name": "Elastic Quota KubeCon NA 2021 final",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/6d/Elastic_Quota_KubeCon_NA_2021_final.pdf"
+        },
+        {
+          "name": "Elastic Quota KubeCon NA 2021 revision",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/55/Elastic_Quota_KubeCon_NA_2021_revision.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cloud Native Storage: Storage TAG Intro, Projects, Landscape \u0026 Technology - Alex Chircop, StorageOS \u0026 Raffaele Spazzoli, RedHat",
+      "url": "https://kccncna2021.sched.com/event/lV6h/cloud-native-storage-storage-tag-intro-projects-landscape-technology-alex-chircop-storageos-raffaele-spazzoli-redhat?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021   TAG Storage Session",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/4e/KubeCon%20NA%202021%20-%20TAG%20Storage%20Session.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Policy Matters! The Why, What, and How of Kubernetes Policy Management - Jayashree Ramanathan, RedHat; Aradhna Chetal, TIAA; Jim Bugwadia, Nirmata; Robert Ficcaglia, SunStone Secure",
+      "url": "https://kccncna2021.sched.com/event/lV6b/policy-matters-the-why-what-and-how-of-kubernetes-policy-management-jayashree-ramanathan-redhat-aradhna-chetal-tiaa-jim-bugwadia-nirmata-robert-ficcaglia-sunstone-secure?iframe=no",
+      "Attachments": [
+        {
+          "name": "Policy WG KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/f1/Policy_WG_KubeCon_NA_2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "SIG-Multicluster Intro and Deep Dive - Paul Morie, Apple; Jeremy Olmsted-Thompson \u0026 Laura Lorenz, Google",
+      "url": "https://kccncna2021.sched.com/event/lV6k/sig-multicluster-intro-and-deep-dive-paul-morie-apple-jeremy-olmsted-thompson-laura-lorenz-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "SIG Multicluster Intro \u0026 Deep Dive KubeCon NA 2021 final",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/d4/SIG%20Multicluster%20Intro%20%26%20Deep%20Dive%20KubeCon%20NA%202021-final.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Roll Out the Red Carpet for Production Kubernetes Clusters with a Kube-vip - Dan Finneran, Equinix",
+      "url": "https://kccncna2021.sched.com/event/lUzp/roll-out-the-red-carpet-for-production-kubernetes-clusters-with-a-kube-vip-dan-finneran-equinix?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "sigstore: How We Started, Where We Are, Where We are Headed - Bob Callaway, Red Hat \u0026 Dan Lorenc, Google",
+      "url": "https://kccncna2021.sched.com/event/lV1r/sigstore-how-we-started-where-we-are-where-we-are-headed-bob-callaway-red-hat-dan-lorenc-google?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Disaster Recovery of Stateful Applications in a Multi-Cluster Environment - Orit Wasserman \u0026 Shyamsundar Ranganathan, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV0M/disaster-recovery-of-stateful-applications-in-a-multi-cluster-environment-orit-wasserman-shyamsundar-ranganathan-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "kubecon NA Oct 2021 Slides Disaster Recovery of Stateful Applications in a Multi Cluster Environment Orit Wasserman and Shyamsun",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/a6/kubecon-NA-Oct-2021-Slides-Disaster-Recovery-of-Stateful-Applications-in-a-Multi-Cluster-Environment-Orit-Wasserman-and-Shyamsundar-Ranganathan-Red-Hat.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: k8gb",
+      "url": "https://kccncna2021.sched.com/event/n08K/virtual-project-office-hours-k8gb?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: SchemaHero",
+      "url": "https://kccncna2021.sched.com/event/mtMp/virtual-project-office-hours-schemahero?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Lunch Break",
+      "url": "https://kccncna2021.sched.com/event/lVB8/lunch-break?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "CNCF Member-Only - Business Development + Partnerships Networking Event (separate RSVP required)",
+      "url": "https://kccncna2021.sched.com/event/lgA6/cncf-member-only-business-development-partnerships-networking-event-separate-rsvp-required?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Crossplane",
+      "url": "https://kccncna2021.sched.com/event/nBty/virtual-project-office-hours-crossplane?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Fluentd",
+      "url": "https://kccncna2021.sched.com/event/nNeF/virtual-project-office-hours-fluentd?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Kubernetes Project SIG Meet and Greet",
+      "url": "https://kccncna2021.sched.com/event/luKT/kubernetes-project-sig-meet-and-greet?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Movienight 101: How to Power a Video Streaming with Kubernetes and WebRTC - Rachel Sheikh, Twitter",
+      "url": "https://kccncna2021.sched.com/event/lV0n/movienight-101-how-to-power-a-video-streaming-with-kubernetes-and-webrtc-rachel-sheikh-twitter?iframe=no",
+      "Attachments": [
+        {
+          "name": "Movienight KubeCon(1)",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/66/Movienight%20KubeCon%281%29.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "The Control Loop As An Application Development Framework - Nick Santos, Tilt",
+      "url": "https://kccncna2021.sched.com/event/lV1E/the-control-loop-as-an-application-development-framework-nick-santos-tilt?iframe=no",
+      "Attachments": [
+        {
+          "name": "The Control Loop As An Application Development Framework",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c8/The%20Control%20Loop%20As%20An%20Application%20Development%20Framework.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "GitOps+Jenkins-CI With Declarative Everything - Kingdon Barrett, Weaveworks",
+      "url": "https://kccncna2021.sched.com/event/lV0V/gitopsjenkins-ci-with-declarative-everything-kingdon-barrett-weaveworks?iframe=no",
+      "Attachments": [
+        {
+          "name": "gitops jenkins kc2021 gitops jenkins",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/37/gitops-jenkins-kc2021-gitops-jenkins.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Kubernetes on Edge: Bringing Your Code to Constrained Places - Steven Wong, VMware; Dejan Bosanac, Red Hat; Kilton Hopkins, Edgeworx",
+      "url": "https://kccncna2021.sched.com/event/lV6q/kubernetes-on-edge-bringing-your-code-to-constrained-places-steven-wong-vmware-dejan-bosanac-red-hat-kilton-hopkins-edgeworx?iframe=no",
+      "Attachments": [
+        {
+          "name": "Kubernetes on Edge   Bringing Your Code to Constrained Places KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/28/Kubernetes%20on%20Edge%20-%20Bringing%20Your%20Code%20to%20Constrained%20Places%20KubeCon%20NA%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Overview and State of Linkerd - Oliver Gould, Buoyant",
+      "url": "https://kccncna2021.sched.com/event/lV6t/overview-and-state-of-linkerd-oliver-gould-buoyant?iframe=no",
+      "Attachments": [
+        {
+          "name": "Overview and State of Linkerd   Kubecon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/a1/Overview%20and%20State%20of%20Linkerd%20-%20Kubecon%20NA%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Rook: Intro and Ceph Deep Dive - Travis Nielsen, Sebastien Han \u0026 Blaine Gardner, Red Hat; Satoru Takeuchi, Cybozu, Inc",
+      "url": "https://kccncna2021.sched.com/event/lV6w/rook-intro-and-ceph-deep-dive-travis-nielsen-sebastien-han-blaine-gardner-red-hat-satoru-takeuchi-cybozu-inc?iframe=no",
+      "Attachments": [
+        {
+          "name": "Slides with notes",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/94/Slides-with-notes.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "TAG Observability Update - Matt Young, Everquote \u0026 Alolita Sharma, Amazon",
+      "url": "https://kccncna2021.sched.com/event/lV6n/tag-observability-update-matt-young-everquote-alolita-sharma-amazon?iframe=no",
+      "Attachments": [
+        {
+          "name": "(recorded version) KubeCon NA 2021  CNCF TAG Observability Updates",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/f1/%28recorded%20version%29%20KubeCon%20NA%202021_%20CNCF%20TAG%20Observability%20Updates.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "K8snetlook – Root-Causing K8s Network Problems in an Automated Way - Arun Sriraman, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV0b/k8snetlook-root-causing-k8s-network-problems-in-an-automated-way-arun-sriraman-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "KCCNC NA 2021   K8snetlook",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/34/KCCNC-NA%202021%20-%20K8snetlook.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "What Kind of CPU is it Anyways? Airbnb's Journey to Heterogeneous Clusters - David Morrison \u0026 Evan Sheng, Airbnb",
+      "url": "https://kccncna2021.sched.com/event/lUzs/what-kind-of-cpu-is-it-anyways-airbnbs-journey-to-heterogeneous-clusters-david-morrison-evan-sheng-airbnb?iframe=no",
+      "Attachments": [
+        {
+          "name": "What kind of CPU is it anyways (1)",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/33/What%20kind%20of%20CPU%20is%20it%20anyways%20%281%29.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Kubernetes Exposed! Seven of Nine Hidden Secrets That Will Give You Pause - Ian Coldwater, Twilio \u0026 Brad Geesaman, Aqua Security",
+      "url": "https://kccncna2021.sched.com/event/lV0h/kubernetes-exposed-seven-of-nine-hidden-secrets-that-will-give-you-pause-ian-coldwater-twilio-brad-geesaman-aqua-security?iframe=no",
+      "Attachments": [
+        {
+          "name": "Kubernetes Exposed KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/be/Kubernetes%20Exposed%20KubeCon%20NA%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "RabbitMQ on Kubernetes Deep Dive - David Ansari, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV0k/rabbitmq-on-kubernetes-deep-dive-david-ansari-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeConNA2021RabbitMQOnK8sDeepDive",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ea/KubeConNA2021RabbitMQOnK8sDeepDive.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Meshery",
+      "url": "https://kccncna2021.sched.com/event/oXxd/virtual-project-office-hours-meshery?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Porter",
+      "url": "https://kccncna2021.sched.com/event/n0No/virtual-project-office-hours-porter?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Who Killed My Pod? #Whodunit - Suneeta Mall, Nearmap",
+      "url": "https://kccncna2021.sched.com/event/lV0P/who-killed-my-pod-whodunit-suneeta-mall-nearmap?iframe=no",
+      "Attachments": [
+        {
+          "name": "SuneetaMall WhoKilledMyPod KubeConNA 2021",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/79/SuneetaMall_WhoKilledMyPod_KubeConNA_2021.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Panel Discussion: OpenGitOps and the GitOps Working Group - Cornelia Davis, Amazon; Dan Garfield, Codefresh; Christian Hernandez, Red Hat; Chris Sanders, Microsoft; Leonardo Murillo, Weaveworks",
+      "url": "https://kccncna2021.sched.com/event/lV0t/panel-discussion-opengitops-and-the-gitops-working-group-cornelia-davis-amazon-dan-garfield-codefresh-christian-hernandez-red-hat-chris-sanders-microsoft-leonardo-murillo-weaveworks?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Shh, It’s a Secret: Managing Your Secrets in a GitOps Way - Jake Wernette \u0026 Josh Kayani, IBM",
+      "url": "https://kccncna2021.sched.com/event/lV07/shh-its-a-secret-managing-your-secrets-in-a-gitops-way-jake-wernette-josh-kayani-ibm?iframe=no",
+      "Attachments": [
+        {
+          "name": "AVP KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/a4/AVP_KubeCon_NA_2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cloud Native Apps with Server-Side WebAssembly - Liam Randall, Cosmonic",
+      "url": "https://kccncna2021.sched.com/event/lV1i/cloud-native-apps-with-server-side-webassembly-liam-randall-cosmonic?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Creating Cloud Native Security - Emily Fox, Apple; Brandon Lum, IBM; Andres Vega, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV78/creating-cloud-native-security-emily-fox-apple-brandon-lum-ibm-andres-vega-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 (1)",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/a6/KubeCon_NA_2021%20%281%29.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Deep Dive CoreDNS - Yong Tang, Ivanti Inc.; Miek Gieben, Independent; John Belamaric, Google",
+      "url": "https://kccncna2021.sched.com/event/lV75/deep-dive-coredns-yong-tang-ivanti-inc-miek-gieben-independent-john-belamaric-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon   Los Angeles.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/0a/KubeCon%20-%20Los%20Angeles.pptx.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "SIG Instrumentation Introduction and Deep Dive - Han Kang \u0026 David Ashpole, Google; Elana Hashman, Red Hat; Frederic Branczyk, Polar Signals",
+      "url": "https://kccncna2021.sched.com/event/lV72/sig-instrumentation-introduction-and-deep-dive-han-kang-david-ashpole-google-elana-hashman-red-hat-frederic-branczyk-polar-signals?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021   SIG Instrumentation",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/49/KubeCon%20NA%202021%20-%20SIG%20Instrumentation.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "The Future of Multi-Tenancy in Kubernetes - Tasha Drew, VMware; Adrian Ludwin, Google; Fei Guo, Alibaba; Jim Bugwadia, Nirmata",
+      "url": "https://kccncna2021.sched.com/event/lV6z/the-future-of-multi-tenancy-in-kubernetes-tasha-drew-vmware-adrian-ludwin-google-fei-guo-alibaba-jim-bugwadia-nirmata?iframe=no",
+      "Attachments": [
+        {
+          "name": "Multitenancy WG KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/a3/Multitenancy_WG_KubeCon_NA_2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "OpenTelemetry Collector Deployment Patterns - Juraci Paixão Kröhling, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV0z/opentelemetry-collector-deployment-patterns-juraci-paixao-krohling-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021   OpenTelemetry Collector Deployment Patterns",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/53/KubeCon%20NA%202021%20-%20OpenTelemetry%20Collector%20Deployment%20Patterns.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Trimaran: Real Load Aware Scheduling in Kubernetes - Abdul Qadeer, PayPal \u0026 Chen Wang, IBM",
+      "url": "https://kccncna2021.sched.com/event/lV12/trimaran-real-load-aware-scheduling-in-kubernetes-abdul-qadeer-paypal-chen-wang-ibm?iframe=no",
+      "Attachments": [
+        {
+          "name": "Trimaran Kubecon NA 2021",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/e3/Trimaran-Kubecon-NA-2021.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Exploiting a Slightly Peculiar Volume Configuration with SIG-Honk - Ian Coldwater, Twilio; Brad Geesaman \u0026 Rory McCune, Aqua Security; Duffie Cooley, Isovalent",
+      "url": "https://kccncna2021.sched.com/event/lV0J/exploiting-a-slightly-peculiar-volume-configuration-with-sig-honk-ian-coldwater-twilio-brad-geesaman-rory-mccune-aqua-security-duffie-cooley-isovalent?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "What You Need to Know Before Using Local Persistent Volumes - Sebastien Guilloux, Elastic",
+      "url": "https://kccncna2021.sched.com/event/lV18/what-you-need-to-know-before-using-local-persistent-volumes-sebastien-guilloux-elastic?iframe=no",
+      "Attachments": [
+        {
+          "name": "What you need to know before using Local PersistentVolumes   Kubecon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c5/What%20you%20need%20to%20know%20before%20using%20Local%20PersistentVolumes%20-%20Kubecon%20NA%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Open Policy Agent",
+      "url": "https://kccncna2021.sched.com/event/nBuV/virtual-project-office-hours-open-policy-agent?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Pixie",
+      "url": "https://kccncna2021.sched.com/event/nBuh/virtual-project-office-hours-pixie?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Coffee Break",
+      "url": "https://kccncna2021.sched.com/event/lVBC/coffee-break?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "EmpowerUs, sponsored by Chronosphere",
+      "url": "https://kccncna2021.sched.com/event/lfG6/empowerus-sponsored-by-chronosphere?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Implementation Challenges: From HPC to Containers in the Academy - Lukáš Hejtmánek \u0026 Viktória Spišaková, Masaryk University",
+      "url": "https://kccncna2021.sched.com/event/lV1B/implementation-challenges-from-hpc-to-containers-in-the-academy-lukas-hejtmanek-viktoria-spisakova-masaryk-university?iframe=no",
+      "Attachments": [
+        {
+          "name": "kubecon 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/1f/kubecon_2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Automated, Distributed Systems Testing for Kubernetes Controllers - Lalith Suresh, VMware \u0026 Xudong Sun, University of Illinois at Urbana-Champaign",
+      "url": "https://kccncna2021.sched.com/event/lV0S/automated-distributed-systems-testing-for-kubernetes-controllers-lalith-suresh-vmware-xudong-sun-university-of-illinois-at-urbana-champaign?iframe=no",
+      "Attachments": [
+        {
+          "name": "sieve lalith xudong",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c0/sieve_lalith_xudong.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "SIG Events: Using CloudEvents to Create an Interoperable CI/CD Ecosystem - Andrea Frittoli, IBM",
+      "url": "https://kccncna2021.sched.com/event/lV1H/sig-events-using-cloudevents-to-create-an-interoperable-cicd-ecosystem-andrea-frittoli-ibm?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Container Checkpoint/Restore at Scale for Fast Pod Startup Time - Ritesh Naik, MathWorks",
+      "url": "https://kccncna2021.sched.com/event/lV0Y/container-checkpointrestore-at-scale-for-fast-pod-startup-time-ritesh-naik-mathworks?iframe=no",
+      "Attachments": [
+        {
+          "name": "Container CheckpointRestore at Scale for Fast Pod Startup Time RiteshNaik 101321 v1",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/8c/Container_CheckpointRestore_at%20Scale_for_Fast_Pod_Startup_Time_RiteshNaik_101321_v1.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cloud Provider Extraction: What We’ve Done, Where We Are and What's Left! - Walter Fender, Google; Steven Wong, VMware; Nick Turner, Amazon",
+      "url": "https://kccncna2021.sched.com/event/lV7E/cloud-provider-extraction-what-weve-done-where-we-are-and-whats-left-walter-fender-google-steven-wong-vmware-nick-turner-amazon?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 Cloud Provider SIG rev4",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/a4/KubeCon%20NA%202021%20Cloud%20Provider%20SIG%20rev4.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "containerd Introduction and Deep Dive - Phil Estes, Amazon; Maksym Pavlenko \u0026 Derek McGowan, Apple; Mike Brown, IBM",
+      "url": "https://kccncna2021.sched.com/event/lV6Y/containerd-introduction-and-deep-dive-phil-estes-amazon-maksym-pavlenko-derek-mcgowan-apple-mike-brown-ibm?iframe=no",
+      "Attachments": [
+        {
+          "name": "containerd intro deep dive slides",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/53/containerd-intro-deep-dive-slides.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "SIG-NETWORK: Updates and Directions - Tim Hockin \u0026 Bowei Du, Google",
+      "url": "https://kccncna2021.sched.com/event/lV7K/sig-network-updates-and-directions-tim-hockin-bowei-du-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "[PUBLIC] KubeCon NA 2021  SIG NETWORK update and directions",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ea/%5BPUBLIC%5D%20KubeCon_NA_2021_%20SIG-NETWORK%20update%20and%20directions.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Why is Anyone Using Kubernetes Anyway? - Tasha Drew \u0026 Josephene Pynadath, VMware; Gaby Moreno Cesar, IBM; Carl J Pearson, UserZoom",
+      "url": "https://kccncna2021.sched.com/event/lV7B/why-is-anyone-using-kubernetes-anyway-tasha-drew-josephene-pynadath-vmware-gaby-moreno-cesar-ibm-carl-j-pearson-userzoom?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Observe with Rust: OpenTelemetry and Tremor - Gary White Jr., Wayfair",
+      "url": "https://kccncna2021.sched.com/event/lV1l/observe-with-rust-opentelemetry-and-tremor-gary-white-jr-wayfair?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Using SLOs for Continuous Performance Optimizations of Your K8s Workloads - Andreas Grabner, Dynatrace",
+      "url": "https://kccncna2021.sched.com/event/lV1Q/using-slos-for-continuous-performance-optimizations-of-your-k8s-workloads-andreas-grabner-dynatrace?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon2021 UsingSLOs for ContPerformanceOptimization",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/d2/KubeCon2021_UsingSLOs_for_ContPerformanceOptimization.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "My Container Image has 500 Vulnerabilities, Now What? - Matt Jarvis, Snyk",
+      "url": "https://kccncna2021.sched.com/event/lV1T/my-container-image-has-500-vulnerabilities-now-what-matt-jarvis-snyk?iframe=no",
+      "Attachments": [
+        {
+          "name": "My container image has 500 vulns now what",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/e5/My_container_image_has_500_vulns_now_what.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Storage and Networking: Rook on Multus - Sébastien Han \u0026 Rohan Gupta, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV1W/storage-and-networking-rook-on-multus-sebastien-han-rohan-gupta-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "Storage and networking Rook Ceph on Multus SebastienHan RohanGupta 101321 v1",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/0f/Storage_and_networking_Rook-Ceph_on_Multus_SebastienHan_RohanGupta_101321_v1.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Flux",
+      "url": "https://kccncna2021.sched.com/event/mtJR/virtual-project-office-hours-flux?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Unraveling the Mystery of Versioning CRDs - Harsh Thakur, Civo",
+      "url": "https://kccncna2021.sched.com/event/lUzd/unraveling-the-mystery-of-versioning-crds-harsh-thakur-civo?iframe=no",
+      "Attachments": [
+        {
+          "name": "CRD versioning",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/fc/CRD%20versioning.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Shifting Spotify Engineering from Spreadsheets to Backstage - Johan Haals \u0026 Patrik Oldsberg, Spotify",
+      "url": "https://kccncna2021.sched.com/event/lV1c/shifting-spotify-engineering-from-spreadsheets-to-backstage-johan-haals-patrik-oldsberg-spotify?iframe=no",
+      "Attachments": [
+        {
+          "name": "Backstage Kubecon   Shifting Spotify engineering",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/4c/Backstage%20Kubecon%20-%20Shifting%20Spotify%20engineering.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Putting Into Practice the Skills You've Learned Contributing to Kubernetes - Kiran Oliver, Camunda",
+      "url": "https://kccncna2021.sched.com/event/lV1f/putting-into-practice-the-skills-youve-learned-contributing-to-kubernetes-kiran-oliver-camunda?iframe=no",
+      "Attachments": [
+        {
+          "name": "Putting Into Practice the Skills You’ve Learned Contributing to Kubernetes",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ff/Putting%20Into%20Practice%20the%20Skills%20You%E2%80%99ve%20Learned%20Contributing%20to%20Kubernetes%20.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "McK8s: Container Orchestration in Kubernetes Multi-Clusters - Mulugeta Ayalew Tamiru, University of Rennes 1 / Elastisys AB",
+      "url": "https://kccncna2021.sched.com/event/lV0w/mck8s-container-orchestration-in-kubernetes-multi-clusters-mulugeta-ayalew-tamiru-university-of-rennes-1-elastisys-ab?iframe=no",
+      "Attachments": [
+        {
+          "name": "McK8S MulugetaAyalewTamiru KubeCon CloudNativeCon 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/f2/McK8S-MulugetaAyalewTamiru-KubeCon-CloudNativeCon-2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Building Catalogs of Operators for OLM the Declarative Way - Joe Lanford \u0026 Anik Bhattacharjee, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV7W/building-catalogs-of-operators-for-olm-the-declarative-way-joe-lanford-anik-bhattacharjee-red-hat?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Kubernetes Data Protection WG Intro \u0026 Deep Dive - Xiangqian Yu, Google",
+      "url": "https://kccncna2021.sched.com/event/lV6V/kubernetes-data-protection-wg-intro-deep-dive-xiangqian-yu-google?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Kubernetes SIG Docs: A Deep Dive - Jim Angel, Google; Chris Metz, Independent; Brad Topol, IBM",
+      "url": "https://kccncna2021.sched.com/event/lV7N/kubernetes-sig-docs-a-deep-dive-jim-angel-google-chris-metz-independent-brad-topol-ibm?iframe=no",
+      "Attachments": [
+        {
+          "name": "kubecon 2021 SIG Docs Deep Dive Final",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c2/kubecon-2021-SIG-Docs-Deep-Dive-Final.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Security Through Transparency: Kubernetes SIG Security Update - Ian Coldwater, Twilio; Savitha Raghunathan, Red Hat; Rey Lejano, SUSE; Pushkar Joglekar, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV7Q/security-through-transparency-kubernetes-sig-security-update-ian-coldwater-twilio-savitha-raghunathan-red-hat-rey-lejano-suse-pushkar-joglekar-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "Security Through Transparency KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/23/Security_Through_Transparency_KubeCon_NA_2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Building a Multi Cluster/Env Service Mesh at Airbnb - Weibo He \u0026 Stephen Chan, Airbnb",
+      "url": "https://kccncna2021.sched.com/event/lV0D/building-a-multi-clusterenv-service-mesh-at-airbnb-weibo-he-stephen-chan-airbnb?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon + CloudNativeCon 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/7a/KubeCon%20%2B%20CloudNativeCon%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Effortless Profiling on Kubernetes - Eden Federman, Verizon",
+      "url": "https://kccncna2021.sched.com/event/lV1o/effortless-profiling-on-kubernetes-eden-federman-verizon?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon 2021 Effortless Profiling",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/98/KubeCon%202021%20Effortless%20Profiling.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Postgres Extensions in Kubernetes - Álvaro Hernández, OnGres",
+      "url": "https://kccncna2021.sched.com/event/lV1u/postgres-extensions-in-kubernetes-alvaro-hernandez-ongres?iframe=no",
+      "Attachments": [
+        {
+          "name": "Postgres Extensions in Kubernetes",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/a5/Postgres_Extensions_in_Kubernetes.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Harbor",
+      "url": "https://kccncna2021.sched.com/event/nNZ9/virtual-project-office-hours-harbor?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "cloudnative.tv Daily Recap",
+      "url": "https://kccncna2021.sched.com/event/n5qj/cloudnativetv-daily-recap?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Game Night Sponsored by Kasten by Veeam and Humio",
+      "url": "https://kccncna2021.sched.com/event/la50/virtual-game-night-sponsored-by-kasten-by-veeam-and-humio?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Welcome Reception + Booth Crawl",
+      "url": "https://kccncna2021.sched.com/event/lf5o/welcome-reception-booth-crawl?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Chaos Mesh",
+      "url": "https://kccncna2021.sched.com/event/mtMy/virtual-project-office-hours-chaos-mesh?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: TiKV",
+      "url": "https://kccncna2021.sched.com/event/mtMs/virtual-project-office-hours-tikv?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "The New Stack Pancake Breakfast: New security workflows for GitOps and Security as Code",
+      "url": "https://kccncna2021.sched.com/event/lfC0/the-new-stack-pancake-breakfast-new-security-workflows-for-gitops-and-security-as-code?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Continental Breakfast",
+      "url": "https://kccncna2021.sched.com/event/p4Vv/continental-breakfast?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Registration + Vaccine Verification + Badge Pick-up",
+      "url": "https://kccncna2021.sched.com/event/lf7g/registration-vaccine-verification-badge-pick-up?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Thursday Keynote Sessions",
+      "url": "https://kccncna2021.sched.com/event/ocRT/thursday-keynote-sessions?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Coffee Break",
+      "url": "https://kccncna2021.sched.com/event/lVBE/coffee-break?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Keptn",
+      "url": "https://kccncna2021.sched.com/event/mtN1/virtual-project-office-hours-keptn?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Service Mesh Interface (SMI)",
+      "url": "https://kccncna2021.sched.com/event/mtN0/virtual-project-office-hours-service-mesh-interface-smi?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Marketing Office Hours",
+      "url": "https://kccncna2021.sched.com/event/lgAF/marketing-office-hours?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Project Pavilion",
+      "url": "https://kccncna2021.sched.com/event/ofJk/project-pavilion?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Solutions Showcase",
+      "url": "https://kccncna2021.sched.com/event/lf3L/solutions-showcase?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Improving Dev Experience: How We Built a Cloud Native Dev Stack At Scale - Srinidhi S \u0026 Venkatesan Vaidyanathan, Razorpay",
+      "url": "https://kccncna2021.sched.com/event/lV20/improving-dev-experience-how-we-built-a-cloud-native-dev-stack-at-scale-srinidhi-s-venkatesan-vaidyanathan-razorpay?iframe=no",
+      "Attachments": [
+        {
+          "name": "Improving Developer Experience Srinidhi VV 10142021 v1",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/38/Improving_Developer_Experience_Srinidhi_VV_10142021_v1.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Regulations, Ethics And Messy Data: Tales From An Open Source Analyst - Sophia Vargas, Google",
+      "url": "https://kccncna2021.sched.com/event/lV23/regulations-ethics-and-messy-data-tales-from-an-open-source-analyst-sophia-vargas-google?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Beyond Namespaces: Virtual Clusters are the Future of Multi-Tenancy - Lukas Gentele, Loft Labs",
+      "url": "https://kccncna2021.sched.com/event/lV26/beyond-namespaces-virtual-clusters-are-the-future-of-multi-tenancy-lukas-gentele-loft-labs?iframe=no",
+      "Attachments": [
+        {
+          "name": "Beyond Namespaces  Virtual Clusters are the Future of Multi Tenancy   Lukas Gentele, Loft Labs",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/2e/Beyond%20Namespaces_%20Virtual%20Clusters%20are%20the%20Future%20of%20Multi-Tenancy%20-%20Lukas%20Gentele%2C%20Loft%20Labs.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "gRPC Proxyless Service Mesh with Security - Sanjay M Pujare, Google",
+      "url": "https://kccncna2021.sched.com/event/lV7i/grpc-proxyless-service-mesh-with-security-sanjay-m-pujare-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "gRPC Proxyless Service Mesh with Security",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/3a/gRPC%20Proxyless%20Service%20Mesh%20with%20Security.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Kubernetes VMware User Group: Using GPUs with K8s on vSphere - Steven Wong \u0026 Myles Gray, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV8U/kubernetes-vmware-user-group-using-gpus-with-k8s-on-vsphere-steven-wong-myles-gray-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "Kubernetes VMware User Group Using GPUs with K8s on vSphere KUBECON NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/25/Kubernetes%20VMware%20User%20Group-Using%20GPUs%20with%20K8s%20on%20vSphere%20KUBECON%20NA%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Turn Contributors into Maintainers with TAG Contributor Strategy - Josh Berkus, Red Hat \u0026 Catherine Paganini, Bouyant",
+      "url": "https://kccncna2021.sched.com/event/lV7Z/turn-contributors-into-maintainers-with-tag-contributor-strategy-josh-berkus-red-hat-catherine-paganini-bouyant?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon Contributor Strategy TAG",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/15/KubeCon_Contributor%20Strategy%20TAG.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "What's New in CRI-O? - Mrunal Patel, Urvashi Mohnani, Sascha Grunert \u0026 Peter Hunt, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV7f/whats-new-in-cri-o-mrunal-patel-urvashi-mohnani-sascha-grunert-peter-hunt-red-hat?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Stream vs. Batch: Leveraging M3 and Thanos for Real-Time Aggregation - Gibbs Cullen, Chronosphere",
+      "url": "https://kccncna2021.sched.com/event/lV29/stream-vs-batch-leveraging-m3-and-thanos-for-real-time-aggregation-gibbs-cullen-chronosphere?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA '21   Stream vs batch (Gibbs Cullen)",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/9f/KubeCon%20NA%20%2721%20-%20Stream%20vs%20batch%20%28Gibbs%20Cullen%29.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Fine-Grained User Authorization for Kubernetes with OPA and LDAP - Cagri Cetin \u0026 Quentin Long, Yelp Inc.",
+      "url": "https://kccncna2021.sched.com/event/lV2F/fine-grained-user-authorization-for-kubernetes-with-opa-and-ldap-cagri-cetin-quentin-long-yelp-inc?iframe=no",
+      "Attachments": [
+        {
+          "name": "[Kubecon 2021] Kubernetes AuthNZ with Okta and OPA at Yelp",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/cb/%5BKubecon%202021%5D%20Kubernetes%20AuthNZ%20with%20Okta%20and%20OPA%20at%20Yelp.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Insights into Unsecured Kubernetes in the Wild - Jay Chen \u0026 Aviv Sasson, Palo Alto Networks",
+      "url": "https://kccncna2021.sched.com/event/lV4u/insights-into-unsecured-kubernetes-in-the-wild-jay-chen-aviv-sasson-palo-alto-networks?iframe=no",
+      "Attachments": [
+        {
+          "name": "Insights into Unsecured Kubernetes in the Wild (1)",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/67/Insights%20into%20Unsecured%20Kubernetes%20in%20the%20Wild%20%281%29.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Know Your Enemy: Mapping Security Risks Using Threat Matrix for Kubernetes - Yossi Weizman \u0026 Ram Pliskin, Microsoft",
+      "url": "https://kccncna2021.sched.com/event/lV3M/know-your-enemy-mapping-security-risks-using-threat-matrix-for-kubernetes-yossi-weizman-ram-pliskin-microsoft?iframe=no",
+      "Attachments": [
+        {
+          "name": "Know Your Enemy Mapping Security Risks Using Threat Matrix for Kubernetes Yossi Weizman Ram Pliskin 101421 V1",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/67/Know_Your_Enemy_Mapping_Security_Risks_Using_Threat_Matrix_for_Kubernetes_Yossi_Weizman_Ram_Pliskin_101421_V1.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Large-Scale Practice of Persistent Memory in Alibaba Cloud - Junbao Kan, Alibaba",
+      "url": "https://kccncna2021.sched.com/event/lV2I/large-scale-practice-of-persistent-memory-in-alibaba-cloud-junbao-kan-alibaba?iframe=no",
+      "Attachments": [
+        {
+          "name": "Large Scale Practice of Persistent Memory In Alibaba",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/3e/Large-Scale%20Practice%20of%20Persistent%20Memory%20In%20Alibaba.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Admiral Bash's Island Adventure with Phippy + Friends | A Book Reading",
+      "url": "https://kccncna2021.sched.com/event/n5ob/admiral-bashs-island-adventure-with-phippy-friends-a-book-reading?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Flux",
+      "url": "https://kccncna2021.sched.com/event/mwOi/virtual-project-office-hours-flux?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Linkerd",
+      "url": "https://kccncna2021.sched.com/event/mtN4/virtual-project-office-hours-linkerd?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "How to put a Database in Kubernetes - Jeffrey Carpenter, DataStax",
+      "url": "https://kccncna2021.sched.com/event/lV3V/how-to-put-a-database-in-kubernetes-jeffrey-carpenter-datastax?iframe=no",
+      "Attachments": [
+        {
+          "name": "Kubecon How To Put a Database in K8s (1)",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/6f/Kubecon%20How%20To%20Put%20a%20Database%20in%20K8s%20%281%29.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "A Safer Curl | Bash for the Cloud - Carolyn Van Slyck, Microsoft",
+      "url": "https://kccncna2021.sched.com/event/lV2O/a-safer-curl-bash-for-the-cloud-carolyn-van-slyck-microsoft?iframe=no",
+      "Attachments": [
+        {
+          "name": "slides",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/33/slides.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "A Vulnerable Tale About Burnout - Julia Simon, CloudOps",
+      "url": "https://kccncna2021.sched.com/event/lV2R/a-vulnerable-tale-about-burnout-julia-simon-cloudops?iframe=no",
+      "Attachments": [
+        {
+          "name": "Julia Simon   A Vulnerable Tale About Burnout   KubeCon \u0026 CloudNativeCon 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/d5/Julia%20Simon%20-%20A%20Vulnerable%20Tale%20About%20Burnout%20-%20KubeCon%20%26%20CloudNativeCon%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "AIoT Ops - Using Kubernetes and ML Ops to Build Edge ML Applications - Asheesh Goja, Cisco",
+      "url": "https://kccncna2021.sched.com/event/lV3G/aiot-ops-using-kubernetes-and-ml-ops-to-build-edge-ml-applications-asheesh-goja-cisco?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon 2021 AIoT",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/2d/KubeCon_2021_AIoT.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Flux's Roadmap to General Availability - Hidde Beydals \u0026 Michael Bridgen, Weaveworks",
+      "url": "https://kccncna2021.sched.com/event/lV7o/fluxs-roadmap-to-general-availability-hidde-beydals-michael-bridgen-weaveworks?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 flux",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/22/KubeCon_NA_2021_flux.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Harbor - Enterprise Cloud Native Artifact Registry - Alex Xu, Wang Yan, Steven Zou, Deng Qian \u0026 Ziming Zhang, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV7u/harbor-enterprise-cloud-native-artifact-registry-alex-xu-wang-yan-steven-zou-deng-qian-ziming-zhang-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 Harbor v3",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/8e/KubeCon_NA_2021_Harbor_v3.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Introduction and Deep-Dive into TAG Delivery - Jennifer Strejevitch, VMware \u0026 Alois Reitbauer, Dynatrace",
+      "url": "https://kccncna2021.sched.com/event/lV7r/introduction-and-deep-dive-into-tag-delivery-jennifer-strejevitch-vmware-alois-reitbauer-dynatrace?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "OpenMetrics Update - Richard Hartmann, Grafana Labs",
+      "url": "https://kccncna2021.sched.com/event/mNuR/openmetrics-update-richard-hartmann-grafana-labs?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Argo and Tekton: Pushing the Boundaries of the Possible on Kubernetes - Alex Collins, Intuit \u0026 Jason Hall, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV3h/argo-and-tekton-pushing-the-boundaries-of-the-possible-on-kubernetes-alex-collins-intuit-jason-hall-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "Argo and Tekton  Pushing the Boundaries.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/d5/Argo%20and%20Tekton_%20Pushing%20the%20Boundaries.pptx.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Faster Container Image Distribution on a Variety of Tools with Lazy Pulling - Kohei Tokunaga, NTT Corporation \u0026 Tao Peng, Ant Financial",
+      "url": "https://kccncna2021.sched.com/event/lV2a/faster-container-image-distribution-on-a-variety-of-tools-with-lazy-pulling-kohei-tokunaga-ntt-corporation-tao-peng-ant-financial?iframe=no",
+      "Attachments": [
+        {
+          "name": "slides",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/1f/slides.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Real-Time Data Anonymization the Serverless Way - Yuval Lifshitz \u0026 Huamin Chen, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV3P/real-time-data-anonymization-the-serverless-way-yuval-lifshitz-huamin-chen-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "Real Time Data Anonymization the Serverless Way   Yuval Lifshitz  Huamin Chen",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ba/Real-Time%20Data%20Anonymization%20the%20Serverless%20Way%20-%20Yuval%20Lifshitz%20_Huamin%20Chen.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Panel Discussion: Cloud Native Computing Foundation Mentees - Kunal Kushwaha, Civo; Ihor Dvoretskyi, Cloud Native Computing Foundation; Divya Mohan, HSBC; Uchechukwu Obasi, Grafana Labs",
+      "url": "https://kccncna2021.sched.com/event/lV2g/panel-discussion-cloud-native-computing-foundation-mentees-kunal-kushwaha-civo-ihor-dvoretskyi-cloud-native-computing-foundation-divya-mohan-hsbc-uchechukwu-obasi-grafana-labs?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Admiral Bash's Island Adventure | A Book Signing",
+      "url": "https://kccncna2021.sched.com/event/o8ow/admiral-bashs-island-adventure-a-book-signing?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Pravega",
+      "url": "https://kccncna2021.sched.com/event/n0Nd/virtual-project-office-hours-pravega?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: WasmEdge Runtime",
+      "url": "https://kccncna2021.sched.com/event/mtN7/virtual-project-office-hours-wasmedge-runtime?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Lunch Break",
+      "url": "https://kccncna2021.sched.com/event/lVBH/lunch-break?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Diversity + Inclusion Workshop and Lunch, sponsored by Trend Micro",
+      "url": "https://kccncna2021.sched.com/event/lfHw/diversity-inclusion-workshop-and-lunch-sponsored-by-trend-micro?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Buildpacks",
+      "url": "https://kccncna2021.sched.com/event/n0Nj/virtual-project-office-hours-buildpacks?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Contour",
+      "url": "https://kccncna2021.sched.com/event/mtNF/virtual-project-office-hours-contour?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Maintainer's Circle",
+      "url": "https://kccncna2021.sched.com/event/n60I/maintainers-circle?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "A Tall Tale of GitOps - Prasanjit Singh, Starzplay",
+      "url": "https://kccncna2021.sched.com/event/lV2j/a-tall-tale-of-gitops-prasanjit-singh-starzplay?iframe=no",
+      "Attachments": [
+        {
+          "name": "A Tall Tale of GitOps",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c7/A_Tall_Tale_of_GitOps.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Getting Involved in the K8s Release Shadow Program - Divya Mohan, HSBC",
+      "url": "https://kccncna2021.sched.com/event/lV3q/getting-involved-in-the-k8s-release-shadow-program-divya-mohan-hsbc?iframe=no",
+      "Attachments": [
+        {
+          "name": "Getting involved in the K8s Release Shadow program",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/56/Getting%20involved%20in%20the%20K8s%20Release%20Shadow%20program.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Taking Your Database Beyond the Border of a Single Kubernetes Cluster - Christopher Bradford, DataStax \u0026 Ty Morton, Google",
+      "url": "https://kccncna2021.sched.com/event/lV2m/taking-your-database-beyond-the-border-of-a-single-kubernetes-cluster-christopher-bradford-datastax-ty-morton-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "KUBECON NAM 2021   Taking your database beyond the border of a single Kubernetes cluster",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/02/KUBECON%20NAM%202021%20-%20Taking%20your%20database%20beyond%20the%20border%20of%20a%20single%20Kubernetes%20cluster.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Measuring the Health of Your CNCF Project: Going Beyond Stars and Forks - Dawn Foster, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV2p/measuring-the-health-of-your-cncf-project-going-beyond-stars-and-forks-dawn-foster-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "Measuring Health CNCF Project",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/cc/Measuring_Health_CNCF_Project.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Serving Machine Learning Models at Scale Using KServe - Animesh Singh, IBM",
+      "url": "https://kccncna2021.sched.com/event/lV2s/serving-machine-learning-models-at-scale-using-kserve-animesh-singh-ibm?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "A New Generation of NATS - Matthias Hanel \u0026 Jean-Noël Moyne, Synadia",
+      "url": "https://kccncna2021.sched.com/event/lV7x/a-new-generation-of-nats-matthias-hanel-jean-noel-moyne-synadia?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 NATS",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/50/KubeCon_NA_2021_NATS.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Kubernetes SIG Storage Introduction and Update - Xing Yang, VMware \u0026 Michelle Au, Google",
+      "url": "https://kccncna2021.sched.com/event/lV8L/kubernetes-sig-storage-introduction-and-update-xing-yang-vmware-michelle-au-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "Final KubeCon NA 2021   SIG Storage Introduction \u0026 Update",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ea/Final%20KubeCon%20NA%202021%20-%20SIG%20Storage%20Introduction%20%26%20Update.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Securing Content Repositories with the Update Framework (TUF) - Marina Moore, NYU \u0026 Joshua Lock, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV86/securing-content-repositories-with-the-update-framework-tuf-marina-moore-nyu-joshua-lock-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 TUF Maintainer Track",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/7d/KubeCon_NA_2021_TUF_Maintainer_Track.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "The Argo Ecosystem: Tailoring Your Installation Through Community Add-ons - Jesse Suen, Akuity \u0026 Alexander Matyushentsev, Intuit",
+      "url": "https://kccncna2021.sched.com/event/lV89/the-argo-ecosystem-tailoring-your-installation-through-community-add-ons-jesse-suen-akuity-alexander-matyushentsev-intuit?iframe=no",
+      "Attachments": [
+        {
+          "name": "The Argo Ecosystem  Tailoring Your Installation Through Community Add ons",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/51/The%20Argo%20Ecosystem_%20Tailoring%20Your%20Installation%20Through%20Community%20Add-ons.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Level Unlocked: GitOps to the Edge and Infrastructure Provisioning - Katie Gamanji, Cloud Native Computing Foundation",
+      "url": "https://kccncna2021.sched.com/event/lV45/level-unlocked-gitops-to-the-edge-and-infrastructure-provisioning-katie-gamanji-cloud-native-computing-foundation?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Deploying Unikernels in Production with Kubernetes - Alexander Jung, Lancaster University",
+      "url": "https://kccncna2021.sched.com/event/lV2y/deploying-unikernels-in-production-with-kubernetes-alexander-jung-lancaster-university?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon21 Unikraft",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/f7/KubeCon21_Unikraft.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Panel Discussion: OSS101 - Introduction to Open Source for Students - Savitha Raghunathan, Red Hat; Joe Kutner, Salesforce; Mritunjay Sharma, JSSATE Noida; Anushka Mittal, Ramaiah Institute Of Technology",
+      "url": "https://kccncna2021.sched.com/event/lV34/panel-discussion-oss101-introduction-to-open-source-for-students-savitha-raghunathan-red-hat-joe-kutner-salesforce-mritunjay-sharma-jssate-noida-anushka-mittal-ramaiah-institute-of-technology?iframe=no",
+      "Attachments": [
+        {
+          "name": "Panel Discussion OSS101   Introduction to Open Source for Students",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/66/Panel%20Discussion%20OSS101%20-%20Introduction%20to%20Open%20Source%20for%20Students.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Krustlet",
+      "url": "https://kccncna2021.sched.com/event/mtNJ/virtual-project-office-hours-krustlet?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Vitess",
+      "url": "https://kccncna2021.sched.com/event/mtNG/virtual-project-office-hours-vitess?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "CNCF Governing Board Session",
+      "url": "https://kccncna2021.sched.com/event/oJss/cncf-governing-board-session?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Beyond Block Diagrams: Different Ways of Understanding K8s Architecture - Kim Schlesinger, DigitalOcean",
+      "url": "https://kccncna2021.sched.com/event/lV37/beyond-block-diagrams-different-ways-of-understanding-k8s-architecture-kim-schlesinger-digitalocean?iframe=no",
+      "Attachments": [
+        {
+          "name": "schlesinger 2021 kubecon talk",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/08/schlesinger-2021-kubecon-talk%20.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Registries After Dark - Daniel Mangum, Upbound \u0026 Jon Johnson, Google",
+      "url": "https://kccncna2021.sched.com/event/lV3w/registries-after-dark-daniel-mangum-upbound-jon-johnson-google?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Fluid - Build Data Orchestration in Kubernetes - Yang Che, Alibaba \u0026 Yuandong Xie, Tencent",
+      "url": "https://kccncna2021.sched.com/event/lV2U/fluid-build-data-orchestration-in-kubernetes-yang-che-alibaba-yuandong-xie-tencent?iframe=no",
+      "Attachments": [
+        {
+          "name": "Fluid kubecon submit",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ab/Fluid_kubecon_submit.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cloud Provider OpenStack Intro \u0026 Update - Anusha Ramineni, NEC Corporation India Private Ltd \u0026 Lingxian Kong, Catalyst Cloud",
+      "url": "https://kccncna2021.sched.com/event/lV8C/cloud-provider-openstack-intro-update-anusha-ramineni-nec-corporation-india-private-ltd-lingxian-kong-catalyst-cloud?iframe=no",
+      "Attachments": [
+        {
+          "name": "Introduction Provider Openstack KubeCon Virtual 2021.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/7e/Introduction_Provider_Openstack_KubeCon_Virtual_2021.pptx.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Kubernetes SIG Apps Updates - Janet Kuo, Google; Kenneth Owens, Brex; Maciej Szulik, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV8F/kubernetes-sig-apps-updates-janet-kuo-google-kenneth-owens-brex-maciej-szulik-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021   SIG Apps",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/d5/KubeCon%20NA%202021%20-%20SIG-Apps.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Correlating Signals in Opentelemetry: Benefits, Stories, and the Road Ahead - Morgan McLean, Splunk \u0026 Jaana Dogan, Amazon",
+      "url": "https://kccncna2021.sched.com/event/lV3J/correlating-signals-in-opentelemetry-benefits-stories-and-the-road-ahead-morgan-mclean-splunk-jaana-dogan-amazon?iframe=no",
+      "Attachments": [
+        {
+          "name": "Slides",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/d1/Slides.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Kubernetes and Checkpoint Restore - Adrian Reber, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV2C/kubernetes-and-checkpoint-restore-adrian-reber-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "2021 kubecon na",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/0f/2021-kubecon-na.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Panel Discussion: Marketing as Code: How to Rock Out with Non-Code Contributions - Bart Farrell, Data on Kubernetes Community; Kunal Kushwaha, Civo; Kaslin Fields, Google; Matt Broberg, Red Hat; Chris Short, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV3S/panel-discussion-marketing-as-code-how-to-rock-out-with-non-code-contributions-bart-farrell-data-on-kubernetes-community-kunal-kushwaha-civo-kaslin-fields-google-matt-broberg-red-hat-chris-short-red-hat?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Fluentd",
+      "url": "https://kccncna2021.sched.com/event/nNev/virtual-project-office-hours-fluentd?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Coffee Break",
+      "url": "https://kccncna2021.sched.com/event/lVBK/coffee-break?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Testing Kubernetes Clusters - Building Confidence in Your Changes - Guy Templeton \u0026 Matteo Ruina, Skyscanner",
+      "url": "https://kccncna2021.sched.com/event/lV2L/testing-kubernetes-clusters-building-confidence-in-your-changes-guy-templeton-matteo-ruina-skyscanner?iframe=no",
+      "Attachments": [
+        {
+          "name": "TestingKubernetesClusters MatteoRuina GuyTempleton 141021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/6c/TestingKubernetesClusters_MatteoRuina_GuyTempleton_141021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Migrating to Service Mesh at Scale to Support Billions of $ Transactions - Imre Nagi \u0026 Giri Kuncoro, Gojek",
+      "url": "https://kccncna2021.sched.com/event/lV3Y/migrating-to-service-mesh-at-scale-to-support-billions-of-transactions-imre-nagi-giri-kuncoro-gojek?iframe=no",
+      "Attachments": [
+        {
+          "name": "Migrating to Service Mesh at Scale   Giri Imre Kubecon US 2021 Final",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/7c/Migrating%20to%20Service%20Mesh%20at%20Scale%20-%20Giri_Imre%20Kubecon%20US%202021%20Final.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "From Storming to Performing: Growing Your Project's Contributor Experience - Matt Butcher \u0026 Karen Chu, Microsoft",
+      "url": "https://kccncna2021.sched.com/event/lV3b/from-storming-to-performing-growing-your-projects-contributor-experience-matt-butcher-karen-chu-microsoft?iframe=no",
+      "Attachments": [
+        {
+          "name": "From Storming to Performing",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ab/From%20Storming%20to%20Performing.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "A K8s-Based Workload Allocation Optimizer for Minimizing Power Consumption - Ying-Feng Hsu, Osaka University",
+      "url": "https://kccncna2021.sched.com/event/lV3e/a-k8s-based-workload-allocation-optimizer-for-minimizing-power-consumption-ying-feng-hsu-osaka-university?iframe=no",
+      "Attachments": [
+        {
+          "name": "A K8s Based Workload Allocation Optimizer for Minimizing Power Consumption YingfengHsu 101421 v3.1",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/1a/A_K8s-Based_Workload_Allocation_Optimizer_for_Minimizing_Power_Consumption_YingfengHsu_101421_v3.1.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Fluentd and Fluent Bit - Eduardo Silva, Calyptia",
+      "url": "https://kccncna2021.sched.com/event/leYr/fluentd-and-fluent-bit-eduardo-silva-calyptia?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Kubernetes SIG CLI: Intro and Updates - Eddie Zaneski, Amazon Web Services; Katrina Verey, Apple; Sean Sullivan, Google",
+      "url": "https://kccncna2021.sched.com/event/lV80/kubernetes-sig-cli-intro-and-updates-eddie-zaneski-amazon-web-services-katrina-verey-apple-sean-sullivan-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "SIG CLI KubeCon NA 2021.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/7c/SIG%20CLI%20KubeCon%20NA%202021.pptx.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Notary: State of the Container Supply Chain - Justin Cormack, Docker \u0026 Steve Lasker, Microsoft",
+      "url": "https://kccncna2021.sched.com/event/lV8R/notary-state-of-the-container-supply-chain-justin-cormack-docker-steve-lasker-microsoft?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 Notaryv2",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/79/KubeCon_NA_2021_Notaryv2.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "SIG-Autoscaling: Introduction + HPA/VPA Updates - Joe Burnett‎ \u0026 Marcin Wielgus, Google",
+      "url": "https://kccncna2021.sched.com/event/lV8O/sig-autoscaling-introduction-hpavpa-updates-joe-burnett-marcin-wielgus-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 SIG Autoscaling",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/46/KubeCon_NA_2021_SIG_Autoscaling.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cloud Native Superpowers with eBPF - Liz Rice, Isovalent",
+      "url": "https://kccncna2021.sched.com/event/lV2X/cloud-native-superpowers-with-ebpf-liz-rice-isovalent?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon   Cloud Native Superpowers with eBPF",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/b6/KubeCon%20-%20Cloud%20Native%20Superpowers%20with%20eBPF.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Untangling the Multi-Cloud Identity and Access Problem With SPIFFE Tornjak - Brandon Lum \u0026 Mariusz Sabath, IBM",
+      "url": "https://kccncna2021.sched.com/event/lV3k/untangling-the-multi-cloud-identity-and-access-problem-with-spiffe-tornjak-brandon-lum-mariusz-sabath-ibm?iframe=no",
+      "Attachments": [
+        {
+          "name": "UntanglingMultiCloudAccessProblem",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/0d/UntanglingMultiCloudAccessProblem.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Clusterless - Utilizing a Cluster of Clusters Seamlessly - Fei Guo, Alibaba \u0026 Chris Hein, Apple",
+      "url": "https://kccncna2021.sched.com/event/lV31/clusterless-utilizing-a-cluster-of-clusters-seamlessly-fei-guo-alibaba-chris-hein-apple?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Function to Container - Building a FaaS Experience - Evan Anderson, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV3n/function-to-container-building-a-faas-experience-evan-anderson-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "Function to Container",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/34/Function%20to%20Container.pdf"
+        },
+        {
+          "name": "Function to Container (with demo link)",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/5a/Function%20to%20Container%20%28with%20demo%20link%29.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Kyverno",
+      "url": "https://kccncna2021.sched.com/event/myLK/virtual-project-office-hours-kyverno?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "cloudnative.tv Daily Recap",
+      "url": "https://kccncna2021.sched.com/event/n5qm/cloudnativetv-daily-recap?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "The Hitchhikers Guide to Container Security - Tunde Olu-Isa, Oteemo \u0026 Jed Salazar, Isovalent",
+      "url": "https://kccncna2021.sched.com/event/lV3t/the-hitchhikers-guide-to-container-security-tunde-olu-isa-oteemo-jed-salazar-isovalent?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Quantifying the Business Value of Cloud-Native Data Management - Prashanto Kochavara, Trilio",
+      "url": "https://kccncna2021.sched.com/event/lV5U/quantifying-the-business-value-of-cloud-native-data-management-prashanto-kochavara-trilio?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CTO, The Linux Foundation",
+      "url": "https://kccncna2021.sched.com/event/lV42/public-technical-oversight-committee-toc-meeting-moderated-by-chris-aniszczyk-cto-the-linux-foundation?iframe=no",
+      "Attachments": [
+        {
+          "name": "CNCF TOC Panel KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/cf/CNCF%20TOC%20Panel%20KubeCon%20NA%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "How We Built a Cloud On K3s: The Learnings Of Growing Up Fast - Alex Jones \u0026 Anaïs Urlichs, Civo",
+      "url": "https://kccncna2021.sched.com/event/lV3z/how-we-built-a-cloud-on-k3s-the-learnings-of-growing-up-fast-alex-jones-anais-urlichs-civo?iframe=no",
+      "Attachments": [
+        {
+          "name": "How We Built a Cloud On K3s  The Learnings Of Growing Up Fast",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/02/How%20We%20Built%20a%20Cloud%20On%20K3s_%20The%20Learnings%20Of%20Growing%20Up%20Fast.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Conformance Testing the Kubernetes API: Tooling that Makes the Difference - Stephen Heywood \u0026 Caleb Woodbine, ii.nz",
+      "url": "https://kccncna2021.sched.com/event/lV8X/conformance-testing-the-kubernetes-api-tooling-that-makes-the-difference-stephen-heywood-caleb-woodbine-iinz?iframe=no",
+      "Attachments": [
+        {
+          "name": "kubecon na 2021 tooling that makes the difference",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c2/kubecon-na-2021-tooling-that-makes-the-difference.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "SPIFFE: In Theory and in Practice - Evan Gilman \u0026 Andrew Harding, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV7l/spiffe-in-theory-and-in-practice-evan-gilman-andrew-harding-vmware?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Thanos: Highly Available, Pluggable, Long Term Metric Storage for Everyone! - Wiard van Rij, Fullstaq",
+      "url": "https://kccncna2021.sched.com/event/lV8a/thanos-highly-available-pluggable-long-term-metric-storage-for-everyone-wiard-van-rij-fullstaq?iframe=no",
+      "Attachments": [
+        {
+          "name": "Thanos Talk",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/7e/Thanos%20Talk.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Vitess: Introduction and New Features - Deepthi Sigireddi \u0026 Alkin Tezuysal, PlanetScale, Inc.; Andrew Mason \u0026 Malcolm Akinje, Slack Corp.",
+      "url": "https://kccncna2021.sched.com/event/lV7c/vitess-introduction-and-new-features-deepthi-sigireddi-alkin-tezuysal-planetscale-inc-andrew-mason-malcolm-akinje-slack-corp?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/68/KubeCon_NA_2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "The Prometheus Conformance Program - Richard Hartmann, Grafana Labs",
+      "url": "https://kccncna2021.sched.com/event/lV2v/the-prometheus-conformance-program-richard-hartmann-grafana-labs?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Keeping Up with the CVEs: How to Find a Needle in a Haystack? - Pushkar Joglekar, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV48/keeping-up-with-the-cves-how-to-find-a-needle-in-a-haystack-pushkar-joglekar-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "Keeping Up with the CVEs  KubeCon NA 2021 PJ",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/88/Keeping%20Up%20with%20the%20CVEs_%20KubeCon_NA_2021_PJ.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "How Event Driven Autoscaling in Kubernetes Can Combat Climate Change - Annie Talvasto, CAST AI \u0026 Adi Polak, Microsoft",
+      "url": "https://kccncna2021.sched.com/event/lV4B/how-event-driven-autoscaling-in-kubernetes-can-combat-climate-change-annie-talvasto-cast-ai-adi-polak-microsoft?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Deciphering Your Way to the World of Golang - Mritunjay Sharma, JSSATE Noida",
+      "url": "https://kccncna2021.sched.com/event/lV4E/deciphering-your-way-to-the-world-of-golang-mritunjay-sharma-jssate-noida?iframe=no",
+      "Attachments": [
+        {
+          "name": "Deciphering Your Way to the World of Golang",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/f9/Deciphering%20Your%20Way%20to%20the%20World%20of%20Golang.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "AMA Happy Hour with Priyanka Sharma, GM of CNCF",
+      "url": "https://kccncna2021.sched.com/event/lfCf/ama-happy-hour-with-priyanka-sharma-gm-of-cncf?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "All-Attendee Party sponsored by Kasten by Veeam and Humio",
+      "url": "https://kccncna2021.sched.com/event/lfCF/all-attendee-party-sponsored-by-kasten-by-veeam-and-humio?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "AMA Coffee Klatch with Priyanka Sharma, GM of CNCF",
+      "url": "https://kccncna2021.sched.com/event/nGEV/ama-coffee-klatch-with-priyanka-sharma-gm-of-cncf?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "The New Stack Pancake Breakfast: The Cloud Native Datacenter as the Future of Modern Infrastructure",
+      "url": "https://kccncna2021.sched.com/event/lfCW/the-new-stack-pancake-breakfast-the-cloud-native-datacenter-as-the-future-of-modern-infrastructure?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Continental Breakfast",
+      "url": "https://kccncna2021.sched.com/event/p4WP/continental-breakfast?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Registration + Vaccine Verification + Badge Pick-up",
+      "url": "https://kccncna2021.sched.com/event/lf7a/registration-vaccine-verification-badge-pick-up?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Friday Keynote Sessions",
+      "url": "https://kccncna2021.sched.com/event/ocSC/friday-keynote-sessions?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Coffee Break",
+      "url": "https://kccncna2021.sched.com/event/lVBO/coffee-break?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Helm",
+      "url": "https://kccncna2021.sched.com/event/mtNO/virtual-project-office-hours-helm?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Strimzi",
+      "url": "https://kccncna2021.sched.com/event/n08o/virtual-project-office-hours-strimzi?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Project Pavilion",
+      "url": "https://kccncna2021.sched.com/event/ofK1/project-pavilion?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Solutions Showcase",
+      "url": "https://kccncna2021.sched.com/event/lf7S/solutions-showcase?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Peer Group Mentoring + Career Networking, sponsored by D2iQ",
+      "url": "https://kccncna2021.sched.com/event/lfK5/peer-group-mentoring-career-networking-sponsored-by-d2iq?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "How Salesforce built an extensible PaaS using CRDs saving devs 4200 hours - Mayank Kumar, Salesforce",
+      "url": "https://kccncna2021.sched.com/event/lV4K/how-salesforce-built-an-extensible-paas-using-crds-saving-devs-4200-hours-mayank-kumar-salesforce?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/72/KubeCon%20NA%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Scaling Machine Learning Workflows to Big Data with Fugue - Kevin Kho, Prefect \u0026 Han Wang, Lyft",
+      "url": "https://kccncna2021.sched.com/event/lV5X/scaling-machine-learning-workflows-to-big-data-with-fugue-kevin-kho-prefect-han-wang-lyft?iframe=no",
+      "Attachments": [
+        {
+          "name": "Scaling Machine Learning Workflows to Big Data with Fugue",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/66/Scaling%20Machine%20Learning%20Workflows%20to%20Big%20Data%20with%20Fugue.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "CNCF TAG-Runtime: What's Next in Cloud Native Workloads? - Ricardo Aravena, Rakuten",
+      "url": "https://kccncna2021.sched.com/event/lV8j/cncf-tag-runtime-whats-next-in-cloud-native-workloads-ricardo-aravena-rakuten?iframe=no",
+      "Attachments": [
+        {
+          "name": "CNCF TAG Runtime  What's Next in Cloud Native Workloads",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/6e/CNCF%20TAG-Runtime_%20What%27s%20Next%20in%20Cloud%20Native%20Workloads_.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cortex: Intro and Production Tips - Bryan Boreham, Grafana Labs \u0026 Alvin Lin, Amazon Web Services",
+      "url": "https://kccncna2021.sched.com/event/lV8d/cortex-intro-and-production-tips-bryan-boreham-grafana-labs-alvin-lin-amazon-web-services?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon 2021 NA Cortex Maintainer",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/8e/KubeCon%202021%20NA%20Cortex%20Maintainer.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Jaeger: Intro and Deep Dive - Jonah Kowall, Logz.io",
+      "url": "https://kccncna2021.sched.com/event/lV9k/jaeger-intro-and-deep-dive-jonah-kowall-logzio?iframe=no",
+      "Attachments": [
+        {
+          "name": "Jaeger Kubecon NA 2021 v2",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/31/Jaeger%20Kubecon%20NA%202021%20v2.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "SIG API Machinery Deep Dive - Applying What We've Learned - Abu Kashem \u0026 Stefan Schimanski, Red Hat; Joe Betz \u0026 Federico Bongiovanni, Google",
+      "url": "https://kccncna2021.sched.com/event/lV8g/sig-api-machinery-deep-dive-applying-what-weve-learned-abu-kashem-stefan-schimanski-red-hat-joe-betz-federico-bongiovanni-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "Server Side Apply for Controllers JoeBetz",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/bb/Server_Side_Apply_for_Controllers_JoeBetz.pdf"
+        },
+        {
+          "name": "Practical Experiences with APF AbuKashem",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ed/Practical%20Experiences%20with%20APF%20AbuKashem.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cloud Native Global Load Balancer for Kubernetes - Yury Tsarev \u0026 Zak Anderson, Absa Group",
+      "url": "https://kccncna2021.sched.com/event/lV4Q/cloud-native-global-load-balancer-for-kubernetes-yury-tsarev-zak-anderson-absa-group?iframe=no",
+      "Attachments": [
+        {
+          "name": "Cloud Native Global Load Balancer for Kubernetes   Yury Tsarev \u0026 Zak Anderson, Absa Group KubeCon NA 2021.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/8d/Cloud%20Native%20Global%20Load%20Balancer%20for%20Kubernetes%20-%20Yury%20Tsarev%20%26%20Zak%20Anderson%2C%20Absa%20Group-KubeCon_NA_2021.pptx.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Data Science for Infrastructure: Observe, Understand, Automate - Zain Asgar \u0026 Natalie Serrino, New Relic",
+      "url": "https://kccncna2021.sched.com/event/lV4c/data-science-for-infrastructure-observe-understand-automate-zain-asgar-natalie-serrino-new-relic?iframe=no",
+      "Attachments": [
+        {
+          "name": "Data Science for Infrastructure",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/6b/Data%20Science%20for%20Infrastructure.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "We Built the Kubernetes SBOM and Now You Can Write Your Own! - Adolfo García Veytia, uServers",
+      "url": "https://kccncna2021.sched.com/event/lV64/we-built-the-kubernetes-sbom-and-now-you-can-write-your-own-adolfo-garcia-veytia-uservers?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Secure your cluster-to-cluster traffic, the agnostic way - Pauline Lallinec \u0026 Dave Kerr, Workday",
+      "url": "https://kccncna2021.sched.com/event/lV4Z/secure-your-cluster-to-cluster-traffic-the-agnostic-way-pauline-lallinec-dave-kerr-workday?iframe=no",
+      "Attachments": [
+        {
+          "name": "kubecon na 2021 workday securing cluster to cluster comms final",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/74/kubecon_na_2021_workday_securing_cluster_to_cluster_comms_final.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Open Service Mesh",
+      "url": "https://kccncna2021.sched.com/event/mtNV/virtual-project-office-hours-open-service-mesh?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Vitess",
+      "url": "https://kccncna2021.sched.com/event/mtNS/virtual-project-office-hours-vitess?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Beyond Kubernetes Security - Ellen Körbes, Tilt \u0026 Tabitha Sable, Datadog",
+      "url": "https://kccncna2021.sched.com/event/lV4f/beyond-kubernetes-security-ellen-korbes-tilt-tabitha-sable-datadog?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Tools That I Wish Existed 3 Years Ago To Build a SaaS Offering - Mauricio Salatino, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV3A/tools-that-i-wish-existed-3-years-ago-to-build-a-saas-offering-mauricio-salatino-vmware?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "CloudEvents: Intro, Status and the Future... - Scott Nichols, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV9b/cloudevents-intro-status-and-the-future-scott-nichols-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon CloudEvents 2021 NA",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/36/KubeCon-CloudEvents-2021-NA.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Evolving Prometheus for More Use Cases - Bartek Plotka, Red Hat \u0026 Chris Marchbanks, Grafana Labs",
+      "url": "https://kccncna2021.sched.com/event/lV8s/evolving-prometheus-for-more-use-cases-bartek-plotka-red-hat-chris-marchbanks-grafana-labs?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Intro to KubeEdge: Kubernetes Native Edge Computing Framework - Kevin Wang (Zefeng), Huawei \u0026 Yin Ding, Pure Storage",
+      "url": "https://kccncna2021.sched.com/event/lV8v/intro-to-kubeedge-kubernetes-native-edge-computing-framework-kevin-wang-zefeng-huawei-yin-ding-pure-storage?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 KubeEdge Intro",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/a6/KubeCon_NA_2021-KubeEdge-Intro.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Kubernetes Cloud Provider IBM project Overview and Deep Dive - Sahdev Zala \u0026 Richard Theis \u0026 Guang Ya Liu \u0026 Brad Topol, IBM",
+      "url": "https://kccncna2021.sched.com/event/lV8p/kubernetes-cloud-provider-ibm-project-overview-and-deep-dive-sahdev-zala-richard-theis-guang-ya-liu-brad-topol-ibm?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Calico/VPP: Using Calico’s Pluggable Dataplanes for Fun and Fast Networking - Aloys Augustin, Cisco \u0026 Chris Tomkins, Tigera",
+      "url": "https://kccncna2021.sched.com/event/lV4o/calicovpp-using-calicos-pluggable-dataplanes-for-fun-and-fast-networking-aloys-augustin-cisco-chris-tomkins-tigera?iframe=no",
+      "Attachments": [
+        {
+          "name": "Calico VPP KCNA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/4c/Calico_VPP%20KCNA%202021.pdf"
+        },
+        {
+          "name": "Calico VPP KCNA2021",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/21/Calico_VPP-KCNA2021.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "From Network Engineer to K8s Developer: Lessons Learned via Telepresence - Peter ONeill, Ambassador Labs",
+      "url": "https://kccncna2021.sched.com/event/lV6A/from-network-engineer-to-k8s-developer-lessons-learned-via-telepresence-peter-oneill-ambassador-labs?iframe=no",
+      "Attachments": [
+        {
+          "name": "Kubecon Network Engineering 101",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/20/Kubecon%20Network%20Engineering%20101%20.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Migrating GitLab.com to Kubernetes: How Multiple Clusters Saved Cost - John Skarbek, Gitlab",
+      "url": "https://kccncna2021.sched.com/event/lV50/migrating-gitlabcom-to-kubernetes-how-multiple-clusters-saved-cost-john-skarbek-gitlab?iframe=no",
+      "Attachments": [
+        {
+          "name": "Migrating GitLab.com to Kubernetes   How Multiple Clusters Saved Cost",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/8f/Migrating%20GitLab.com%20to%20Kubernetes%20-%20How%20Multiple%20Clusters%20Saved%20Cost.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Bridging the Great Divide: SPIFFE/SPIRE for Cross-Cluster Authentication - Andrew Harding, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV6J/bridging-the-great-divide-spiffespire-for-cross-cluster-authentication-andrew-harding-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "Bridging the Great Divide   Kubecon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/90/Bridging%20the%20Great%20Divide%20-%20Kubecon%20NA%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "AuthN and AuthZ at Cruise: Crawl, Walk, Run - James Barclay \u0026 Roman Porter, Cruise",
+      "url": "https://kccncna2021.sched.com/event/lV6M/authn-and-authz-at-cruise-crawl-walk-run-james-barclay-roman-porter-cruise?iframe=no",
+      "Attachments": [
+        {
+          "name": "AuthN and AuthZ at Cruise  Crawl, Walk, Run",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c5/AuthN%20and%20AuthZ%20at%20Cruise_%20Crawl%2C%20Walk%2C%20Run.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Service Mesh using Envoy on Windows - Sotiris Nanopoulos \u0026 Praveen Balasubramanian \u0026 Kalya Subramanian, Microsoft; Nic Jackson, Hashicorp",
+      "url": "https://kccncna2021.sched.com/event/lV4x/service-mesh-using-envoy-on-windows-sotiris-nanopoulos-praveen-balasubramanian-kalya-subramanian-microsoft-nic-jackson-hashicorp?iframe=no",
+      "Attachments": [
+        {
+          "name": "Service Mesh on Windows using Envoy Proxy Sotiris Nanopoulos Praveen Balasubramanian 101521 v1",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/1d/Service_Mesh_on_Windows_using_Envoy_Proxy_Sotiris_Nanopoulos_Praveen_Balasubramanian_101521_v1.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Backstage",
+      "url": "https://kccncna2021.sched.com/event/nNUD/virtual-project-office-hours-backstage?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Service Mesh Performance",
+      "url": "https://kccncna2021.sched.com/event/oXzX/virtual-project-office-hours-service-mesh-performance?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Lunch",
+      "url": "https://kccncna2021.sched.com/event/lVBU/lunch?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Battlesnake: KubeCon Cup - Finals Broadcast",
+      "url": "https://kccncna2021.sched.com/event/nzEP/battlesnake-kubecon-cup-finals-broadcast?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Edge Computing using K3s on Raspberry Pi - Jeff Spahr, Lenovo",
+      "url": "https://kccncna2021.sched.com/event/lV53/edge-computing-using-k3s-on-raspberry-pi-jeff-spahr-lenovo?iframe=no",
+      "Attachments": [
+        {
+          "name": "Jeff Spahr KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/1d/Jeff_Spahr_KubeCon_NA_2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Easy notifications for Kubernetes - Alexander Matyushentsev, Intuit \u0026 Remington Breeze, Akuity",
+      "url": "https://kccncna2021.sched.com/event/lV5p/easy-notifications-for-kubernetes-alexander-matyushentsev-intuit-remington-breeze-akuity?iframe=no",
+      "Attachments": [
+        {
+          "name": "Easy notifications for Kubernetes",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/b3/Easy%20notifications%20for%20Kubernetes.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Cloud Native Enables the Park of Pompeii to Reopen During the Pandemic - Akshai Parthasarathy \u0026 Faye Hutsell, Oracle",
+      "url": "https://kccncna2021.sched.com/event/lV56/cloud-native-enables-the-park-of-pompeii-to-reopen-during-the-pandemic-akshai-parthasarathy-faye-hutsell-oracle?iframe=no",
+      "Attachments": [
+        {
+          "name": "Oracle Pompeii Cloud Native Mobile App",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/0a/Oracle-Pompeii-Cloud-Native-Mobile%20App.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "How Spotify Leverages Flyte To Coordinate Financial Analytics Company-Wide - Haytham Abuelfutuh, Union.ai \u0026 Dylan Wilder Patterson, Spotify",
+      "url": "https://kccncna2021.sched.com/event/lV59/how-spotify-leverages-flyte-to-coordinate-financial-analytics-company-wide-haytham-abuelfutuh-unionai-dylan-wilder-patterson-spotify?iframe=no",
+      "Attachments": [
+        {
+          "name": "Flyte at Spotify",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/7f/Flyte%20at%20Spotify.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Contour, a High Performance Multitenant Ingress Controller for Kubernetes - Steve Sloka \u0026 Alex Xu, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV97/contour-a-high-performance-multitenant-ingress-controller-for-kubernetes-steve-sloka-alex-xu-vmware?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "PodSecurityPolicy Replacement: Past, Present, and Future - Tabitha Sable, Datadog \u0026 Tim Allclair, Apple",
+      "url": "https://kccncna2021.sched.com/event/lV9A/podsecuritypolicy-replacement-past-present-and-future-tabitha-sable-datadog-tim-allclair-apple?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021   PSP Replacement",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c6/KubeCon_NA_2021%20-%20PSP%20Replacement.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "SIG Contributor Experience Deep Dive - Alison Dowdney, Weaveworks; Bob Killen, Google; Christoph Blecker, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV91/sig-contributor-experience-deep-dive-alison-dowdney-weaveworks-bob-killen-google-christoph-blecker-red-hat?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "NATS-Sync: Secure, Multi-Tenant, Cross Cluster Message Routing - Brian Mason, NetApp",
+      "url": "https://kccncna2021.sched.com/event/lV5C/nats-sync-secure-multi-tenant-cross-cluster-message-routing-brian-mason-netapp?iframe=no",
+      "Attachments": [
+        {
+          "name": "nats sync BrianMason 20211015 v0",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/90/nats-sync_BrianMason_20211015_v0.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Everything Wrong with K8s Authentication and How We Worked Around It - Mo Khan \u0026 Margo Crawford, VMware",
+      "url": "https://kccncna2021.sched.com/event/lV5I/everything-wrong-with-k8s-authentication-and-how-we-worked-around-it-mo-khan-margo-crawford-vmware?iframe=no",
+      "Attachments": [
+        {
+          "name": "Everything Wrong with K8s Authentication and How We Worked Around It",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/fd/Everything%20Wrong%20with%20K8s%20Authentication%20and%20How%20We%20Worked%20Around%20It.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Context Aware Traffic Routing for Stateful Services using Envoy - Renana Yacobi \u0026 Piaw Na, Niantic",
+      "url": "https://kccncna2021.sched.com/event/lV5L/context-aware-traffic-routing-for-stateful-services-using-envoy-renana-yacobi-piaw-na-niantic?iframe=no",
+      "Attachments": [
+        {
+          "name": "Context aware traffic routing for stateful services using envoy   Final",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/1a/Context%20aware%20traffic%20routing%20for%20stateful%20services%20using%20envoy%20-%20Final.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Here Be Services: Beyond the Cluster Boundary with Multicluster Services - Laura Lorenz, Google \u0026 Stephen Kitt, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV67/here-be-services-beyond-the-cluster-boundary-with-multicluster-services-laura-lorenz-google-stephen-kitt-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "Here Be Services",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/5b/Here%20Be%20Services.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Peer Group Mentoring + Career Networking Virtual",
+      "url": "https://kccncna2021.sched.com/event/oYE3/peer-group-mentoring-career-networking-virtual?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Homebrewing a Kubernetes Bootcamp: From College to K8s Support Engineer - Alice Wasko, Ambassador Labs",
+      "url": "https://kccncna2021.sched.com/event/lV5R/homebrewing-a-kubernetes-bootcamp-from-college-to-k8s-support-engineer-alice-wasko-ambassador-labs?iframe=no",
+      "Attachments": [
+        {
+          "name": "Homebrewing A Kubernetes Bootcamp Alice Wasko",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/f5/Homebrewing_A_Kubernetes_Bootcamp_Alice_Wasko.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "The Hidden Costs - How \"free\" is Kubernetes really? - Matthias Haeussler \u0026 Thorsten Jakoby, Novatec Consulting GmbH",
+      "url": "https://kccncna2021.sched.com/event/lV4i/the-hidden-costs-how-free-is-kubernetes-really-matthias-haeussler-thorsten-jakoby-novatec-consulting-gmbh?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 Haeussler Jakoby",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/21/KubeCon_NA_2021_Haeussler_Jakoby.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Inclusive Language Initiative Working Group - Celeste Hogan, Cloud Native Computing Foundation",
+      "url": "https://kccncna2021.sched.com/event/lV5m/inclusive-language-initiative-working-group-celeste-hogan-cloud-native-computing-foundation?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Intro to Cloud Native Buildpacks - Javier Romero, VMware; Sambhav Kothari, Bloomberg",
+      "url": "https://kccncna2021.sched.com/event/lV9J/intro-to-cloud-native-buildpacks-javier-romero-vmware-sambhav-kothari-bloomberg?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/cb/KubeCon_NA_2021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Introduction to Open Policy Agent - Ash Narkar, Styra \u0026 Rita Zhang, Microsoft",
+      "url": "https://kccncna2021.sched.com/event/lV9G/introduction-to-open-policy-agent-ash-narkar-styra-rita-zhang-microsoft?iframe=no",
+      "Attachments": [
+        {
+          "name": "OPA Intro KubeCon US 2021 (virtual) (1)",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ee/OPA%20Intro%20KubeCon%20US%202021%20%28virtual%29%20%281%29.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Kubenetes SIG Node Intro and Deep Dive - Elana Hashman \u0026 Derek Carr, Red Hat; Sergey Kanzhelev \u0026 Dawn Chen, Google",
+      "url": "https://kccncna2021.sched.com/event/lV9D/kubenetes-sig-node-intro-and-deep-dive-elana-hashman-derek-carr-red-hat-sergey-kanzhelev-dawn-chen-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "Copy of KubeCon NA 2021   SIG Node",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/bf/Copy%20of%20KubeCon%20NA%202021%20-%20SIG%20Node.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Native Instrumentation for Open Source Software with OpenTelemetry - Ted Young, Lightstep \u0026 Ludmila Molkova, Microsoft",
+      "url": "https://kccncna2021.sched.com/event/lV8I/native-instrumentation-for-open-source-software-with-opentelemetry-ted-young-lightstep-ludmila-molkova-microsoft?iframe=no",
+      "Attachments": [
+        {
+          "name": "Kubecon  Native Instrumentation for OSS with OpenTelemetry",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/38/Kubecon_%20Native%20Instrumentation%20for%20OSS%20with%20OpenTelemetry.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Beyond printf and tcpdump: Debugging Kubernetes Networking with eBPF - Martynas Pumputis \u0026 Aditi Ghag, Isovalent",
+      "url": "https://kccncna2021.sched.com/event/lV5a/beyond-printf-and-tcpdump-debugging-kubernetes-networking-with-ebpf-martynas-pumputis-aditi-ghag-isovalent?iframe=no",
+      "Attachments": [
+        {
+          "name": "kubecon21 ebpf debug",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/06/kubecon21-ebpf-debug.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Using Kubernetes with Data Processing Units to Offload Infrastructure - Thomas Phelan \u0026 Thomas Golway, HPE",
+      "url": "https://kccncna2021.sched.com/event/lV5v/using-kubernetes-with-data-processing-units-to-offload-infrastructure-thomas-phelan-thomas-golway-hpe?iframe=no",
+      "Attachments": [
+        {
+          "name": "Using Kubernetes with Data Processing Units to Offload Infrastructure",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/64/Using_Kubernetes_with_Data_Processing_Units_to_Offload_Infrastructure.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Declarative and Imperative Kubernetes Operations with Temporal and M3 - Matt Schallert, Chronosphere \u0026 Dominik Tornow, Temporal",
+      "url": "https://kccncna2021.sched.com/event/lV5d/declarative-and-imperative-kubernetes-operations-with-temporal-and-m3-matt-schallert-chronosphere-dominik-tornow-temporal?iframe=no",
+      "Attachments": [
+        {
+          "name": "Declarative and Imperative Kubernetes Operations with Temporal and M3",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/17/Declarative%20and%20Imperative%20Kubernetes%20Operations%20with%20Temporal%20and%20M3.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "The Hitchhiker's Guide to Kubernetes Vulnerabilities - Robert Clark \u0026 Micah Hausler, Amazon",
+      "url": "https://kccncna2021.sched.com/event/lV5g/the-hitchhikers-guide-to-kubernetes-vulnerabilities-robert-clark-micah-hausler-amazon?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Real-time Kubernetes: How Entain Australia 10x'd throughput with Linkerd - Steve Gray, Entain Australia",
+      "url": "https://kccncna2021.sched.com/event/lV5j/real-time-kubernetes-how-entain-australia-10xd-throughput-with-linkerd-steve-gray-entain-australia?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA   Entain Australia x Linkerd",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/85/KubeCon%20NA%20-%20Entain%20Australia%20x%20Linkerd.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Coffee Break",
+      "url": "https://kccncna2021.sched.com/event/lVBa/coffee-break?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "We're Marketers. If we can Learn Distributed Systems + K8s, so can you! - Betty Junod, VMware \u0026 Paul Burt, HashiCorp",
+      "url": "https://kccncna2021.sched.com/event/lV4H/were-marketers-if-we-can-learn-distributed-systems-k8s-so-can-you-betty-junod-vmware-paul-burt-hashicorp?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Water is a Driving Force of Innovation: Open Source in the Dutch Government! - Onno Brouwer, Rijkswaterstaat \u0026 Tomasz Klimek, Grape Up",
+      "url": "https://kccncna2021.sched.com/event/lV5s/water-is-a-driving-force-of-innovation-open-source-in-the-dutch-government-onno-brouwer-rijkswaterstaat-tomasz-klimek-grape-up?iframe=no",
+      "Attachments": [
+        {
+          "name": "Water driving force RWS GU Onno Tom",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/03/Water-driving-force-RWS-GU-Onno-Tom.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Design Up Front: Socializing Ideas with Enhancement Proposals - Kirsten Garrison \u0026 Adam Kaplan, Red Hat; Christie Wilson, Google",
+      "url": "https://kccncna2021.sched.com/event/m4tH/design-up-front-socializing-ideas-with-enhancement-proposals-kirsten-garrison-adam-kaplan-red-hat-christie-wilson-google?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Life is not fair, but your ML pipeline can be! - Meenakshi Kaushik \u0026 Neelima Mukiri, Cisco",
+      "url": "https://kccncna2021.sched.com/event/lV4N/life-is-not-fair-but-your-ml-pipeline-can-be-meenakshi-kaushik-neelima-mukiri-cisco?iframe=no",
+      "Attachments": [
+        {
+          "name": "fairness",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/be/fairness.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "A Deep Dive Into 5 years of Minikube - Medya Ghazizadeh, Google",
+      "url": "https://kccncna2021.sched.com/event/lV9V/a-deep-dive-into-5-years-of-minikube-medya-ghazizadeh-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "Minikube Deep Dive KubeCon 2021 LA",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ec/Minikube%20Deep%20Dive%20KubeCon%202021%20LA.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "How We Reduced Write Latency in TiKV? - Liqi Geng, PingCAP",
+      "url": "https://kccncna2021.sched.com/event/lV9S/how-we-reduced-write-latency-in-tikv-liqi-geng-pingcap?iframe=no",
+      "Attachments": [
+        {
+          "name": "How We Reduced Write Latency in TiKV",
+          "type": "other",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/13/How%20We%20Reduced%20Write%20Latency%20in%20TiKV.pptx"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Production Workload Identity with SPIRE - Ryan Turner, Uber",
+      "url": "https://kccncna2021.sched.com/event/lV9Y/production-workload-identity-with-spire-ryan-turner-uber?iframe=no",
+      "Attachments": [
+        {
+          "name": "Production Workload Identity with SPIRE",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ad/Production_Workload_Identity_with_SPIRE.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "PSP is Dead, Long Live PodSecurity - Monis Khan, VMware; Mike Danese, Google",
+      "url": "https://kccncna2021.sched.com/event/lV9P/psp-is-dead-long-live-podsecurity-monis-khan-vmware-mike-danese-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "SIG Auth Deep Dive   KubeCon NA 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/81/SIG-Auth%20Deep%20Dive%20-%20KubeCon%20NA%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Building Prometheus Metrics Support in OpenTelemetry - Alolita Sharma, Amazon",
+      "url": "https://kccncna2021.sched.com/event/lV5O/building-prometheus-metrics-support-in-opentelemetry-alolita-sharma-amazon?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Conprof - Profiling in the cloud-native era - Matthias Loibl, Polar Signals \u0026 Kemal Akkoyun, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/lV4W/conprof-profiling-in-the-cloud-native-era-matthias-loibl-polar-signals-kemal-akkoyun-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "Parca  Profiling in the Cloud Native Era",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/fd/Parca_%20Profiling%20in%20the%20Cloud-Native%20Era.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Measuring K8s Network Performance - Kornilios Kourtis, Isovalent",
+      "url": "https://kccncna2021.sched.com/event/lV5y/measuring-k8s-network-performance-kornilios-kourtis-isovalent?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon + CloudNativeCon North America 2021   Measuring K8s Network Performance",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/11/KubeCon%20%2B%20CloudNativeCon%20North%20America%202021%20-%20Measuring%20K8s%20Network%20Performance.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "cloudnative.tv Daily Recap",
+      "url": "https://kccncna2021.sched.com/event/n5qp/cloudnativetv-daily-recap?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "Building a Successful Open Source Community as an End-user Company - Henrik Blixt \u0026 Kareena Hirani, Intuit",
+      "url": "https://kccncna2021.sched.com/event/m4tR/building-a-successful-open-source-community-as-an-end-user-company-henrik-blixt-kareena-hirani-intuit?iframe=no",
+      "Attachments": [
+        {
+          "name": "Building a Successful Open Source Community as an End user Company",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/ba/Building%20a%20Successful%20Open%20Source%20Community%20as%20an%20End-user%20Company.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Scaling Kubeflow for Multi-tenancy at Spotify - Keshi Dai \u0026 Jonathan Jin, Spotify",
+      "url": "https://kccncna2021.sched.com/event/lV4l/scaling-kubeflow-for-multi-tenancy-at-spotify-keshi-dai-jonathan-jin-spotify?iframe=no",
+      "Attachments": [
+        {
+          "name": "slides",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/88/slides.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Intro + DeepDive: SIG Scalability - Wojciech Tyczyński \u0026 Marcel Zięba, Google",
+      "url": "https://kccncna2021.sched.com/event/lV9M/intro-deepdive-sig-scalability-wojciech-tyczynski-marcel-zieba-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "IntroDeepDive SigScalability",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/1b/IntroDeepDive_SigScalability.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Intro and Deep Dive to the CNF Working Group - Ian Wells, Cisco; Jeffrey Saelens, Charter Communications; Taylor Carpenter, Vulk Coop",
+      "url": "https://kccncna2021.sched.com/event/lV9e/intro-and-deep-dive-to-the-cnf-working-group-ian-wells-cisco-jeffrey-saelens-charter-communications-taylor-carpenter-vulk-coop?iframe=no",
+      "Attachments": [
+        {
+          "name": "[KubeCon NA 2021] Intro \u0026 Deep Dive to the CNF WG.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/26/%5BKubeCon%20NA%202021%5D%20Intro%20%26%20Deep%20Dive%20to%20the%20CNF%20WG.pptx.pdf"
+        },
+        {
+          "name": "[KubeCon NA 2021] Intro \u0026 Deep Dive to the CNF WG.pptx",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/3c/%5BKubeCon%20NA%202021%5D%20Intro%20%26%20Deep%20Dive%20to%20the%20CNF%20WG.pptx.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "kOps: Recent Advances and the Journey to an OSS Kubernetes Distribution - Peter Rifel, DataDog; Ciprian Hacman, eyeo; John Gardiner Myers, Proofpoint; Ole Markus With, Sportradar",
+      "url": "https://kccncna2021.sched.com/event/lV9h/kops-recent-advances-and-the-journey-to-an-oss-kubernetes-distribution-peter-rifel-datadog-ciprian-hacman-eyeo-john-gardiner-myers-proofpoint-ole-markus-with-sportradar?iframe=no",
+      "Attachments": [
+        {
+          "name": "kOps KubeCon 2021",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/c9/kOps%20KubeCon%202021.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "SIG-Scheduling Intro and Deep Dive - Wei Huang, IBM",
+      "url": "https://kccncna2021.sched.com/event/lV8m/sig-scheduling-intro-and-deep-dive-wei-huang-ibm?iframe=no",
+      "Attachments": [
+        {
+          "name": "KubeCon NA 2021 SIG Scheduling Deep Dive",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/88/KubeCon_NA_2021-SIG-Scheduling-Deep-Dive.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "What We Learned from Reading 100+ Kubernetes Post-Mortems - Noaa Barki \u0026 Shimon Tolts, Datree",
+      "url": "https://kccncna2021.sched.com/event/lV4r/what-we-learned-from-reading-100-kubernetes-post-mortems-noaa-barki-shimon-tolts-datree?iframe=no",
+      "Attachments": null,
+      "video": ""
+    },
+    {
+      "name": "YAML Your Cloud! Managing Your Hosted Resources With Kubernetes - Megan O'Keefe \u0026 Shabir Mohamed Abdul Samadh, Google",
+      "url": "https://kccncna2021.sched.com/event/m4sT/yaml-your-cloud-managing-your-hosted-resources-with-kubernetes-megan-okeefe-shabir-mohamed-abdul-samadh-google?iframe=no",
+      "Attachments": [
+        {
+          "name": "Kubecon 2021   YAML Your Cloud!",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/4d/Kubecon%202021%20-%20YAML%20Your%20Cloud%21.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Beyond the Hype: Cloud Native eBPF - Frederic Branczyk, Polar Signals",
+      "url": "https://kccncna2021.sched.com/event/lV6D/beyond-the-hype-cloud-native-ebpf-frederic-branczyk-polar-signals?iframe=no",
+      "Attachments": [
+        {
+          "name": "Beyond the Hype   Cloud Native eBPF",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/a2/Beyond%20the%20Hype_%20%20Cloud%20Native%20eBPF.pdf"
+        }
+      ],
+      "video": ""
+    },
+    {
+      "name": "Do Not Disturb Mode: Fine-Tuning Resources for Latency Sensitive Workloads - Antti Kervinen, Intel \u0026 Peter Hunt, Red Hat",
+      "url": "https://kccncna2021.sched.com/event/m4t2/do-not-disturb-mode-fine-tuning-resources-for-latency-sensitive-workloads-antti-kervinen-intel-peter-hunt-red-hat?iframe=no",
+      "Attachments": [
+        {
+          "name": "DoNotDisturbMode KervinenHunt",
+          "type": "slides",
+          "url": "https://static.sched.com/hosted_files/kccncna2021/89/DoNotDisturbMode_KervinenHunt.pdf"
+        }
+      ],
+      "video": ""
+    }
+  ]
+}
