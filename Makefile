@@ -16,5 +16,7 @@ prepare0:
 	go run slidefetcher.go prepare kccncna2024 > data/kccncna2024.json
 
 prepare-all:
+	go build
 	@echo $(shell ./slidefetcher list)
 	@for name in $(shell ./slidefetcher list); do echo "=> $$name"; ./slidefetcher prepare $$name > data/$$name.json; done
+	rm ./slidefetcher

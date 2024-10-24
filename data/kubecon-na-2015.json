@@ -1,0 +1,41 @@
+{
+  "url": "https://kubecon2015.sched.com//?iframe=no",
+  "name": "KubeCon 2015: Schedule",
+  "sessions": [
+    {
+      "name": "Continental Breakfast and Registration Check-In",
+      "url": "https://kubecon2015.sched.com//event/4Uo9/continental-breakfast-and-registration-check-in?iframe=no",
+      "description": "\n  Enjoy a full continental breakfast and come early for registration and goodies / conference swag!\n",
+      "attachment": null,
+      "video": ""
+    },
+    {
+      "name": "Day 1 Opening Keynote",
+      "url": "https://kubecon2015.sched.com//event/4Uq7/day-1-opening-keynote?iframe=no",
+      "description": "\n  Our welcoming keynote will be kicked off by Brendan Burns from Google, co-creator of Kubernetes!\n",
+      "attachment": null,
+      "video": ""
+    },
+    {
+      "name": "Container Network Interface: Network Plugins for Kubernetes and beyond",
+      "url": "https://kubecon2015.sched.com//event/4VAo/container-network-interface-network-plugins-for-kubernetes-and-beyond?iframe=no",
+      "description": "\n  With the rise of modern containers comes new problems to solve – especially in networking. Numerous container SDN solutions have recently entered the market, each best suited for a particular environment. Combined with multiple container runtimes and orchestrators available today, there exists a need for a common layer to allow interoperability between them and the network solutions.As different environments demand different networking solutions, multiple vendors and viewpoints look to a specification to help guide interoperability. Container Network Interface (CNI) is a specification started by CoreOS with the input from the wider open source community aimed to make network plugins interoperable between container execution engines. It aims to be as common and vendor-neutral as possible to support a wide variety of networking options — from MACVLAN to modern SDNs such as Weave and flannel.CNI is growing in popularity. It got its start as a network plugin layer for rkt, a container runtime from CoreOS. Today rkt ships with multiple CNI plugins allowing users to take advantage of virtual switching, MACVLAN and IPVLAN as well as multiple IP management strategies, including DHCP. CNI is getting even wider adoption with Kubernetes adding support for it. Kubernetes accelerates development cycles while simplifying operations, and with support for CNI is taking the next step toward a common ground for networking. For continued success toward interoperability, Kubernetes users can come to this session to learn the CNI basics.This talk will cover the CNI interface, including an example of how to build a simple plugin. It will also show Kubernetes users how CNI can be used to solve their networking challenges and how they can get involved.\n",
+      "attachment": null,
+      "video": ""
+    },
+    {
+      "name": "Moving to Kubernetes – Tales from SoundCloud",
+      "url": "https://kubecon2015.sched.com//event/4Wd0/moving-to-kubernetes-tales-from-soundcloud?iframe=no",
+      "description": "\n  Like many other companies, SoundCloud migrated to a microservices architecture over the last couple of years. Today, there are several hundreds of services with thousands of container instances running in our datacenters. In this talk, I’ll give a brief overview of the current state of our infrastructure and how a typical service is deployed and can communicate with other services.To make it simple for teams to prototype, deploy and operate several services on their own, we built our own container runtime environment, called Bazooka. I’ll give an overview of Bazooka, its features and design decisions, but also the shortcomings and problems we faced over time: \n\nautomated scheduling.\nresource management for services with different load profiles.\nmonitoring of highly dynamic deploys or the requirements of stateful services.\n\nWith the rise of Docker and a general shift towards container-based environments, SoundCloud started to build more and more of its development workflows based on these new solutions. When it became clear that our existing system needed an overhaul to support additional requirements and overcome its shortcomings, we started to look into other container management technologies and available open-source options. In the second part, I’ll present our evaluation process and some of the requirements we defined for a suitable candidate. The attendee will learn which features and properties of Kubernetes make it the ideal choice for us.Finally, I’ll talk about the current state of our Kubernetes migration, some challenges we need to solve to integrate Kubernetes in our existing infrastructure, and present some open issues we are working on in order to eventually deploy and run all our services with Kubernetes.\n",
+      "attachment": null,
+      "video": ""
+    },
+    {
+      "name": "Migrating from homegrown ‘cluster’ to Kubernetes for fun and non-profit",
+      "url": "https://kubecon2015.sched.com//event/4WdN/migrating-from-homegrown-cluster-to-kubernetes-for-fun-and-non-profit?iframe=no",
+      "description": "\n  Wikimedia Tool Labs is a free and fully open source cluster environment made available to anyone who asks, to experiment with anything Wikimedia related. It's an important part of the Wikimedia universe – a study has found that when our bot infrastructure is down, the amount of time it takes to remove vandalism from Wikipedia almost doubles! (http://stuartgeiger.com/wikisym13-cluebot.pdf).In the 10 years it has been active it has accumulated lots of 'jury-rigged' homegrown solutions - based primarily on the last open source version of OpenGridEngine. This has led to interesting custom setups that users have embraced, got to work once and expect to keep working. Most users are volunteers, so we can't force them to change their code to adapt to new things too frequentlyIt is quite hard to follow most modern deployment practices with our current architecture, and most code does not (some are still CGIs!). Kubernetes seems to allow us to both provide a legacy, backwards compatible interface for users who are unwilling to change, and a more modern, 'native' kubectl interface for people who are - 'best of both worlds'. This 'backwards compatibility' setup is made possible by replicating our current runtime environment via docker images, thus allowing people to continue using their current setups with no changes. People who want to move to saner systems can just treat us as 'yet another kubernetes cluster' as much as possible - helping commoditize our infrastructure, which is A Good Thing.This talk will cover: # What Tool Labs is, and why it is important # A quick overview of our current setup, and why it is hard to change # Ongoing kubernetes based work to overhaul this setup # What kubernetes is going to offer to its users # Call for people to get involved - all of our infrastructure is open source and open to outside contributions!\n",
+      "attachment": null,
+      "video": ""
+    }
+  ]
+}
