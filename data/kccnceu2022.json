@@ -1,0 +1,2582 @@
+{
+  "url": "https://kccnceu2022.sched.com/?iframe=no",
+  "name": "KubeCon + CloudNativeCon Europe 2022: Schedule",
+  "sessions": [
+    {
+      "name": "Registration + Badge Pick-up",
+      "url": "https://kccnceu2022.sched.com/event/zAks/registration-badge-pick-up?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Registration + Badge Pick-up",
+      "url": "https://kccnceu2022.sched.com/event/zAky/registration-badge-pick-up?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Prometheus + Thanos Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10GVS/prometheus-thanos-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Data on Kubernetes Day 2022 Europe Hosted by CNCF [VIRTUAL] (Complimentary Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/10XQz/data-on-kubernetes-day-2022-europe-hosted-by-cncf-virtual-complimentary-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "SOLD OUT - Tetrate, Envoy, and Service Mesh Immersion Day Hosted by Tetrate (Complimentary Registration Required) - SOLD OUT",
+      "url": "https://kccnceu2022.sched.com/event/11Xhm/sold-out-tetrate-envoy-and-service-mesh-immersion-day-hosted-by-tetrate-complimentary-registration-required-sold-out?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] Cloud Native eBPF Day Europe Hosted By CNCF (Additional Registration + $499 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9cp/live-stream-cloud-native-ebpf-day-europe-hosted-by-cncf-additional-registration-499-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] Cloud Native Telco Day Europe Hosted By CNCF (Additional Registration + $499 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9dw/live-stream-cloud-native-telco-day-europe-hosted-by-cncf-additional-registration-499-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] Cloud Native Wasm Day Europe Hosted By CNCF (Additional Registration + $499 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9eS/live-stream-cloud-native-wasm-day-europe-hosted-by-cncf-additional-registration-499-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] Day 1: Cloud Native SecurityCon Europe Hosted by CNCF, Track 1 (Additional Registration + $599 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9gG/live-stream-day-1-cloud-native-securitycon-europe-hosted-by-cncf-track-1-additional-registration-599-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] FluentCon Europe Hosted By CNCF (Additional Registration + $499 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9hr/live-stream-fluentcon-europe-hosted-by-cncf-additional-registration-499-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] Kubernetes AI Day Europe Hosted by CNCF (Additional Registration + $499 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9j6/live-stream-kubernetes-ai-day-europe-hosted-by-cncf-additional-registration-499-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "TAG Observability Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10C9J/tag-observability-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Argo Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10C9D/argo-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Flux Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10C9G/flux-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "LitmusChaos Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10C97/litmuschaos-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Operator Day Hosted by Canonical [VIRTUAL] (Complimentary Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/10eaS/operator-day-hosted-by-canonical-virtual-complimentary-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "SOLD OUT - Secure your AWS Workloads as you Build Hosted by Snyk, Sysdig and Docker [VIRTUAL] (Complimentary Registration Required) - SOLD OUT",
+      "url": "https://kccnceu2022.sched.com/event/11Tk5/sold-out-secure-your-aws-workloads-as-you-build-hosted-by-snyk-sysdig-and-docker-virtual-complimentary-registration-required-sold-out?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "SOLD OUT - KubeCon + CloudNativeCon Happy Hour Hosted by Harness + Snyk (Complimentary Registration Required) - SOLD OUT",
+      "url": "https://kccnceu2022.sched.com/event/10RuM/sold-out-kubecon-cloudnativecon-happy-hour-hosted-by-harness-snyk-complimentary-registration-required-sold-out?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Registration + Badge Pick-up",
+      "url": "https://kccnceu2022.sched.com/event/zAjl/registration-badge-pick-up?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "containerd Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10C9T/containerd-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[CANCELLED] Backstage Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10C9Z/cancelled-backstage-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Kubernetes Data Workshop Hosted by Portworx by Pure Storage (Additional Registration + $50 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/zdtk/kubernetes-data-workshop-hosted-by-portworx-by-pure-storage-additional-registration-50-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Kubernetes on Azure Day at KubeCon + CloudNativeCon Europe 2022 Hosted by Microsoft Azure (Additional Registration + $50 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/zdpt/kubernetes-on-azure-day-at-kubecon-cloudnativecon-europe-2022-hosted-by-microsoft-azure-additional-registration-50-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "SOLD OUT - OpenShift Commons Gathering Hosted by Red Hat (Complimentary Registration Required) - SOLD OUT (Waitlist Available)",
+      "url": "https://kccnceu2022.sched.com/event/zeD3/sold-out-openshift-commons-gathering-hosted-by-red-hat-complimentary-registration-required-sold-out-waitlist-available?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] Day 2: Cloud Native SecurityCon Europe Hosted by CNCF, Track 1 (Additional Registration + $599 Fee Required for In Person Attendees, Includes both Tracks)",
+      "url": "https://kccnceu2022.sched.com/event/z9iQ/live-stream-day-2-cloud-native-securitycon-europe-hosted-by-cncf-track-1-additional-registration-599-fee-required-for-in-person-attendees-includes-both-tracks?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] Day 2: Cloud Native SecurityCon Europe Hosted by CNCF, Track 2 (Additional Registration + $599 Fee Required for In Person Attendees, Includes both Tracks)",
+      "url": "https://kccnceu2022.sched.com/event/z9ij/live-stream-day-2-cloud-native-securitycon-europe-hosted-by-cncf-track-2-additional-registration-599-fee-required-for-in-person-attendees-includes-both-tracks?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] GitOpsCon Europe Hosted by CNCF, Track 1 (Additional Fee + $449 Registration Required for In Person Attendees, Includes both Tracks)",
+      "url": "https://kccnceu2022.sched.com/event/z9jS/live-stream-gitopscon-europe-hosted-by-cncf-track-1-additional-fee-449-registration-required-for-in-person-attendees-includes-both-tracks?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] GitOpsCon Europe Hosted by CNCF, Track 2 (Additional Fee + $449 Registration Required for In Person Attendees, Includes both Tracks)",
+      "url": "https://kccnceu2022.sched.com/event/z9qk/live-stream-gitopscon-europe-hosted-by-cncf-track-2-additional-fee-449-registration-required-for-in-person-attendees-includes-both-tracks?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] KnativeCon Europe Hosted By CNCF (Additional Registration + $449 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9jv/live-stream-knativecon-europe-hosted-by-cncf-additional-registration-449-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] Kubernetes on Edge Day Europe Hosted by CNCF (Additional Registration + $449 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9kB/live-stream-kubernetes-on-edge-day-europe-hosted-by-cncf-additional-registration-449-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] PrometheusDay Europe Hosted By CNCF (Additional Registration + $449 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9l8/live-stream-prometheusday-europe-hosted-by-cncf-additional-registration-449-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] ServiceMeshCon Europe Hosted By CNCF (Additional Registration + $449 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9lT/live-stream-servicemeshcon-europe-hosted-by-cncf-additional-registration-449-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Build with the Most Automated and Scalable Kubernetes Hosted by Google Cloud [VIRTUAL] (Complimentary Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/10gzx/build-with-the-most-automated-and-scalable-kubernetes-hosted-by-google-cloud-virtual-complimentary-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "SOLD OUT - CDEventsCon Hosted by the CD Foundation (Complimentary Registration Required) - SOLD OUT (Virtual Available)",
+      "url": "https://kccnceu2022.sched.com/event/10Qyo/sold-out-cdeventscon-hosted-by-the-cd-foundation-complimentary-registration-required-sold-out-virtual-available?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Troubleshoot Kubernetes Clusters Hosted by Replicated [VIRTUAL] (Complimentary Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/ze3p/troubleshoot-kubernetes-clusters-hosted-by-replicated-virtual-complimentary-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[Live Stream] Kubernetes Batch + HPC Day Europe Hosted By CNCF (Additional Registration + $249 Fee Required for In Person Attendees)",
+      "url": "https://kccnceu2022.sched.com/event/z9lu/live-stream-kubernetes-batch-hpc-day-europe-hosted-by-cncf-additional-registration-249-fee-required-for-in-person-attendees?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Cloud Native Buildpacks Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10C9q/cloud-native-buildpacks-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "OpenTelemetry Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10C9c/opentelemetry-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[CANCELLED] Helm Project Meeting",
+      "url": "https://kccnceu2022.sched.com/event/10C9i/cancelled-helm-project-meeting?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "REGISTRATION CLOSED - Run Postgres, the Kubernetes Way - Garden Reception Hosted by EnterpriseDB [VIRTUAL] (Complimentary Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/11Tmv/registration-closed-run-postgres-the-kubernetes-way-garden-reception-hosted-by-enterprisedb-virtual-complimentary-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "The New Stack Tapas Tuesday (Limited Seating Availability; In Person Attendees Only)",
+      "url": "https://kccnceu2022.sched.com/event/11X8S/the-new-stack-tapas-tuesday-limited-seating-availability-in-person-attendees-only?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Open Source Program Office BoF + Happy Hour (Limited Seating Availability; In Person Attendees Only)",
+      "url": "https://kccnceu2022.sched.com/event/z8IY/open-source-program-office-bof-happy-hour-limited-seating-availability-in-person-attendees-only?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "AWS Container Days @ KubeCon + CloudNativeCon Europe 2022 Hosted by AWS [VIRTUAL] (Complimentary Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/11Tn7/aws-container-days-kubecon-cloudnativecon-europe-2022-hosted-by-aws-virtual-complimentary-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "SOLD OUT - Run Postgres, the Kubernetes Way - Garden Reception Hosted by EnterpriseDB [IN-PERSON] (Complimentary Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/11Xi4/sold-out-run-postgres-the-kubernetes-way-garden-reception-hosted-by-enterprisedb-in-person-complimentary-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Lightning Talk: Whyhappn Instead of Whodunnit: Avoiding the Term “Human Error” - Silvia Pina, Independent",
+      "url": "https://kccnceu2022.sched.com/event/ytwR/lightning-talk-whyhappn-instead-of-whodunnit-avoiding-the-term-human-error-silvia-pina-independent?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=Tocs7J2Hoiw"
+    },
+    {
+      "name": "Lightning Talk: Thank you Keptn Obvious! Making SLOs observable with Prometheus and Keptn - Andreas Grabner, Dynatrace",
+      "url": "https://kccnceu2022.sched.com/event/ytwU/lightning-talk-thank-you-keptn-obvious-making-slos-observable-with-prometheus-and-keptn-andreas-grabner-dynatrace?iframe=no",
+      "slides_name": "KubeCon2022 LT4 GRABNER Thank you Keptn Obvious",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/53/KubeCon2022_LT4_GRABNER_Thank%20you%20Keptn%20Obvious.pptx",
+      "video": "https://www.youtube.com/watch?v=5NDozsGMWIg"
+    },
+    {
+      "name": "Lightning Talk: Introducing O-Cloud, or How 5G Leverages Kubernetes - Nikolay Nikolaev, Juniper Networks",
+      "url": "https://kccnceu2022.sched.com/event/ytwX/lightning-talk-introducing-o-cloud-or-how-5g-leverages-kubernetes-nikolay-nikolaev-juniper-networks?iframe=no",
+      "slides_name": "Introducing O Cloud How 5G Leverages Kubernetes Nikolay Nikolaev",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/b2/Introducing_O-Cloud_How_5G_Leverages_Kubernetes_Nikolay_Nikolaev.pdf",
+      "video": "https://www.youtube.com/watch?v=VLQJ_Awp2x0"
+    },
+    {
+      "name": "Lightning Talk: What I’ve Learned by Running Local CNCF Chapter Cloud-native Islamabad - Saim Safdar, Neomeric Digitals",
+      "url": "https://kccnceu2022.sched.com/event/ytwa/lightning-talk-what-ive-learned-by-running-local-cncf-chapter-cloud-native-islamabad-saim-safdar-neomeric-digitals?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=ZB09VhIK57E"
+    },
+    {
+      "name": "Lightning Talk: What Made Your Container Fat? Visualizing the Size of Container Layers - Dan Čermák, SUSE",
+      "url": "https://kccnceu2022.sched.com/event/ytwd/lightning-talk-what-made-your-container-fat-visualizing-the-size-of-container-layers-dan-cermak-suse?iframe=no",
+      "slides_name": "lightning talk what made your container fat",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/2a/lightning_talk_what_made_your_container_fat.pdf",
+      "video": "https://www.youtube.com/watch?v=WpGmbJWr19E"
+    },
+    {
+      "name": "DevOpsDays #StandWithUkraine Hosted by DevOpsDays Kyiv [VIRTUAL] (Complimentary Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/11uFJ/devopsdays-standwithukraine-hosted-by-devopsdays-kyiv-virtual-complimentary-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Lightning Talk: Scaling Container Builds with Software Supply Chains - Duane DeCapite, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytwg/lightning-talk-scaling-container-builds-with-software-supply-chains-duane-decapite-vmware?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Lightning Talk: Tell Your SD-WAN About Your Service Mesh External Services! - Alberto Rodriguez, Cisco",
+      "url": "https://kccnceu2022.sched.com/event/ytwj/lightning-talk-tell-your-sd-wan-about-your-service-mesh-external-services-alberto-rodriguez-cisco?iframe=no",
+      "slides_name": "SDWAN ServiceMesh",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/7d/SDWAN-ServiceMesh.pdf",
+      "video": "https://www.youtube.com/watch?v=c1R3RS29x30"
+    },
+    {
+      "name": "Lightning Talk: Locating and Debugging Failures with Linkerd and Telepresence - Alejandro Pedraza, Buoyant \u0026 Edidiong Asikpo, Ambassador Labs",
+      "url": "https://kccnceu2022.sched.com/event/ytwm/lightning-talk-locating-and-debugging-failures-with-linkerd-and-telepresence-alejandro-pedraza-buoyant-edidiong-asikpo-ambassador-labs?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=E13a_CDGRV4"
+    },
+    {
+      "name": "Lightning Talk: Beginner to Maintainer Journey of a Student - Debabrata Panigrahi, National Institute of Technology Rourkela",
+      "url": "https://kccnceu2022.sched.com/event/ytwp/lightning-talk-beginner-to-maintainer-journey-of-a-student-debabrata-panigrahi-national-institute-of-technology-rourkela?iframe=no",
+      "slides_name": "Beginner to Maintainer Journey of a student",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/41/Beginner%20to%20Maintainer%20Journey%20of%20a%20student.pptx",
+      "video": "https://www.youtube.com/watch?v=WMO7EI8i3-Y"
+    },
+    {
+      "name": "Lightning Talk: Secure Multi User HPC Jobs in Kubernetes with Kyverno - Trey Dockendorf, Ohio Supercomputer Center",
+      "url": "https://kccnceu2022.sched.com/event/ytws/lightning-talk-secure-multi-user-hpc-jobs-in-kubernetes-with-kyverno-trey-dockendorf-ohio-supercomputer-center?iframe=no",
+      "slides_name": "kubecon eu 2022 lightning",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/46/kubecon-eu-2022-lightning.pptx",
+      "video": "https://www.youtube.com/watch?v=MpbxRL8XPJ8"
+    },
+    {
+      "name": "Community Fun Run / Walk - Leaves from the Sercotel Sorolla Palace (Additional Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/11joD/community-fun-run-walk-leaves-from-the-sercotel-sorolla-palace-additional-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Community Fun Run / Walk - Leaves from Westin Valencia (Additional Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/11joG/community-fun-run-walk-leaves-from-westin-valencia-additional-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Registration + Badge Pick-up",
+      "url": "https://kccnceu2022.sched.com/event/zAl2/registration-badge-pick-up?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Keynote: Welcome + Opening Remarks - Priyanka Sharma, Executive Director, Cloud Native Computing Foundation",
+      "url": "https://kccnceu2022.sched.com/event/yu7W/keynote-welcome-opening-remarks-priyanka-sharma-executive-director-cloud-native-computing-foundation?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=XqEflGXlErA"
+    },
+    {
+      "name": "Keynote: 7 Years of Running Kubernetes for Mercedes-Benz - Jens Erat, DevOps Engineer; Peter Mueller, Lead Expert; Sabine Wolz, Product Owner, Mercedes-Benz Tech Innovation",
+      "url": "https://kccnceu2022.sched.com/event/yu8F/keynote-7-years-of-running-kubernetes-for-mercedes-benz-jens-erat-devops-engineer-peter-mueller-lead-expert-sabine-wolz-product-owner-mercedes-benz-tech-innovation?iframe=no",
+      "slides_name": "2022 05 18 Keynote Mercedes Benz Tech Innovation",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/a6/2022-05-18-Keynote-Mercedes-Benz-Tech-Innovation.pdf",
+      "video": "https://www.youtube.com/watch?v=UmbjwSK9b3I"
+    },
+    {
+      "name": "Keynote: Finding Your Power to Accelerate to a Sustainable Future - Kate Mulhall, Senior Cloud Software Engineering Manager \u0026 Emma Collins, Product Manager for Observability and Power Management, Intel",
+      "url": "https://kccnceu2022.sched.com/event/yu9t/keynote-finding-your-power-to-accelerate-to-a-sustainable-future-kate-mulhall-senior-cloud-software-engineering-manager-emma-collins-product-manager-for-observability-and-power-management-intel?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=zTEN9d1Bxa8"
+    },
+    {
+      "name": "Keynote: Incremental Deep Learning For Satellite with KubeEdge and MindSpore - Xiaoman Hu, Community Operation Director; Zhipeng Huang, Director of AI Open Source; Yue Bao, Software Engineer, Huawei",
+      "url": "https://kccnceu2022.sched.com/event/yuEH/keynote-incremental-deep-learning-for-satellite-with-kubeedge-and-mindspore-xiaoman-hu-community-operation-director-zhipeng-huang-director-of-ai-open-source-yue-bao-software-engineer-huawei?iframe=no",
+      "slides_name": "KubeCon EU 2022 Presentation",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/b5/KubeCon_EU_2022_Presentation.pdf",
+      "video": "https://www.youtube.com/watch?v=Yk6wRsckroA"
+    },
+    {
+      "name": "Keynote: Supporting the Community – So Open Source Projects Can Grow and Thrive - Le Tran, Member of Technical Staff, Kasten by Veeam",
+      "url": "https://kccnceu2022.sched.com/event/yuHs/keynote-supporting-the-community-so-open-source-projects-can-grow-and-thrive-le-tran-member-of-technical-staff-kasten-by-veeam?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=ygay5V_383I"
+    },
+    {
+      "name": "Keynote: Closing Remarks - Jasmine James, Senior Engineering Manager-Developer Experience; Ricardo Rocha, Computing Engineer, CERN; Emily Fox, Security Engineer, Apple",
+      "url": "https://kccnceu2022.sched.com/event/yuEx/keynote-closing-remarks-jasmine-james-senior-engineering-manager-developer-experience-ricardo-rocha-computing-engineer-cern-emily-fox-security-engineer-apple?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Coffee Break ☕",
+      "url": "https://kccnceu2022.sched.com/event/zAiz/coffee-break?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Harbor",
+      "url": "https://kccnceu2022.sched.com/event/109VW/virtual-project-office-hours-harbor?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Pravega",
+      "url": "https://kccnceu2022.sched.com/event/zL2I/virtual-project-office-hours-pravega?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: wasmCloud",
+      "url": "https://kccnceu2022.sched.com/event/10G4W/virtual-project-office-hours-wasmcloud?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Solutions Showcase",
+      "url": "https://kccnceu2022.sched.com/event/z5T4/solutions-showcase?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "The Power of Cloud Native in Financial Institutions - Mateusz Pruchniak, mBank SA",
+      "url": "https://kccnceu2022.sched.com/event/ytkm/the-power-of-cloud-native-in-financial-institutions-mateusz-pruchniak-mbank-sa?iframe=no",
+      "slides_name": "KubeCon EU 2022 MPruchniak",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/b4/KubeCon_EU_2022_MPruchniak.pdf",
+      "video": "https://www.youtube.com/watch?v=JcbW31-K49g"
+    },
+    {
+      "name": "West Side CD: The Deployment Ballet Goes On - Benoit Moussaud, VMware Tanzu",
+      "url": "https://kccnceu2022.sched.com/event/ytks/west-side-cd-the-deployment-ballet-goes-on-benoit-moussaud-vmware-tanzu?iframe=no",
+      "slides_name": "West Side CD  Benoit Moussaud VMWare Tanzu",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/11/West%20Side%20CD%20-Benoit%20Moussaud-VMWare%20Tanzu.pdf",
+      "video": "https://www.youtube.com/watch?v=m0FjctG5uxU"
+    },
+    {
+      "name": "Kubernetes is Your Platform: Design Patterns For Extensible Controllers - Rafael Fernández López, SUSE \u0026 Fabrizio Pandini, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytka/kubernetes-is-your-platform-design-patterns-for-extensible-controllers-rafael-fernandez-lopez-suse-fabrizio-pandini-vmware?iframe=no",
+      "slides_name": "Developing Extensible Controllers",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/7e/Developing%20Extensible%20Controllers.pdf",
+      "video": "https://www.youtube.com/watch?v=I1-s7AxD1Ls"
+    },
+    {
+      "name": "Scaling Open Source ML: How Wolt Uses K8s To Deliver Great Food to Millions - Stephen Batifol, Wolt \u0026 Ed Shee, Seldon",
+      "url": "https://kccnceu2022.sched.com/event/ytkp/scaling-open-source-ml-how-wolt-uses-k8s-to-deliver-great-food-to-millions-stephen-batifol-wolt-ed-shee-seldon?iframe=no",
+      "slides_name": "Kubecon EU 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/72/Kubecon%20EU%202022.pdf",
+      "video": "https://www.youtube.com/watch?v=-TsTDaGrjBM"
+    },
+    {
+      "name": "containerd: Project Update and Deep Dive - Derek McGowan, Apple",
+      "url": "https://kccnceu2022.sched.com/event/ytso/containerd-project-update-and-deep-dive-derek-mcgowan-apple?iframe=no",
+      "slides_name": "2022   Kubecon EU   containerd",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/53/2022%20-%20Kubecon%20EU%20-%20containerd.pdf",
+      "video": "https://www.youtube.com/watch?v=USmJ33jG0F4"
+    },
+    {
+      "name": "CRI-O: Secure, Performant, and Boring as Ever! - Peter Hunt, Urvashi Mohnani, Mrunal Patel \u0026 Sascha Grunert, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytuh/cri-o-secure-performant-and-boring-as-ever-peter-hunt-urvashi-mohnani-mrunal-patel-sascha-grunert-red-hat?iframe=no",
+      "slides_name": "kubecon eu 2022 crio",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/e0/kubecon-eu-2022-crio.pdf",
+      "video": "https://www.youtube.com/watch?v=9OTsR3XN9Nk"
+    },
+    {
+      "name": "Emissary-ingress: Intro and Deep Dive - Flynn, Luke Shumaker \u0026 Alice Wasko, Ambassador Labs",
+      "url": "https://kccnceu2022.sched.com/event/ytkv/emissary-ingress-intro-and-deep-dive-flynn-luke-shumaker-alice-wasko-ambassador-labs?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=pukdE6TDP_c"
+    },
+    {
+      "name": "Fluent Bit: Logs, OpenMetrics, and OpenTelemetry all-in-one - Eduardo Silva \u0026 Anurag Gupta, Calyptia",
+      "url": "https://kccnceu2022.sched.com/event/ytl1/fluent-bit-logs-openmetrics-and-opentelemetry-all-in-one-eduardo-silva-anurag-gupta-calyptia?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=TciIQVve2V0"
+    },
+    {
+      "name": "Longhorn: Intro, Deep Dive and Q\u0026A - Sheng Yang, Joshua Moody, SUSE",
+      "url": "https://kccnceu2022.sched.com/event/ytl4/longhorn-intro-deep-dive-and-qa-sheng-yang-joshua-moody-suse?iframe=no",
+      "slides_name": "Introduction to Longhorn",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/6b/Introduction-to-Longhorn.pdf",
+      "video": "https://www.youtube.com/watch?v=EE185g4myLc"
+    },
+    {
+      "name": "Volcano: Intro \u0026 Deep Dive - Klaus Ma, Huawei Cloud",
+      "url": "https://kccnceu2022.sched.com/event/ytky/volcano-intro-deep-dive-klaus-ma-huawei-cloud?iframe=no",
+      "slides_name": "KubeCon EU 2022 Volcano Intro v2.0",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/bd/KubeCon_EU_2022_Volcano_Intro-v2.0.pdf",
+      "video": "https://www.youtube.com/watch?v=a76CajRhsX0"
+    },
+    {
+      "name": "How Lombard Odier Deployed VPA to Increase Resource Usage Efficiency - Vincent Sevel, Lombard Odier SA",
+      "url": "https://kccnceu2022.sched.com/event/ytkd/how-lombard-odier-deployed-vpa-to-increase-resource-usage-efficiency-vincent-sevel-lombard-odier-sa?iframe=no",
+      "slides_name": "kubecon 2022 vpa sevel",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/03/kubecon%202022%20vpa%20sevel.pdf",
+      "video": "https://www.youtube.com/watch?v=eAAio3KFm6w"
+    },
+    {
+      "name": "Create Your First CNCF Serverless Workflow Project with Kogito and Knative - Ricardo Zanini Fernandes, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytln/create-your-first-cncf-serverless-workflow-project-with-kogito-and-knative-ricardo-zanini-fernandes-red-hat?iframe=no",
+      "slides_name": "[Zanini] KubeCon EU 2022   Kogito Serverless Workflow",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/61/%5BZanini%5D%20KubeCon%20EU%202022%20-%20Kogito%20Serverless%20Workflow.pdf",
+      "video": "https://www.youtube.com/watch?v=yl6vK6TFRk4"
+    },
+    {
+      "name": "Intro to Kubernetes, GitOps, and Observability Hands-On Tutorial - Joaquin Rodriguez, Microsoft \u0026 Tiffany Wang, Weaveworks",
+      "url": "https://kccnceu2022.sched.com/event/ytkj/intro-to-kubernetes-gitops-and-observability-hands-on-tutorial-joaquin-rodriguez-microsoft-tiffany-wang-weaveworks?iframe=no",
+      "slides_name": "Intro to Kubernetes GitOps Observability KubeCon EU 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/3c/Intro_to_Kubernetes_GitOps_Observability_KubeCon_EU_2022.pdf",
+      "video": "https://www.youtube.com/watch?v=WKvogzTg2iM"
+    },
+    {
+      "name": "Multi-cluster Failover Using Linkerd - Charles Pretzer, Buoyant, Inc.",
+      "url": "https://kccnceu2022.sched.com/event/ytkg/multi-cluster-failover-using-linkerd-charles-pretzer-buoyant-inc?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=ieQ5eqd49BQ"
+    },
+    {
+      "name": "Virtual Project Office Hours: Chaos Mesh",
+      "url": "https://kccnceu2022.sched.com/event/zL4x/virtual-project-office-hours-chaos-mesh?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: KubeVirt",
+      "url": "https://kccnceu2022.sched.com/event/10GCG/virtual-project-office-hours-kubevirt?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Strimzi",
+      "url": "https://kccnceu2022.sched.com/event/zL55/virtual-project-office-hours-strimzi?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Seeing is Believing: Debugging with Ephemeral Containers - Aaron Alpar, Kasten",
+      "url": "https://kccnceu2022.sched.com/event/ytlG/seeing-is-believing-debugging-with-ephemeral-containers-aaron-alpar-kasten?iframe=no",
+      "slides_name": "Ephemeral Containers",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/70/Ephemeral_Containers.pdf",
+      "video": "https://www.youtube.com/watch?v=obasTgzhVR0"
+    },
+    {
+      "name": "Effective Disaster Recovery: The Day We Deleted Production - Rick Spencer \u0026 Wojciech Kocjan, InfluxData",
+      "url": "https://kccnceu2022.sched.com/event/ytlM/effective-disaster-recovery-the-day-we-deleted-production-rick-spencer-wojciech-kocjan-influxdata?iframe=no",
+      "slides_name": "Effective Disaster Recovery   The Day We Deleted Production",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/9a/Effective%20Disaster%20Recovery%20-%20The%20Day%20We%20Deleted%20Production.pdf",
+      "video": "https://www.youtube.com/watch?v=xDGjmav8UBg"
+    },
+    {
+      "name": "Network-aware Scheduling in Kubernetes - José Santos, Ghent University",
+      "url": "https://kccnceu2022.sched.com/event/ytlA/network-aware-scheduling-in-kubernetes-jose-santos-ghent-university?iframe=no",
+      "slides_name": "KubeCon EU 2022 JoseSantos ChenWang final",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/1e/KubeCon_EU_2022_JoseSantos_ChenWang_final.pdf",
+      "video": "https://www.youtube.com/watch?v=E4cP275_OCs"
+    },
+    {
+      "name": "Unlimited Data Science Libraries, One Container Image, No Installation! - Marcel Hild, Red Hat \u0026 Kenneth Hoste, Ghent University",
+      "url": "https://kccnceu2022.sched.com/event/ytlJ/unlimited-data-science-libraries-one-container-image-no-installation-marcel-hild-red-hat-kenneth-hoste-ghent-university?iframe=no",
+      "slides_name": "Unlimited Data Science Libraries, One Container Image, No Installation!",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/83/Unlimited%20Data%20Science%20Libraries%2C%20One%20Container%20Image%2C%20No%20Installation%21.pdf",
+      "video": "https://www.youtube.com/watch?v=qexssjXrW8Y"
+    },
+    {
+      "name": "Deep Dive into Minikube - Medya Ghazizadeh \u0026 Sharif Elgamal, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytlY/deep-dive-into-minikube-medya-ghazizadeh-sharif-elgamal-google?iframe=no",
+      "slides_name": "Minikube Talk KubeCon 2022 Spain",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/16/Minikube%20Talk%20KubeCon%202022%20Spain.pdf",
+      "video": "https://www.youtube.com/watch?v=Iyq_MlSku-I"
+    },
+    {
+      "name": "Flux Security Deep Dive - Stefan Prodan, Weaveworks",
+      "url": "https://kccnceu2022.sched.com/event/ytlV/flux-security-deep-dive-stefan-prodan-weaveworks?iframe=no",
+      "slides_name": "flux security deep dive",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/d5/flux-security-deep-dive.pdf",
+      "video": "https://www.youtube.com/watch?v=MjxZcY6THdc"
+    },
+    {
+      "name": "Making Your Apps and Infrastructure Services Failure-Resilient with Dapr - Yaron Schneider, Diagrid \u0026 Henry Spang, Microsoft",
+      "url": "https://kccnceu2022.sched.com/event/ytuk/making-your-apps-and-infrastructure-services-failure-resilient-with-dapr-yaron-schneider-diagrid-henry-spang-microsoft?iframe=no",
+      "slides_name": "Making Your Apps and Infrastructure Services Failure Resilient with",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/9c/Making%20Your%20Apps%20and%20Infrastructure%20Services%20Failure-Resilient%20with.pdf",
+      "video": "https://www.youtube.com/watch?v=Jw05zFpsPms"
+    },
+    {
+      "name": "Overview and State of Knative - Mauricio Salatino, VMware \u0026 Carlos Santana, IBM",
+      "url": "https://kccnceu2022.sched.com/event/ytlS/overview-and-state-of-knative-mauricio-salatino-vmware-carlos-santana-ibm?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=e5CbFDq-Jos"
+    },
+    {
+      "name": "Releasing Kubernetes Less Often and More Secure – The SIG Release Update - Adolfo García Veytia \u0026 Carlos Panato, Chainguard; Sascha Grunert, Red Hat; Stephen Augustus, Cisco",
+      "url": "https://kccnceu2022.sched.com/event/ytrh/releasing-kubernetes-less-often-and-more-secure-the-sig-release-update-adolfo-garcia-veytia-carlos-panato-chainguard-sascha-grunert-red-hat-stephen-augustus-cisco?iframe=no",
+      "slides_name": "Releasing Kubernetes Less Often and More Secure   SIG Release Update",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/30/Releasing%20Kubernetes%20Less%20Often%20and%20More%20Secure%20-%20SIG%20Release%20Update%20.pdf",
+      "video": "https://www.youtube.com/watch?v=qhQYu077zZU"
+    },
+    {
+      "name": "This is The Way: A Crash Course on the Intricacies of Managing CPUs in K8s - Swati Sehgal, Red Hat \u0026 Marlow Weston, Intel",
+      "url": "https://kccnceu2022.sched.com/event/ytlD/this-is-the-way-a-crash-course-on-the-intricacies-of-managing-cpus-in-k8s-swati-sehgal-red-hat-marlow-weston-intel?iframe=no",
+      "slides_name": "This is the way A crash course on the intricacies of managing CPUs in K8s Kubecon 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/1f/This%20is%20the%20way-A%20crash%20course%20on%20the%20intricacies%20of%20managing%20CPUs%20in%20K8s%20Kubecon%202022.pdf",
+      "video": "https://www.youtube.com/watch?v=IFEJD1YOpXo"
+    },
+    {
+      "name": "Bypassing Falco: How to Compromise a Cluster without Tripping the SOC - Shay Berkovich, BlackBerry",
+      "url": "https://kccnceu2022.sched.com/event/ytl7/bypassing-falco-how-to-compromise-a-cluster-without-tripping-the-soc-shay-berkovich-blackberry?iframe=no",
+      "slides_name": "BypassingFalco",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/58/BypassingFalco.pdf",
+      "video": "https://www.youtube.com/watch?v=2rSiSpaR6bI"
+    },
+    {
+      "name": "Virtual Project Office Hours: Cilium",
+      "url": "https://kccnceu2022.sched.com/event/10S7V/virtual-project-office-hours-cilium?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Crossplane",
+      "url": "https://kccnceu2022.sched.com/event/109Un/virtual-project-office-hours-crossplane?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Devfile",
+      "url": "https://kccnceu2022.sched.com/event/10KWW/virtual-project-office-hours-devfile?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Lunch Break 🍲",
+      "url": "https://kccnceu2022.sched.com/event/yu42/lunch-break?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "IN-PERSON ONLY | Meditation Session: Stress + Nervous System Support",
+      "url": "https://kccnceu2022.sched.com/event/11joZ/in-person-only-meditation-session-stress-nervous-system-support?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Pixie",
+      "url": "https://kccnceu2022.sched.com/event/zdqe/virtual-project-office-hours-pixie?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Telepresence",
+      "url": "https://kccnceu2022.sched.com/event/zaCj/virtual-project-office-hours-telepresence?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Vitess",
+      "url": "https://kccnceu2022.sched.com/event/10G3j/virtual-project-office-hours-vitess?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "No Docker, No YAML and a Polyglot Developer Experience on Top of Kubernetes - Thomas Vitale, Systematic \u0026 Mauricio Salatino, VMware",
+      "url": "https://kccnceu2022.sched.com/event/11LVP/no-docker-no-yaml-and-a-polyglot-developer-experience-on-top-of-kubernetes-thomas-vitale-systematic-mauricio-salatino-vmware?iframe=no",
+      "slides_name": "Polyglot Developer experience on Kubernetes (KubeCon)",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/b5/Polyglot%20Developer%20experience%20on%20Kubernetes%20%28KubeCon%29.pdf",
+      "video": ""
+    },
+    {
+      "name": "Spark on Kubernetes: The Elastic Story - Bowen Li \u0026 Huichao Zhao, Apple",
+      "url": "https://kccnceu2022.sched.com/event/ytlq/spark-on-kubernetes-the-elastic-story-bowen-li-huichao-zhao-apple?iframe=no",
+      "slides_name": "2022 KubeCon Europe Spark on Kubernetes The Elastic Story BowenLi HuichaoZhao v3",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/a3/2022_KubeCon_Europe_Spark_on_Kubernetes_The_Elastic_Story_BowenLi_HuichaoZhao_v3.pdf",
+      "video": "https://www.youtube.com/watch?v=n7WeoTJq-40"
+    },
+    {
+      "name": "Kubernetes for Mac: How to Consume Shiny AWS Mac Shapes for iOS Builds - Madhuri Yechuri, Elotl \u0026 Zach Gray, Flare.build",
+      "url": "https://kccnceu2022.sched.com/event/ytlw/kubernetes-for-mac-how-to-consume-shiny-aws-mac-shapes-for-ios-builds-madhuri-yechuri-elotl-zach-gray-flarebuild?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=LQOC8vI20eU"
+    },
+    {
+      "name": "The Risks of Single Maintainer Dependencies - John McBride, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytlk/the-risks-of-single-maintainer-dependencies-john-mcbride-vmware?iframe=no",
+      "slides_name": "Risks of single maintainers Kubecon EU 22 jmcbride",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/af/Risks-of-single-maintainers-Kubecon-EU-22-jmcbride.pdf",
+      "video": "https://www.youtube.com/watch?v=YBsDnXXW_d8"
+    },
+    {
+      "name": "Building Digital Twins for DFDS With Crossplane and Kubernetes - Tobias Andersen, DFDS \u0026 Matthias Luebken, Upbound",
+      "url": "https://kccnceu2022.sched.com/event/ytle/building-digital-twins-for-dfds-with-crossplane-and-kubernetes-tobias-andersen-dfds-matthias-luebken-upbound?iframe=no",
+      "slides_name": "Digital Twins at DFDS with Crossplane KubeCon EU 2022.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/6e/Digital%20Twins%20at%20DFDS%20with%20Crossplane%20KubeCon_EU_2022.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=zOWLy-eZQas"
+    },
+    {
+      "name": "Improving GPU Utilization using Kubernetes - Maulin Patel \u0026 Pradeep Venkatachalam, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytlt/improving-gpu-utilization-using-kubernetes-maulin-patel-pradeep-venkatachalam-google?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=X876kr-LkPA"
+    },
+    {
+      "name": "Falco to Pluginfinity and Beyond - Leonardo Grasso \u0026 Jason Dellaluce, Sysdig",
+      "url": "https://kccnceu2022.sched.com/event/ytlz/falco-to-pluginfinity-and-beyond-leonardo-grasso-jason-dellaluce-sysdig?iframe=no",
+      "slides_name": "KubeCon EU2022   Falco Maintainer Track   Falco to Pluginfinity and Beyond   Jason Dellaluce \u0026 Leonardo Grasso",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/5d/KubeCon%20EU2022%20-%20Falco%20Maintainer%20Track%20-%20Falco%20to%20Pluginfinity%20and%20Beyond%20-%20Jason%20Dellaluce%20%26%20Leonardo%20Grasso.pdf",
+      "video": "https://www.youtube.com/watch?v=tZI8Tzf1uzg"
+    },
+    {
+      "name": "Helm Project 2022: How You Can Benefit, How You Can Help - Scott Rigby, Weaveworks; Matt Butcher, Fermyon; Martin Hickey, IBM; Andrew Block, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytm5/helm-project-2022-how-you-can-benefit-how-you-can-help-scott-rigby-weaveworks-matt-butcher-fermyon-martin-hickey-ibm-andrew-block-red-hat?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=mgKSq7ekJJI"
+    },
+    {
+      "name": "It’s All for the Users. More Durable, Secure, and Pluggable. KubeVirt v0.53 - Alice Frosi, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytu1/its-all-for-the-users-more-durable-secure-and-pluggable-kubevirt-v053-alice-frosi-red-hat?iframe=no",
+      "slides_name": "kubecon demo video",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/a6/kubecon-demo-video.webm",
+      "video": "https://www.youtube.com/watch?v=L9H0pz5PpKo"
+    },
+    {
+      "name": "State of NATS: Core, Persistence, \u0026 Materialized Views - Tomasz Pietrek, Synadia Communications",
+      "url": "https://kccnceu2022.sched.com/event/ytm8/state-of-nats-core-persistence-materialized-views-tomasz-pietrek-synadia-communications?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=MPda_7EPrNU"
+    },
+    {
+      "name": "Working your Cluster: Smarter Scheduling Decisions for Your Workloads - Madalina Lazar \u0026 Denisio Togashi, Intel",
+      "url": "https://kccnceu2022.sched.com/event/ytlh/working-your-cluster-smarter-scheduling-decisions-for-your-workloads-madalina-lazar-denisio-togashi-intel?iframe=no",
+      "slides_name": "working your cluster smarter scheduling decisions for your workloads",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/bb/working-your-cluster-smarter-scheduling-decisions-for-your-workloads.pdf",
+      "video": "https://www.youtube.com/watch?v=csg7ZQXQ5u8"
+    },
+    {
+      "name": "Trampoline Pods: Node to Admin PrivEsc Built Into Popular K8s Platforms - Yuval Avrahami \u0026 Shaul Ben Hai, Palo Alto Networks",
+      "url": "https://kccnceu2022.sched.com/event/ytlb/trampoline-pods-node-to-admin-privesc-built-into-popular-k8s-platforms-yuval-avrahami-shaul-ben-hai-palo-alto-networks?iframe=no",
+      "slides_name": "Trampoline Pods  Node to Admin PrivEsc Built Into Popular K8s Platforms.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/35/Trampoline%20Pods_%20Node%20to%20Admin%20PrivEsc%20Built%20Into%20Popular%20K8s%20Platforms.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=PGsJ4QTlKlQ"
+    },
+    {
+      "name": "Virtual Project Office Hours: Dapr",
+      "url": "https://kccnceu2022.sched.com/event/10Fus/virtual-project-office-hours-dapr?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: SPIRE",
+      "url": "https://kccnceu2022.sched.com/event/10G66/virtual-project-office-hours-spire?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "K8s and Active Directory Can Be Friends! How to Use Dex to Bridge the Gap - Onkar Bhat, Kasten by Veeam",
+      "url": "https://kccnceu2022.sched.com/event/ytkX/k8s-and-active-directory-can-be-friends-how-to-use-dex-to-bridge-the-gap-onkar-bhat-kasten-by-veeam?iframe=no",
+      "slides_name": "Kubecon EU 2022 Tutorial   Onkar Bhat   final",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/bd/Kubecon%20EU%202022%20Tutorial%20-%20Onkar%20Bhat%20-%20final.pdf",
+      "video": "https://www.youtube.com/watch?v=ax0gJPKgsdU"
+    },
+    {
+      "name": "Disrupting the Downtime Continuum - Taylor Thomas \u0026 Brooks Townsend, Cosmonic",
+      "url": "https://kccnceu2022.sched.com/event/ytmQ/disrupting-the-downtime-continuum-taylor-thomas-brooks-townsend-cosmonic?iframe=no",
+      "slides_name": "Disrupting the Downtime Continuum",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/4b/Disrupting%20the%20Downtime%20Continuum.pdf",
+      "video": "https://www.youtube.com/watch?v=wjwKmq16shI"
+    },
+    {
+      "name": "Been There, Done That: Tales of Burnout from the Open Source World - Savitha Raghunathan, RedHat \u0026 Divya Mohan, SUSE",
+      "url": "https://kccnceu2022.sched.com/event/ytmK/been-there-done-that-tales-of-burnout-from-the-open-source-world-savitha-raghunathan-redhat-divya-mohan-suse?iframe=no",
+      "slides_name": "Been there, done that",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/aa/Been%20there%2C%20done%20that.pdf",
+      "video": "https://www.youtube.com/watch?v=KI57lX3rM0w"
+    },
+    {
+      "name": "Public Technical Oversight Committee (TOC) Meeting - Moderated by Chris Aniszczyk, CTO, The Linux Foundation",
+      "url": "https://kccnceu2022.sched.com/event/ytmW/public-technical-oversight-committee-toc-meeting-moderated-by-chris-aniszczyk-cto-the-linux-foundation?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=BZ-CjfHRpCY"
+    },
+    {
+      "name": "Confidential Containers Explained - James Magowan, IBM \u0026 Samuel Ortiz, Apple",
+      "url": "https://kccnceu2022.sched.com/event/ytmE/confidential-containers-explained-james-magowan-ibm-samuel-ortiz-apple?iframe=no",
+      "slides_name": "Confidential Containers Explained",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/7d/Confidential%20Containers%20Explained.pdf",
+      "video": "https://www.youtube.com/watch?v=rdC2ETvzun0"
+    },
+    {
+      "name": "How Cookpad Leverages Triton Inference Server To Boost Their Model Serving - Jose Navarro \u0026 Prayana Galih, Cookpad",
+      "url": "https://kccnceu2022.sched.com/event/ytmT/how-cookpad-leverages-triton-inference-server-to-boost-their-model-serving-jose-navarro-prayana-galih-cookpad?iframe=no",
+      "slides_name": "Cookpad slides",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/a0/Cookpad_slides.pdf",
+      "video": "https://www.youtube.com/watch?v=YMtLI1Ub85s"
+    },
+    {
+      "name": "Jaeger: Present and Future - Pavol Loffay, Red Hat \u0026 Jonah Kowall, Logz.io",
+      "url": "https://kccnceu2022.sched.com/event/ytmf/jaeger-present-and-future-pavol-loffay-red-hat-jonah-kowall-logzio?iframe=no",
+      "slides_name": "Jaeger Kubecon EU 2022   Upload",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/5f/Jaeger%20Kubecon%20EU%202022%20-%20Upload.pdf",
+      "video": "https://www.youtube.com/watch?v=NWQD_uCGP6k"
+    },
+    {
+      "name": "Kubernetes Event-driven Autoscaling with KEDA - Zbynek Roubalik, Red Hat \u0026 Jorge Turrado, Docplanner Tech",
+      "url": "https://kccnceu2022.sched.com/event/ytmZ/kubernetes-event-driven-autoscaling-with-keda-zbynek-roubalik-red-hat-jorge-turrado-docplanner-tech?iframe=no",
+      "slides_name": "KubeCon EU 2022   KEDA talk",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/89/KubeCon%20EU%202022%20-%20KEDA%20talk.pdf",
+      "video": "https://www.youtube.com/watch?v=vDMLswzc9tI"
+    },
+    {
+      "name": "Notary v2: Deep Dive and Open Issues - Justin Cormack, Docker \u0026 Steve Lasker, Microsoft",
+      "url": "https://kccnceu2022.sched.com/event/ytmi/notary-v2-deep-dive-and-open-issues-justin-cormack-docker-steve-lasker-microsoft?iframe=no",
+      "slides_name": "KubeCon EU 2022 Notary v2",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/e4/KubeCon_EU_2022_Notary-v2.pptx",
+      "video": "https://www.youtube.com/watch?v=7U4VdjgOFJc"
+    },
+    {
+      "name": "Autoscaling Kubernetes Deployments: A (Mostly) Practical Guide - Natalie Serrino, New Relic (Pixie team)",
+      "url": "https://kccnceu2022.sched.com/event/ytmH/autoscaling-kubernetes-deployments-a-mostly-practical-guide-natalie-serrino-new-relic-pixie-team?iframe=no",
+      "slides_name": "Autoscaling Kubernetes Deployments  a (Mostly) Practical Guide",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/59/Autoscaling%20Kubernetes%20Deployments_%20a%20%28Mostly%29%20Practical%20Guide.pdf",
+      "video": "https://www.youtube.com/watch?v=n8t_hbchQcc"
+    },
+    {
+      "name": "How Attackers Use Exposed Prometheus Server to Exploit Kubernetes Clusters - David de Torres Huerta \u0026 Miguel Hernández, Sysdig",
+      "url": "https://kccnceu2022.sched.com/event/ytmB/how-attackers-use-exposed-prometheus-server-to-exploit-kubernetes-clusters-david-de-torres-huerta-miguel-hernandez-sysdig?iframe=no",
+      "slides_name": "KubeCon EU 2022 Kubernetes fingerprinting with Prometheus",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/dd/KubeCon_EU_2022_Kubernetes%20fingerprinting%20with%20Prometheus.pdf",
+      "video": "https://www.youtube.com/watch?v=5cbbm_L6n7w"
+    },
+    {
+      "name": "Empower Autonomous Driving with Cloud Native Serverless Technologies - Benjamin Huo, QingCloud Technologies \u0026 Xiuming Lu, UISEE",
+      "url": "https://kccnceu2022.sched.com/event/ytmN/empower-autonomous-driving-with-cloud-native-serverless-technologies-benjamin-huo-qingcloud-technologies-xiuming-lu-uisee?iframe=no",
+      "slides_name": "Empower Autonomous Driving with cloud native Serverless technologies",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/d0/Empower%20Autonomous%20Driving%20with%20cloud%20native%20Serverless%20technologies.pdf",
+      "video": "https://www.youtube.com/watch?v=gPee28M04R8"
+    },
+    {
+      "name": "Virtual Project Office Hours: Brigade",
+      "url": "https://kccnceu2022.sched.com/event/zL5H/virtual-project-office-hours-brigade?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Open Cluster Management",
+      "url": "https://kccnceu2022.sched.com/event/zL5u/virtual-project-office-hours-open-cluster-management?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Serverless Workflow Specification",
+      "url": "https://kccnceu2022.sched.com/event/zL5m/virtual-project-office-hours-serverless-workflow-specification?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Coffee Break ☕",
+      "url": "https://kccnceu2022.sched.com/event/yu3t/coffee-break?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "IN-PERSON ONLY | Breathwork + Chair Yoga Session",
+      "url": "https://kccnceu2022.sched.com/event/11joc/in-person-only-breathwork-chair-yoga-session?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "From Kubernetes to PaaS to … Err, What’s Next? - Daniel Bryant, Ambassador Labs",
+      "url": "https://kccnceu2022.sched.com/event/ytn0/from-kubernetes-to-paas-to-err-whats-next-daniel-bryant-ambassador-labs?iframe=no",
+      "slides_name": "KubeCon EU 2022 Slides Final From Kubernetes to PaaS to Err Whats Next",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/99/KubeCon%20EU%202022%20Slides%20Final%20From%20Kubernetes%20to%20PaaS%20to%20Err%20Whats%20Next.pdf",
+      "video": "https://www.youtube.com/watch?v=btUYeOa7JPI"
+    },
+    {
+      "name": "Prow! Leveraging Developer-Centric CI for Your OSS Project! - Nabarun Pal, VMware \u0026 Arsh Sharma, Okteto",
+      "url": "https://kccnceu2022.sched.com/event/ytn6/prow-leveraging-developer-centric-ci-for-your-oss-project-nabarun-pal-vmware-arsh-sharma-okteto?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=sdU-3cqiJmg"
+    },
+    {
+      "name": "Good Governance Practices for CNCF Projects - Dawn Foster, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytmu/good-governance-practices-for-cncf-projects-dawn-foster-vmware?iframe=no",
+      "slides_name": "Good Governance CNCF Projects",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/7c/Good_Governance_CNCF_Projects.pdf",
+      "video": "https://www.youtube.com/watch?v=x0tgEpIER1M"
+    },
+    {
+      "name": "Supporting Long-Lived Pods Using a Simple Kubernetes Webhook - Clément Labbe, Slack",
+      "url": "https://kccnceu2022.sched.com/event/ytmo/supporting-long-lived-pods-using-a-simple-kubernetes-webhook-clement-labbe-slack?iframe=no",
+      "slides_name": "min pod lifespan v3",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/21/min-pod-lifespan-v3.pdf",
+      "video": "https://www.youtube.com/watch?v=ISuV0-8x2uA"
+    },
+    {
+      "name": "Accelerating High-Performance Machine Learning at Scale in Kubernetes - Alejandro Saucedo, The Institute for Ethical AI \u0026 Machine Learning \u0026 Elena Neroslavskaya, Microsoft",
+      "url": "https://kccnceu2022.sched.com/event/ytn3/accelerating-high-performance-machine-learning-at-scale-in-kubernetes-alejandro-saucedo-the-institute-for-ethical-ai-machine-learning-elena-neroslavskaya-microsoft?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=hj_lozIqo5M"
+    },
+    {
+      "name": "KubeEdge: From Fixed Location to Movable Edge, Latest Updates and Future - Kevin Wang (Zefeng), Huawei \u0026 Yin Ding, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytnF/kubeedge-from-fixed-location-to-movable-edge-latest-updates-and-future-kevin-wang-zefeng-huawei-yin-ding-google?iframe=no",
+      "slides_name": "KubeCon EU 2022 KubeEdge",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/ef/KubeCon_EU_2022_KubeEdge.pdf",
+      "video": "https://www.youtube.com/watch?v=vN1KOC6wiB4"
+    },
+    {
+      "name": "Maintainers, Project Services and CNCF - Amye Scarvada Perrin \u0026 Jeffrey Sica, Cloud Native Computing Foundation",
+      "url": "https://kccnceu2022.sched.com/event/yttI/maintainers-project-services-and-cncf-amye-scarvada-perrin-jeffrey-sica-cloud-native-computing-foundation?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Open Policy Agent (OPA) Intro \u0026 Deep Dive - Anders Eknert, Styra \u0026 Will Beason, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytnI/open-policy-agent-opa-intro-deep-dive-anders-eknert-styra-will-beason-google?iframe=no",
+      "slides_name": "OPA KubeConEU",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/5d/OPA%20KubeConEU.pdf",
+      "video": "https://www.youtube.com/watch?v=MhyQxIp1H58"
+    },
+    {
+      "name": "The Road to IPv6 Support in kOps - John Gardiner Myers, Proofpoint; Ciprian Hacman, polypoly; Ole Markus, Sportradar; Justin Santa Barbara, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytn9/the-road-to-ipv6-support-in-kops-john-gardiner-myers-proofpoint-ciprian-hacman-polypoly-ole-markus-sportradar-justin-santa-barbara-google?iframe=no",
+      "slides_name": "The Road to IPv6 Support in kOps",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/d4/The_Road_to_IPv6_Support_in_kOps.pdf",
+      "video": "https://www.youtube.com/watch?v=iBuPFMZu4_Q"
+    },
+    {
+      "name": "What's New With SIG Windows and Deep Dive Into Windows Container Users - Mark Rossetti \u0026 Brandon Smith, Microsoft; Jay Vyas, VMware; Claudiu Belu, Cloudbase Solutions",
+      "url": "https://kccnceu2022.sched.com/event/ytnC/whats-new-with-sig-windows-and-deep-dive-into-windows-container-users-mark-rossetti-brandon-smith-microsoft-jay-vyas-vmware-claudiu-belu-cloudbase-solutions?iframe=no",
+      "slides_name": "KubeCon EU 2022 sig windows",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/95/KubeCon_EU_2022_sig-windows.pptx",
+      "video": "https://www.youtube.com/watch?v=THaDy6u-Cgk"
+    },
+    {
+      "name": "Getting the Optimal Service Efficiency That Autoscalers Won’t Give You - Mauro Pessina, Moviri",
+      "url": "https://kccnceu2022.sched.com/event/ytmr/getting-the-optimal-service-efficiency-that-autoscalers-wont-give-you-mauro-pessina-moviri?iframe=no",
+      "slides_name": "Moviri   Getting the optimal service efficiency that autoscalers won’t give you",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/b1/Moviri%20-%20Getting%20the%20optimal%20service%20efficiency%20that%20autoscalers%20won%E2%80%99t%20give%20you.pdf",
+      "video": "https://www.youtube.com/watch?v=Z-G6yMavQrU"
+    },
+    {
+      "name": "Securing Kubernetes Applications by Crafting Custom Seccomp Profiles - Sascha Grunert, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytml/securing-kubernetes-applications-by-crafting-custom-seccomp-profiles-sascha-grunert-red-hat?iframe=no",
+      "slides_name": "kubecon eu 2022 seccomp",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/01/kubecon-eu-2022-seccomp.pdf",
+      "video": "https://www.youtube.com/watch?v=alx38YdvvzA"
+    },
+    {
+      "name": "Crack the FaaS Cold Start and Scalability Bottleneck - Cathy Zhang \u0026 Rui Zang, Intel",
+      "url": "https://kccnceu2022.sched.com/event/ytmx/crack-the-faas-cold-start-and-scalability-bottleneck-cathy-zhang-rui-zang-intel?iframe=no",
+      "slides_name": "Crack the FaaS Cold Start and Scalability Bottleneck",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/8e/Crack_the_FaaS_Cold_Start_and_Scalability_Bottleneck.pdf",
+      "video": "https://www.youtube.com/watch?v=RUfcc-OpBAM"
+    },
+    {
+      "name": "Production-scale Containerized Game Platform Practice in Bytedance - Chenyu Jiang, ByteDance, Inc \u0026 Viktor Farcic, Upbound",
+      "url": "https://kccnceu2022.sched.com/event/ytna/production-scale-containerized-game-platform-practice-in-bytedance-chenyu-jiang-bytedance-inc-viktor-farcic-upbound?iframe=no",
+      "slides_name": "KubeCon EU 2022 Presentation Production scale containerized game platform practice in ByteDance",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/eb/KubeCon_EU_2022_Presentation_Production_scale_containerized_game_platform_practice_in_ByteDance.pdf",
+      "video": "https://www.youtube.com/watch?v=bHDPCuCCH0E"
+    },
+    {
+      "name": "Automated Progressive Delivery Using GitOps and Service Mesh - Yasen Simeonov \u0026 Henrik Blixt, Intuit",
+      "url": "https://kccnceu2022.sched.com/event/ytng/automated-progressive-delivery-using-gitops-and-service-mesh-yasen-simeonov-henrik-blixt-intuit?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=5Ko-CnP2qhA"
+    },
+    {
+      "name": "OSS Docs and How to Scale Them: Common Themes From the CNCF Ecosystem - Celeste Horgan, CNCF",
+      "url": "https://kccnceu2022.sched.com/event/ytnU/oss-docs-and-how-to-scale-them-common-themes-from-the-cncf-ecosystem-celeste-horgan-cncf?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=rYq93ovFgXY"
+    },
+    {
+      "name": "KubeFlux: An HPC Scheduler Plugin for Kubernetes - Claudia Misale, IBM T.J. Watson Research Center \u0026 Daniel Milroy, Lawrence Livermore National Laboratory",
+      "url": "https://kccnceu2022.sched.com/event/ytnO/kubeflux-an-hpc-scheduler-plugin-for-kubernetes-claudia-misale-ibm-tj-watson-research-center-daniel-milroy-lawrence-livermore-national-laboratory?iframe=no",
+      "slides_name": "KubeCon EU 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/d5/KubeCon_EU_2022.pdf",
+      "video": "https://www.youtube.com/watch?v=3HGzzfsFrGQ"
+    },
+    {
+      "name": "Tower of Babel: Making Apache Spark, Kubeflow, and Kubernetes Play Nice - Holden Karau, Netflix",
+      "url": "https://kccnceu2022.sched.com/event/ytnd/tower-of-babel-making-apache-spark-kubeflow-and-kubernetes-play-nice-holden-karau-netflix?iframe=no",
+      "slides_name": "Kubeflow for COVID (3)",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/73/Kubeflow%20for%20COVID%20%283%29.pdf",
+      "video": "https://www.youtube.com/watch?v=6eLkjPvzKRs"
+    },
+    {
+      "name": "Harbor - Enterprise Cloud Native Artifact Registry - Yan Wang, Chenyu Zhang, Daojun Zhang, VMware \u0026 Vadim Bauer, Container Registry",
+      "url": "https://kccnceu2022.sched.com/event/ytun/harbor-enterprise-cloud-native-artifact-registry-yan-wang-chenyu-zhang-daojun-zhang-vmware-vadim-bauer-container-registry?iframe=no",
+      "slides_name": "KubeCon EU 2022 Presentation Harbor v1",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/c3/KubeCon_EU_2022_Presentation_Harbor_v1.pptx",
+      "video": "https://www.youtube.com/watch?v=00Gkoijmxlc"
+    },
+    {
+      "name": "Kubernetes Data Protection WG Deep Dive - Xiangqian Yu, Google \u0026 Xing Yang, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytnj/kubernetes-data-protection-wg-deep-dive-xiangqian-yu-google-xing-yang-vmware?iframe=no",
+      "slides_name": "KubeCon EU 2022 Data Protection WG.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/cc/KubeCon_EU_2022_Data_Protection_WG.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=nO-0LqWtpqg"
+    },
+    {
+      "name": "Kubernetes Steering Committee AMA - Christoph Blecker, Red Hat; Bob Killen, Google; Tim Pepper \u0026 Davanum Srinivas, VMware; Paris Pittman, Apple; Stephen Augustus, Cisco",
+      "url": "https://kccnceu2022.sched.com/event/ytnp/kubernetes-steering-committee-ama-christoph-blecker-red-hat-bob-killen-google-tim-pepper-davanum-srinivas-vmware-paris-pittman-apple-stephen-augustus-cisco?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=btAVAVeY_gM"
+    },
+    {
+      "name": "OpenTelemetry: The Road Ahead + Meet the Community - Morgan McLean, Splunk; Alolita Sharma, Amazon; Ted Young, Lightstep; Daniel Dyla, Dynatrace",
+      "url": "https://kccnceu2022.sched.com/event/ytns/opentelemetry-the-road-ahead-meet-the-community-morgan-mclean-splunk-alolita-sharma-amazon-ted-young-lightstep-daniel-dyla-dynatrace?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=2uuqGuKpyQ8"
+    },
+    {
+      "name": "Real World SPIFFE Scenarios and Outcomes - Andres Vega \u0026 Frederick Kautz, SPIFFE Steering Committee",
+      "url": "https://kccnceu2022.sched.com/event/10Bx1/real-world-spiffe-scenarios-and-outcomes-andres-vega-frederick-kautz-spiffe-steering-committee?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Rook: Intro and Deep Dive with Ceph Storage - Travis Nielsen, Sebastien Han \u0026 Blaine Gardner, Red Hat; Satoru Takeuchi, Cybozu, Inc.",
+      "url": "https://kccnceu2022.sched.com/event/ytnm/rook-intro-and-deep-dive-with-ceph-storage-travis-nielsen-sebastien-han-blaine-gardner-red-hat-satoru-takeuchi-cybozu-inc?iframe=no",
+      "slides_name": "KubeCon EU 2022 Apr  Rook Intro \u0026 Deep Dive",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/e5/KubeCon%20EU%202022%20Apr_%20Rook%20Intro%20%26%20Deep%20Dive.pdf",
+      "video": "https://www.youtube.com/watch?v=TwGJsTa3F2g"
+    },
+    {
+      "name": "The CRDs that Broke the Camel's Back - Alper Rifat Ulucinar, Upbound",
+      "url": "https://kccnceu2022.sched.com/event/ytnR/the-crds-that-broke-the-camels-back-alper-rifat-ulucinar-upbound?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=jYiLN0vmncw"
+    },
+    {
+      "name": "The Hitchhiker's Guide to Pod Security - Lachlan Evenson, Microsoft",
+      "url": "https://kccnceu2022.sched.com/event/ytnL/the-hitchhikers-guide-to-pod-security-lachlan-evenson-microsoft?iframe=no",
+      "slides_name": "KubeCon EU 2022   The Hitchhiker's Guide to Pod Security",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/e3/KubeCon%20EU%202022%20-%20The%20Hitchhiker%27s%20Guide%20to%20Pod%20Security.pdf",
+      "video": "https://www.youtube.com/watch?v=gcz5VsvOYmI"
+    },
+    {
+      "name": "Building a Nodeless Kubernetes Platform - William Denniss, Google Cloud",
+      "url": "https://kccnceu2022.sched.com/event/ytnX/building-a-nodeless-kubernetes-platform-william-denniss-google-cloud?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=H2iI9o-qwBE"
+    },
+    {
+      "name": "Welcome Reception + Booth Crawl",
+      "url": "https://kccnceu2022.sched.com/event/yul5/welcome-reception-booth-crawl?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "DevOpsDays #StandWithUkraine Hosted by DevOpsDays Kyiv [VIRTUAL] (Complimentary Registration Required)",
+      "url": "https://kccnceu2022.sched.com/event/11uFU/devopsdays-standwithukraine-hosted-by-devopsdays-kyiv-virtual-complimentary-registration-required?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Guided Bike Tour - Leaves from the Sercotel Sorolla Palace (Additional Registration Required; Limited Availability)",
+      "url": "https://kccnceu2022.sched.com/event/11hF4/guided-bike-tour-leaves-from-the-sercotel-sorolla-palace-additional-registration-required-limited-availability?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Guided Bike Tour - Leaves from Westin Valencia (Additional Registration Required; Limited Availability)",
+      "url": "https://kccnceu2022.sched.com/event/11jpF/guided-bike-tour-leaves-from-westin-valencia-additional-registration-required-limited-availability?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Registration + Badge Pick-up",
+      "url": "https://kccnceu2022.sched.com/event/zAlA/registration-badge-pick-up?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Keynote: Kubernetes Project Updates - Jasmine James, Senior Engineering Manager-Developer Experience; Ricardo Rocha, Computing Engineer, CERN; Emily Fox, Security Engineer, Apple",
+      "url": "https://kccnceu2022.sched.com/event/yuFF/keynote-kubernetes-project-updates-jasmine-james-senior-engineering-manager-developer-experience-ricardo-rocha-computing-engineer-cern-emily-fox-security-engineer-apple?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=Ar4CgGHhpls"
+    },
+    {
+      "name": "Keynote: Securing Shopify's Software Supply Chain - Shane Lawrence, Staff Infrastructure Security Engineer, Shopify",
+      "url": "https://kccnceu2022.sched.com/event/yuFX/keynote-securing-shopifys-software-supply-chain-shane-lawrence-staff-infrastructure-security-engineer-shopify?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=yuDMsB0jsdE"
+    },
+    {
+      "name": "Keynote: THE API IS PEOPLE! - Stephen Augustus, Head of Open Source, Cisco",
+      "url": "https://kccnceu2022.sched.com/event/yuFh/keynote-the-api-is-people-stephen-augustus-head-of-open-source-cisco?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=d1XrshrkMfg"
+    },
+    {
+      "name": "Keynote: Landscape Sustainability: The Pillars of Cloud Native Growth - Dave Zolotusky, Software Engineer, Spotify \u0026 Katie Gamanji, Senior Kubernetes Field Engineer, Apple",
+      "url": "https://kccnceu2022.sched.com/event/zAnV/keynote-landscape-sustainability-the-pillars-of-cloud-native-growth-dave-zolotusky-software-engineer-spotify-katie-gamanji-senior-kubernetes-field-engineer-apple?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=YWZsXdAXFO8"
+    },
+    {
+      "name": "Keynote: Building Bridges: Cloud Native and High Performance Computing - Ricardo Rocha, Computing Engineer, CERN",
+      "url": "https://kccnceu2022.sched.com/event/yuGH/keynote-building-bridges-cloud-native-and-high-performance-computing-ricardo-rocha-computing-engineer-cern?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=M95AQi1wA_s"
+    },
+    {
+      "name": "Keynote: PlatformOps: It’s all about Developer Experience - Ben Hale, Technical Lead, VMware Tanzu",
+      "url": "https://kccnceu2022.sched.com/event/yuEL/keynote-platformops-its-all-about-developer-experience-ben-hale-technical-lead-vmware-tanzu?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=5QsnUnlMyA8"
+    },
+    {
+      "name": "Keynote: The Cloud Native Chasm - Emily Fox, Security Engineer, Apple",
+      "url": "https://kccnceu2022.sched.com/event/yuGS/keynote-the-cloud-native-chasm-emily-fox-security-engineer-apple?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=XTC9YRumGRg"
+    },
+    {
+      "name": "Keynote: Closing Remarks - Jasmine James, Senior Engineering Manager-Developer Experience; Ricardo Rocha, Computing Engineer, CERN; Emily Fox, Security Engineer, Apple",
+      "url": "https://kccnceu2022.sched.com/event/yuGZ/keynote-closing-remarks-jasmine-james-senior-engineering-manager-developer-experience-ricardo-rocha-computing-engineer-cern-emily-fox-security-engineer-apple?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Coffee Break ☕",
+      "url": "https://kccnceu2022.sched.com/event/yu3w/coffee-break?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "IN-PERSON ONLY | Meditation Session: Mindfulness for Presence",
+      "url": "https://kccnceu2022.sched.com/event/11jof/in-person-only-meditation-session-mindfulness-for-presence?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: KubeVela",
+      "url": "https://kccnceu2022.sched.com/event/zL6L/virtual-project-office-hours-kubevela?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Kyverno",
+      "url": "https://kccnceu2022.sched.com/event/zL6A/virtual-project-office-hours-kyverno?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Longhorn",
+      "url": "https://kccnceu2022.sched.com/event/zL6k/virtual-project-office-hours-longhorn?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Solutions Showcase",
+      "url": "https://kccnceu2022.sched.com/event/yuli/solutions-showcase?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "CNCF 101 - Kristi Tan, The Linux Foundation \u0026 Charley Mann, Cloud Native Computing Foundation",
+      "url": "https://kccnceu2022.sched.com/event/11Q0F/cncf-101-kristi-tan-the-linux-foundation-charley-mann-cloud-native-computing-foundation?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Sharing Knowledge: Writing Good Docs for Quick Approval - Jared Bhatti, Waymo",
+      "url": "https://kccnceu2022.sched.com/event/ytoG/sharing-knowledge-writing-good-docs-for-quick-approval-jared-bhatti-waymo?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=d3XO6pc_g_U"
+    },
+    {
+      "name": "Case Study: Bringing Chaos Engineering to the Cloud Native Developers - Uma Mukkara, ChaosNative \u0026 Ramiro Berrelleza, Okteto",
+      "url": "https://kccnceu2022.sched.com/event/ytoA/case-study-bringing-chaos-engineering-to-the-cloud-native-developers-uma-mukkara-chaosnative-ramiro-berrelleza-okteto?iframe=no",
+      "slides_name": "KubeConEU 2022 UmaMukkara Ramiro",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/e1/KubeConEU-2022-UmaMukkara-Ramiro.pdf",
+      "video": "https://www.youtube.com/watch?v=KSl-oKk6TPA"
+    },
+    {
+      "name": "Learnings From Providing A Platform API With Kubernetes And Crossplane - Hannes Blut \u0026 Jan Willies, Accenture",
+      "url": "https://kccnceu2022.sched.com/event/ytny/learnings-from-providing-a-platform-api-with-kubernetes-and-crossplane-hannes-blut-jan-willies-accenture?iframe=no",
+      "slides_name": "2022 05 KubeCon EU 2022 CNP",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/1a/2022-05-KubeCon_EU_2022_CNP.pdf",
+      "video": "https://www.youtube.com/watch?v=XyR9DGnOpXo"
+    },
+    {
+      "name": "Adapting TiKV for Cloud Storage - Xinye Tao \u0026 Jinpeng Zhang, PingCAP",
+      "url": "https://kccnceu2022.sched.com/event/ytoM/adapting-tikv-for-cloud-storage-xinye-tao-jinpeng-zhang-pingcap?iframe=no",
+      "slides_name": "CNCF  Adapting TiKV for Cloud Storage",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/33/CNCF_%20Adapting%20TiKV%20for%20Cloud%20Storage.pdf",
+      "video": "https://www.youtube.com/watch?v=hzzHn6oiOp8"
+    },
+    {
+      "name": "Kubernetes IoT Edge Working Group: Edge Device Onboarding and Management - Steven Wong, VMware; Kate Goldenring, Microsoft; Kilton Hopkins, Edgeworx",
+      "url": "https://kccnceu2022.sched.com/event/ytoP/kubernetes-iot-edge-working-group-edge-device-onboarding-and-management-steven-wong-vmware-kate-goldenring-microsoft-kilton-hopkins-edgeworx?iframe=no",
+      "slides_name": "IOT KubeCon EU 2022 Kubernetes IoT Edge Working Group  Edge Device Onboarding and Management",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/92/IOT%20KubeCon%20EU%202022%20Kubernetes%20IoT%20Edge%20Working%20Group-%20Edge%20Device%20Onboarding%20and%20Management.pdf",
+      "video": "https://www.youtube.com/watch?v=CMthyqMhuq4"
+    },
+    {
+      "name": "SIG Autoscaling Updates and Feature Highlights - Michael McCune, Red Hat; Joachim Bartosik, Google; Guy Templeton, Skyscanner; David Morrison, Airbnb",
+      "url": "https://kccnceu2022.sched.com/event/ytoJ/sig-autoscaling-updates-and-feature-highlights-michael-mccune-red-hat-joachim-bartosik-google-guy-templeton-skyscanner-david-morrison-airbnb?iframe=no",
+      "slides_name": "KubeCon EU 2022   SIG Autoscaling (2)",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/13/KubeCon%20EU%202022%20-%20SIG%20Autoscaling%20%282%29.pdf",
+      "video": "https://www.youtube.com/watch?v=XWPbWM12r8g"
+    },
+    {
+      "name": "What's New in Operator Framework? - Jonathan Berkhahn, IBM; Varsha Prasad, Jesus Rodriguez \u0026 Austin Macdonald, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytoS/whats-new-in-operator-framework-jonathan-berkhahn-ibm-varsha-prasad-jesus-rodriguez-austin-macdonald-red-hat?iframe=no",
+      "slides_name": "Kubecon EU 2022 Operator Framework",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/bf/Kubecon%20EU%202022%20Operator%20Framework.pdf",
+      "video": "https://www.youtube.com/watch?v=XaIXWHKuzzI"
+    },
+    {
+      "name": "Operating Prometheus in a Serverless World - Colin Douch, Cloudflare",
+      "url": "https://kccnceu2022.sched.com/event/yto1/operating-prometheus-in-a-serverless-world-colin-douch-cloudflare?iframe=no",
+      "slides_name": "Operating Prometheus in a Serverless World",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/6b/Operating%20Prometheus%20in%20a%20Serverless%20World.pdf",
+      "video": "https://www.youtube.com/watch?v=Zln_Kvv7hxY"
+    },
+    {
+      "name": "Fun with Continuous Compliance - Ann Wallace, Shopify \u0026 Zeal Somani, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytnv/fun-with-continuous-compliance-ann-wallace-shopify-zeal-somani-google?iframe=no",
+      "slides_name": "KubeCon EU 2022 Fun With Continuous Compliance",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/0a/KubeCon%20EU%202022%20Fun%20With%20Continuous%20Compliance.pdf",
+      "video": "https://www.youtube.com/watch?v=9Q-ZeN6WXg8"
+    },
+    {
+      "name": "Autoscaling Elasticsearch for Logs on Kubernetes - Radu Gheorghe, Sematext Group \u0026 Ciprian Hacman, polypoly",
+      "url": "https://kccnceu2022.sched.com/event/ytoD/autoscaling-elasticsearch-for-logs-on-kubernetes-radu-gheorghe-sematext-group-ciprian-hacman-polypoly?iframe=no",
+      "slides_name": "Autoscaling Elasticsearch for Logs on Kubernetes 2",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/ee/Autoscaling_Elasticsearch_for_Logs_on_Kubernetes_2.pdf",
+      "video": "https://www.youtube.com/watch?v=ONGqk3xXRTw"
+    },
+    {
+      "name": "Cloud-Native Building Blocks: An Interactive Envoy Proxy Workshop - Adam Sayah \u0026 Jim Barton, Solo.io",
+      "url": "https://kccnceu2022.sched.com/event/yto7/cloud-native-building-blocks-an-interactive-envoy-proxy-workshop-adam-sayah-jim-barton-soloio?iframe=no",
+      "slides_name": "KubeCon EU 2022 Envoy Workshop",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/0b/KubeCon_EU_2022_Envoy_Workshop.pdf",
+      "video": "https://www.youtube.com/watch?v=SNM-wnyRR8U"
+    },
+    {
+      "name": "GitOps to Automate the Setup, Management and Extension a K8s Cluster - Kim Schlesinger, DigitalOcean",
+      "url": "https://kccnceu2022.sched.com/event/yto4/gitops-to-automate-the-setup-management-and-extension-a-k8s-cluster-kim-schlesinger-digitalocean?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=rra7TkYOnko"
+    },
+    {
+      "name": "Virtual Project Office Hours: Antrea",
+      "url": "https://kccnceu2022.sched.com/event/zL72/virtual-project-office-hours-antrea?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Helm",
+      "url": "https://kccnceu2022.sched.com/event/zL6t/virtual-project-office-hours-helm?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: SchemaHero",
+      "url": "https://kccnceu2022.sched.com/event/zL78/virtual-project-office-hours-schemahero?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Implementing Cert-manager in K8s - Jose Manuel Ortega, Freelance",
+      "url": "https://kccnceu2022.sched.com/event/ytok/implementing-cert-manager-in-k8s-jose-manuel-ortega-freelance?iframe=no",
+      "slides_name": "KubeCon EU 2022 Presentation Template",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/4c/KubeCon_EU_2022_Presentation_Template.pdf",
+      "video": "https://www.youtube.com/watch?v=X8U6EUFJZQc"
+    },
+    {
+      "name": "The Soul of a New Command: Adding ‘Events’ to kubectl - Bryan Boreham, Grafana Labs",
+      "url": "https://kccnceu2022.sched.com/event/ytoe/the-soul-of-a-new-command-adding-events-to-kubectl-bryan-boreham-grafana-labs?iframe=no",
+      "slides_name": "kubectl events",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/67/kubectl%20events.pdf",
+      "video": "https://www.youtube.com/watch?v=YI1ZuN-OHNw"
+    },
+    {
+      "name": "What If... Kube-Apiserver Could be Extended Via WebAssembly? - Flavio Castelli, SUSE",
+      "url": "https://kccnceu2022.sched.com/event/ytoY/what-if-kube-apiserver-could-be-extended-via-webassembly-flavio-castelli-suse?iframe=no",
+      "slides_name": "KubeCon EU 2022   What if",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/9d/KubeCon%20EU%202022%20-%20What%20if.pdf",
+      "video": "https://www.youtube.com/watch?v=4CKcMZySUbc"
+    },
+    {
+      "name": "Argo’s Vibrant Ecosystem and Community - Alex Collins, Intuit; Alexander Matyushentsev, Akuity; Dan Garfield, Codefresh",
+      "url": "https://kccnceu2022.sched.com/event/ytoq/argos-vibrant-ecosystem-and-community-alex-collins-intuit-alexander-matyushentsev-akuity-dan-garfield-codefresh?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=9tYkxlhXdw4"
+    },
+    {
+      "name": "Kubernetes SIG CLI: Intro and Updates - Eddie Zaneski, Chainguard; Katrina Verey, Shopify; Maciej Szulik, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytot/kubernetes-sig-cli-intro-and-updates-eddie-zaneski-chainguard-katrina-verey-shopify-maciej-szulik-red-hat?iframe=no",
+      "slides_name": "KubeCon EU 2022 SIG CLI.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/da/KubeCon%20EU%202022%20SIG%20CLI.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=eOxy1PS5TyQ"
+    },
+    {
+      "name": "SIG Cloud Provider: Portable K8s Across all Clouds, Roadmap and Updates - Nick Turner, Amazon \u0026 Steve Wong, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytow/sig-cloud-provider-portable-k8s-across-all-clouds-roadmap-and-updates-nick-turner-amazon-steve-wong-vmware?iframe=no",
+      "slides_name": "KubeCon EU 2022 Cloud Provider SIG rev1.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/68/KubeCon%20EU%202022%20Cloud%20Provider%20SIG%20rev1.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=FNcnQ5QlUco"
+    },
+    {
+      "name": "SIG Instrumentation Introduction and Deep Dive - Damien Grisonnet, Red Hat \u0026 Patrick Ohly, Intel",
+      "url": "https://kccnceu2022.sched.com/event/yton/sig-instrumentation-introduction-and-deep-dive-damien-grisonnet-red-hat-patrick-ohly-intel?iframe=no",
+      "slides_name": "KubeCon EU 2022   SIG Instrumentation",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/30/KubeCon%20EU%202022%20-%20SIG%20Instrumentation.pdf",
+      "video": "https://www.youtube.com/watch?v=xxG0-Ex6bjM"
+    },
+    {
+      "name": "OpenTelemetry: The Vision, Reality, and How to Get Started - Dotan Horovits, Logz.io",
+      "url": "https://kccnceu2022.sched.com/event/ytob/opentelemetry-the-vision-reality-and-how-to-get-started-dotan-horovits-logzio?iframe=no",
+      "slides_name": "Horovits    OpenTelemetry   KubeCon EU 2022 copy",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/75/Horovits%20-%20%20OpenTelemetry%20-%20KubeCon%20EU%202022%20copy.pdf",
+      "video": "https://www.youtube.com/watch?v=qE1ggEmvz2Y"
+    },
+    {
+      "name": "Your Manila CephFS Share Backups Belong to S3 - Robert Vasek, CERN",
+      "url": "https://kccnceu2022.sched.com/event/ytoh/your-manila-cephfs-share-backups-belong-to-s3-robert-vasek-cern?iframe=no",
+      "slides_name": "CERN manila cephfs backups",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/62/CERN-manila-cephfs-backups.pdf",
+      "video": "https://www.youtube.com/watch?v=XfpP9pBTXfY"
+    },
+    {
+      "name": "Virtual Project Office Hours: Akri",
+      "url": "https://kccnceu2022.sched.com/event/11XBk/virtual-project-office-hours-akri?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Emissary-ingress",
+      "url": "https://kccnceu2022.sched.com/event/110wk/virtual-project-office-hours-emissary-ingress?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Keptn",
+      "url": "https://kccnceu2022.sched.com/event/10GA5/virtual-project-office-hours-keptn?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "DEI Lunch: Build an mBot Robot and Support Refugee Education",
+      "url": "https://kccnceu2022.sched.com/event/10efB/dei-lunch-build-an-mbot-robot-and-support-refugee-education?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Lunch Break 🍲",
+      "url": "https://kccnceu2022.sched.com/event/yu45/lunch-break?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "IN-PERSON ONLY | Breathwork + Chair Yoga Session",
+      "url": "https://kccnceu2022.sched.com/event/11joi/in-person-only-breathwork-chair-yoga-session?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Flux",
+      "url": "https://kccnceu2022.sched.com/event/10Bwn/virtual-project-office-hours-flux?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: kube-rs",
+      "url": "https://kccnceu2022.sched.com/event/zL7J/virtual-project-office-hours-kube-rs?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Linkerd",
+      "url": "https://kccnceu2022.sched.com/event/109cD/virtual-project-office-hours-linkerd?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Maintainer's Circle",
+      "url": "https://kccnceu2022.sched.com/event/11AZJ/maintainers-circle?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Digging Into Your App's Container Image Layers for Sneaky Vulnerabilities - Pablo Galego, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytpK/digging-into-your-apps-container-image-layers-for-sneaky-vulnerabilities-pablo-galego-vmware?iframe=no",
+      "slides_name": "KubeCon EU 2022 Pablo Galego",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/20/KubeCon_EU_2022_Pablo_Galego.pdf",
+      "video": "https://www.youtube.com/watch?v=Yxh3MBRDVBU"
+    },
+    {
+      "name": "Reproducing Production Issues in your CI Pipeline Using eBPF - Matthew LeRay, Speedscale \u0026 Omid Azizi, New Relic",
+      "url": "https://kccnceu2022.sched.com/event/ytpE/reproducing-production-issues-in-your-ci-pipeline-using-ebpf-matthew-leray-speedscale-omid-azizi-new-relic?iframe=no",
+      "slides_name": "KubeCon EU 2022 Azizi LeRay v5",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/23/KubeCon_EU_2022_Azizi_LeRay_v5.pptx",
+      "video": "https://www.youtube.com/watch?v=_RQLY4KXXG8"
+    },
+    {
+      "name": "You're a Community Manager? But What Do You REALLY Do?! - Nanci Lancaster, VMware \u0026 Karen Chu, Microsoft",
+      "url": "https://kccnceu2022.sched.com/event/ytp8/youre-a-community-manager-but-what-do-you-really-do-nanci-lancaster-vmware-karen-chu-microsoft?iframe=no",
+      "slides_name": "KubeCon+ CloudNativeCon EU 22   You're a Community Manager  But What Do You REALLY Do !.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/b4/KubeCon%2B%20CloudNativeCon%20EU%2022%20-%20You%27re%20a%20Community%20Manager_%20But%20What%20Do%20You%20REALLY%20Do_%21.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=FQucIjAqZrY"
+    },
+    {
+      "name": "Build Your Own Cluster API Provider the Easy Way - Anusha Hegde, VMware \u0026 Richard Case, Weaveworks",
+      "url": "https://kccnceu2022.sched.com/event/ytp2/build-your-own-cluster-api-provider-the-easy-way-anusha-hegde-vmware-richard-case-weaveworks?iframe=no",
+      "slides_name": "Build your own Cluster API Provider",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/07/Build%20your%20own%20Cluster%20API%20Provider.pdf",
+      "video": "https://www.youtube.com/watch?v=HSdgmcAAXa8"
+    },
+    {
+      "name": "Intro to the Cloud Native Maturity Model - Danielle Cook, Fairwinds; Simon Forster, Stakegy; Robbie Glenn \u0026 John Forman, Accenture",
+      "url": "https://kccnceu2022.sched.com/event/ytpQ/intro-to-the-cloud-native-maturity-model-danielle-cook-fairwinds-simon-forster-stakegy-robbie-glenn-john-forman-accenture?iframe=no",
+      "slides_name": "Cartografos Working Group Intro to Maturity Model",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/9a/Cartografos%20Working%20Group_Intro%20to%20Maturity%20Model.pdf",
+      "video": "https://www.youtube.com/watch?v=gA2CFA-dI7Y"
+    },
+    {
+      "name": "Kubernetes SIG Storage Deep Dive - Xing Yang, VMware \u0026 Jan Šafránek, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytpN/kubernetes-sig-storage-deep-dive-xing-yang-vmware-jan-safranek-red-hat?iframe=no",
+      "slides_name": "KubeCon EU 2022 K8s SIG Storage DeepDive.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/a9/KubeCon_EU_2022_K8s_SIG_Storage_DeepDive.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=dsEeQqRSg74"
+    },
+    {
+      "name": "Prometheus Intro and Deep Dive - Julius Volz, PromLabs; Björn Rabenstein, Grafana Labs; Matthias Rampke, SoundCloud",
+      "url": "https://kccnceu2022.sched.com/event/ytpW/prometheus-intro-and-deep-dive-julius-volz-promlabs-bjorn-rabenstein-grafana-labs-matthias-rampke-soundcloud?iframe=no",
+      "slides_name": "Monitoring, the Prometheus Way   KubeCon Valencia, May 2022 (1)",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/d3/Monitoring%2C%20the%20Prometheus%20Way%20-%20KubeCon%20Valencia%2C%20May%202022%20%281%29.pdf",
+      "video": "https://www.youtube.com/watch?v=eM3RXdK1yys"
+    },
+    {
+      "name": "SIG Auth Deep Dive - Margo Crawford, VMware \u0026 Mike Danese, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytpT/sig-auth-deep-dive-margo-crawford-vmware-mike-danese-google?iframe=no",
+      "slides_name": "SIG Auth Deep Dive   Kubecon EU 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/d0/SIG-Auth%20Deep%20Dive%20-%20Kubecon%20EU%202022.pdf",
+      "video": "https://www.youtube.com/watch?v=C3Ak35W55m0"
+    },
+    {
+      "name": "Better Reliability Through Observability and Experimentation - Julie Gunderson, Gremlin \u0026 Kerim Satirli, HashiCorp",
+      "url": "https://kccnceu2022.sched.com/event/ytp5/better-reliability-through-observability-and-experimentation-julie-gunderson-gremlin-kerim-satirli-hashicorp?iframe=no",
+      "slides_name": "Better Reliability Through Observability and Experimentation   Notice",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/00/Better%20Reliability%20Through%20Observability%20and%20Experimentation%20-%20Notice.pdf",
+      "video": "https://www.youtube.com/watch?v=DeewkVL3RWI"
+    },
+    {
+      "name": "How to Migrate 700 Kubernetes Clusters to Cluster API with Zero Downtime - Tobias Giese \u0026 Sean Schneeweiss, Mercedes-Benz Tech Innovation",
+      "url": "https://kccnceu2022.sched.com/event/yttp/how-to-migrate-700-kubernetes-clusters-to-cluster-api-with-zero-downtime-tobias-giese-sean-schneeweiss-mercedes-benz-tech-innovation?iframe=no",
+      "slides_name": "KubeConEU22 MBTI ClusterAPI Migrate 700 Clusters",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/10/KubeConEU22_MBTI_ClusterAPI_Migrate_700_Clusters.pdf",
+      "video": "https://www.youtube.com/watch?v=KzYV-fJ_wH0"
+    },
+    {
+      "name": "The Future Of Reproducible Research: Powered By Kubeflow - Trevor Grant",
+      "url": "https://kccnceu2022.sched.com/event/ytpB/the-future-of-reproducible-research-powered-by-kubeflow-trevor-grant?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=JiqY5lWbFVE"
+    },
+    {
+      "name": "Make the Secure Kubernetes Supply Chain Work for You - Adolfo García Veytia, Chainguard",
+      "url": "https://kccnceu2022.sched.com/event/ytoz/make-the-secure-kubernetes-supply-chain-work-for-you-adolfo-garcia-veytia-chainguard?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=ffiaA__8UAE"
+    },
+    {
+      "name": "Kubernetes Persistent Data Challenges – AZ, Region and Multi-Cloud Patterns - Chris Milsted, Ondat \u0026 Patrick McFadin, DataStax",
+      "url": "https://kccnceu2022.sched.com/event/ytpH/kubernetes-persistent-data-challenges-az-region-and-multi-cloud-patterns-chris-milsted-ondat-patrick-mcfadin-datastax?iframe=no",
+      "slides_name": "Kubernetes Persistent Data Challenges – AZ, Region and Multi Cloud Patterns ChrisMilsted PatrickMcFadin v1",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/af/Kubernetes_Persistent_Data_Challenges_%E2%80%93_AZ%2C_Region_and_Multi-Cloud%20Patterns_ChrisMilsted_PatrickMcFadin_v1.pdf",
+      "video": "https://www.youtube.com/watch?v=N7BYKhpqGXw"
+    },
+    {
+      "name": "Virtual Project Office Hours: CloudEvents",
+      "url": "https://kccnceu2022.sched.com/event/zL7W/virtual-project-office-hours-cloudevents?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: CRI-O",
+      "url": "https://kccnceu2022.sched.com/event/zL7P/virtual-project-office-hours-cri-o?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: OpenEBS",
+      "url": "https://kccnceu2022.sched.com/event/zgdg/virtual-project-office-hours-openebs?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Supporting the Flourishing European Open Source Ecosystem BoF - Astor Nummelin Carlberg, Executive Director, OpenForum Europe; Gabriele Columbro, Executive Director, FINOS; Hilary Carter, VP Research, The Linux Foundation,",
+      "url": "https://kccnceu2022.sched.com/event/11SB4/supporting-the-flourishing-european-open-source-ecosystem-bof-astor-nummelin-carlberg-executive-director-openforum-europe-gabriele-columbro-executive-director-finos-hilary-carter-vp-research-the-linux-foundation?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Choosing Cloud Native Technologies for the Journey to Multi-cloud - Adelina Simion, Form3",
+      "url": "https://kccnceu2022.sched.com/event/ytpu/choosing-cloud-native-technologies-for-the-journey-to-multi-cloud-adelina-simion-form3?iframe=no",
+      "slides_name": "ChoosingCloudNativeTechnologiesForMultiCloud",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/d4/ChoosingCloudNativeTechnologiesForMultiCloud.pdf",
+      "video": "https://www.youtube.com/watch?v=NGuiizWUuaw"
+    },
+    {
+      "name": "Transparent Live Migration of Services Between Kubernetes Cluster - Adam Janikowski \u0026 Jörg Schad, ArangoDB",
+      "url": "https://kccnceu2022.sched.com/event/ytpo/transparent-live-migration-of-services-between-kubernetes-cluster-adam-janikowski-jorg-schad-arangodb?iframe=no",
+      "slides_name": "TransparentMigration",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/46/TransparentMigration.pdf",
+      "video": "https://www.youtube.com/watch?v=l-2yy-wtyBQ"
+    },
+    {
+      "name": "Cloud Native Mentorship: Tips for Being a Great Mentor to CNCF Students - Lucas Servén Marín, Private",
+      "url": "https://kccnceu2022.sched.com/event/11LWu/cloud-native-mentorship-tips-for-being-a-great-mentor-to-cncf-students-lucas-serven-marin-private?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Sailing Multi Cloud Traffic Management With Karmada - Zhonghu Xu, Huawei",
+      "url": "https://kccnceu2022.sched.com/event/ytpc/sailing-multi-cloud-traffic-management-with-karmada-zhonghu-xu-huawei?iframe=no",
+      "slides_name": "Sailing Multi Cloud Traffic Management With Karmada ZhonghuXu",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/28/Sailing_Multi_Cloud_Traffic_Management_With_Karmada_ZhonghuXu.pdf",
+      "video": "https://www.youtube.com/watch?v=rzFbxeZQHWI"
+    },
+    {
+      "name": "Backstage: Restoring Order To Your Chaos - Dave Zolotusky, Spotify",
+      "url": "https://kccnceu2022.sched.com/event/ytm2/backstage-restoring-order-to-your-chaos-dave-zolotusky-spotify?iframe=no",
+      "slides_name": "Backstage Restoring Order To Your Chaos   KubeCon EU 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/f1/Backstage%20Restoring%20Order%20To%20Your%20Chaos%20-%20KubeCon%20EU%202022.pdf",
+      "video": "https://www.youtube.com/watch?v=AlQYP88N3Og"
+    },
+    {
+      "name": "Cilium: Welcome, Vision and Updates - Thomas Graf \u0026 Liz Rice, Isovalent; Laurent Bernaille, Datadog",
+      "url": "https://kccnceu2022.sched.com/event/ytq0/cilium-welcome-vision-and-updates-thomas-graf-liz-rice-isovalent-laurent-bernaille-datadog?iframe=no",
+      "slides_name": "Cilium Welcome   KubeCon Valencia (1)",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/64/Cilium%20Welcome%20-%20KubeCon%20Valencia%20%281%29.pdf",
+      "video": "https://www.youtube.com/watch?v=oXpGYrbmnwQ"
+    },
+    {
+      "name": "Cluster API Intro and Deep Dive - Yuvaraj Balaji Rao Kakaraparthi \u0026 Vince Prignano, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytq3/cluster-api-intro-and-deep-dive-yuvaraj-balaji-rao-kakaraparthi-vince-prignano-vmware?iframe=no",
+      "slides_name": "KubeConEU22 template vmw",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/4f/KubeConEU22-template%20vmw.pdf",
+      "video": "https://www.youtube.com/watch?v=9H8flXm_lKk"
+    },
+    {
+      "name": "gRPC For Microservices: Service-mesh and Observability - Sanjay Pujare \u0026 Wenbo Zhu‎, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytlP/grpc-for-microservices-service-mesh-and-observability-sanjay-pujare-wenbo-zhu-google?iframe=no",
+      "slides_name": "gRPC for microservices  service mesh and observability SanjayPujare v1",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/2e/gRPC%20for%20microservices_%20service-mesh%20and%20observability_SanjayPujare_v1.pdf",
+      "video": "https://www.youtube.com/watch?v=y2lKORewzJA"
+    },
+    {
+      "name": "Kubernetes SIG UI Introduction and Updates - Sebastian Florek \u0026 Marcin Maciaszczyk, Kubermatic; Shu Muto, NEC",
+      "url": "https://kccnceu2022.sched.com/event/ytpx/kubernetes-sig-ui-introduction-and-updates-sebastian-florek-marcin-maciaszczyk-kubermatic-shu-muto-nec?iframe=no",
+      "slides_name": "KubeCon EU 2022 SIG UI Introduction and Updates",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/f7/KubeCon_EU_2022_SIG_UI_Introduction_and_Updates.pdf",
+      "video": "https://www.youtube.com/watch?v=3IC7_2Zj1fg"
+    },
+    {
+      "name": "SIG-Multicluster Intro and Deep Dive - Jeremy Olmsted-Thompson \u0026 Laura Lorenz, Google; Paul Morie, Apple",
+      "url": "https://kccnceu2022.sched.com/event/ytq6/sig-multicluster-intro-and-deep-dive-jeremy-olmsted-thompson-laura-lorenz-google-paul-morie-apple?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=cYFxjZEXucM"
+    },
+    {
+      "name": "Alerting in the Prometheus Ecosystem: The Past, Present and Future - Josue (Josh) Abreu, Grafana Labs",
+      "url": "https://kccnceu2022.sched.com/event/ytpf/alerting-in-the-prometheus-ecosystem-the-past-present-and-future-josue-josh-abreu-grafana-labs?iframe=no",
+      "slides_name": "Alerting in the Prometheus ecosystem   A story of the past, present and future (2)",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/db/Alerting%20in%20the%20Prometheus%20ecosystem_%20%20A%20story%20of%20the%20past%2C%20present%20and%20future%20%282%29.pdf",
+      "video": "https://www.youtube.com/watch?v=9AX8u-bt4J8"
+    },
+    {
+      "name": "Tweezering Kubernetes Resources: Operating on Operators - Kevin Ward, ControlPlane",
+      "url": "https://kccnceu2022.sched.com/event/ytpr/tweezering-kubernetes-resources-operating-on-operators-kevin-ward-controlplane?iframe=no",
+      "slides_name": "KubeCon EU 2022 Tweezering Kubernetes Resources Operating on Operators.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/33/KubeCon_EU_2022_Tweezering_Kubernetes_Resources_Operating_on_Operators.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=dcKAr8UNgMQ"
+    },
+    {
+      "name": "Scaling and Orchestrating “Good Bot” With Kubernetes - Aris Cahyadi Risdianto, National University of Singapore (NUS)",
+      "url": "https://kccnceu2022.sched.com/event/ytpl/scaling-and-orchestrating-good-bot-with-kubernetes-aris-cahyadi-risdianto-national-university-of-singapore-nus?iframe=no",
+      "slides_name": "Aris Orchestrating GoodBot KubeConEU2022.v2",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/e8/Aris-Orchestrating-GoodBot-KubeConEU2022.v2.pdf",
+      "video": "https://www.youtube.com/watch?v=q6GuhXOU7ao"
+    },
+    {
+      "name": "Running Containerd and k3s on MacOS - Akihiro Suda, NTT Corporation \u0026 Jan Dubois, SUSE",
+      "url": "https://kccnceu2022.sched.com/event/ytpi/running-containerd-and-k3s-on-macos-akihiro-suda-ntt-corporation-jan-dubois-suse?iframe=no",
+      "slides_name": "lima",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/5f/lima.pdf",
+      "video": "https://www.youtube.com/watch?v=g5GCsbjkzRM"
+    },
+    {
+      "name": "Distributing Supply Chain Artifacts with OCI \u0026 ORAS Artifacts - Steve Lasker, Microsoft",
+      "url": "https://kccnceu2022.sched.com/event/ytpZ/distributing-supply-chain-artifacts-with-oci-oras-artifacts-steve-lasker-microsoft?iframe=no",
+      "slides_name": "KubeCon EU 2022 OrasArtifacts",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/ac/KubeCon_EU_2022_OrasArtifacts.pptx",
+      "video": "https://www.youtube.com/watch?v=lT2ZMRJrQsU"
+    },
+    {
+      "name": "Virtual Project Office Hours: Cloud Native Buildpacks",
+      "url": "https://kccnceu2022.sched.com/event/zLAZ/virtual-project-office-hours-cloud-native-buildpacks?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: NATS",
+      "url": "https://kccnceu2022.sched.com/event/zLAk/virtual-project-office-hours-nats?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Open (OSM)",
+      "url": "https://kccnceu2022.sched.com/event/zL7b/virtual-project-office-hours-open-osm?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Coffee Break ☕",
+      "url": "https://kccnceu2022.sched.com/event/zC2j/coffee-break?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Allyship Workshop: A Human-Centered Approach to Allyship",
+      "url": "https://kccnceu2022.sched.com/event/10ei9/allyship-workshop-a-human-centered-approach-to-allyship?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "From `docker push` to Bytes on Disk: Inside Distribution - Wayne Warren \u0026 Adam Wolfe Gordon, DigitalOcean",
+      "url": "https://kccnceu2022.sched.com/event/ytqU/from-docker-push-to-bytes-on-disk-inside-distribution-wayne-warren-adam-wolfe-gordon-digitalocean?iframe=no",
+      "slides_name": "KubeCon EU Inside Disribution FINAL",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/09/KubeCon-EU-Inside-Disribution-FINAL.pdf",
+      "video": "https://www.youtube.com/watch?v=XQatzE7tZDE"
+    },
+    {
+      "name": "Why Kubernetes Can't Get Around FinOps – Cost Management Best Practice - Vanessa Kantner \u0026 Manuela Latz, Liquid Reply",
+      "url": "https://kccnceu2022.sched.com/event/ytqO/why-kubernetes-cant-get-around-finops-cost-management-best-practice-vanessa-kantner-manuela-latz-liquid-reply?iframe=no",
+      "slides_name": "Slides Why K8s cannot get around FinOps",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/96/Slides_Why-K8s-cannot-get-around-FinOps.pdf",
+      "video": "https://www.youtube.com/watch?v=zqJ9CqaQpYw"
+    },
+    {
+      "name": "Implementing Anti-patterns: Kubernetes Cross-namespace Resource Ownership - Tom Coufal, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytqC/implementing-anti-patterns-kubernetes-cross-namespace-resource-ownership-tom-coufal-red-hat?iframe=no",
+      "slides_name": "Kubecon 2022  Implementing Anti patterns",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/5b/Kubecon%202022_%20Implementing%20Anti-patterns.pdf",
+      "video": "https://www.youtube.com/watch?v=iWz5AAbbT-c"
+    },
+    {
+      "name": "Introduction to the Kubernetes WG Batch - Aldo Culquicondor \u0026 Abdullah Gharaibeh, Google; Alex Wang, Alibaba",
+      "url": "https://kccnceu2022.sched.com/event/ytqX/introduction-to-the-kubernetes-wg-batch-aldo-culquicondor-abdullah-gharaibeh-google-alex-wang-alibaba?iframe=no",
+      "slides_name": "KubeCon EU 2022 WG Batch",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/0a/KubeCon_EU_2022%20WG%20Batch.pdf",
+      "video": "https://www.youtube.com/watch?v=XeX2zBOykC4"
+    },
+    {
+      "name": "SIG Contributor Experience Deep Dive - Alison Dowdney, Kasten By Veeam; Christoph Blecker, Red Hat; Bob Killen, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytqd/sig-contributor-experience-deep-dive-alison-dowdney-kasten-by-veeam-christoph-blecker-red-hat-bob-killen-google?iframe=no",
+      "slides_name": "SIG Contributor Experience   KubeConEU 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/89/SIG%20Contributor%20Experience%20-%20KubeConEU%202022.pdf",
+      "video": "https://www.youtube.com/watch?v=hD6ZtmEIbEQ"
+    },
+    {
+      "name": "The Maintainer's Toolkit: Must-know CNCF Resources for Project Owners - Catherine Paganini, Bouyant \u0026 Dawn Foster, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytqg/the-maintainers-toolkit-must-know-cncf-resources-for-project-owners-catherine-paganini-bouyant-dawn-foster-vmware?iframe=no",
+      "slides_name": "TAG Contrib Strat Maintainer Track 2022 EU",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/c9/TAG%20Contrib%20Strat%20Maintainer%20Track%202022%20EU.pdf",
+      "video": "https://www.youtube.com/watch?v=0Rj5Xofd-Rk"
+    },
+    {
+      "name": "Thinking Cloud Native, CloudEvents Future - Scott Nichols, Chainguard",
+      "url": "https://kccnceu2022.sched.com/event/ytqa/thinking-cloud-native-cloudevents-future-scott-nichols-chainguard?iframe=no",
+      "slides_name": "Kubecon EU 2022   Thinking Cloud Native",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/8c/Kubecon%20EU%202022%20-%20Thinking%20Cloud%20Native.pdf",
+      "video": "https://www.youtube.com/watch?v=Y6D0AY5aK-4"
+    },
+    {
+      "name": "Emissary + Linkerd: A Guide to End-to-end Encryption for your Cluster - Flynn, Ambassador Labs \u0026 Jason Morgan, Buoyant",
+      "url": "https://kccnceu2022.sched.com/event/11LW4/emissary-linkerd-a-guide-to-end-to-end-encryption-for-your-cluster-flynn-ambassador-labs-jason-morgan-buoyant?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Prometheus Sparse High-Resolution Histograms in Action - Ganesh Vernekar, Grafana Labs",
+      "url": "https://kccnceu2022.sched.com/event/ytqF/prometheus-sparse-high-resolution-histograms-in-action-ganesh-vernekar-grafana-labs?iframe=no",
+      "slides_name": "KubeCon EU 2022   Prometheus Sparse High Resolution Histograms in Action",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/66/KubeCon%20EU%202022%20-%20Prometheus%20Sparse%20High-Resolution%20Histograms%20in%20Action.pdf",
+      "video": "https://www.youtube.com/watch?v=T2GvcYNth9U"
+    },
+    {
+      "name": "Scaling K8s Nodes Without Breaking the Bank or Your Sanity - Brandon Wagner \u0026 Nick Tran, Amazon",
+      "url": "https://kccnceu2022.sched.com/event/ytqR/scaling-k8s-nodes-without-breaking-the-bank-or-your-sanity-brandon-wagner-nick-tran-amazon?iframe=no",
+      "slides_name": "Scaling K8s Nodes Without Breaking the Bank or Your Sanity",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/76/Scaling-K8s-Nodes-Without-Breaking-the-Bank-or-Your-Sanity.pdf",
+      "video": "https://www.youtube.com/watch?v=UBb8wbfSc34"
+    },
+    {
+      "name": "Kubernetes as a Substrate for ATLAS Compute - Fernando Barreiro Megino, University of Texas at Arlington \u0026 Lukas Heinrich, TU München",
+      "url": "https://kccnceu2022.sched.com/event/ytqL/kubernetes-as-a-substrate-for-atlas-compute-fernando-barreiro-megino-university-of-texas-at-arlington-lukas-heinrich-tu-munchen?iframe=no",
+      "slides_name": "Kubernetes as a Substrate for ATLAS Compute",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/21/Kubernetes%20as%20a%20Substrate%20for%20ATLAS%20Compute.pdf",
+      "video": "https://www.youtube.com/watch?v=6dA43w08wLI"
+    },
+    {
+      "name": "Keep Calm and Containerd On! - Anusha Ragunathan, Intuit Inc",
+      "url": "https://kccnceu2022.sched.com/event/ytqI/keep-calm-and-containerd-on-anusha-ragunathan-intuit-inc?iframe=no",
+      "slides_name": "Containerd KubeCon EU 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/2a/Containerd_KubeCon_EU_2022.pdf",
+      "video": "https://www.youtube.com/watch?v=nQAvkHJ4xak"
+    },
+    {
+      "name": "Securing Your Container Native Supply Chain with SLSA, Github and Tekton - Laurent Simon, Google \u0026 Priya Wadhwa, Chainguard",
+      "url": "https://kccnceu2022.sched.com/event/ytq9/securing-your-container-native-supply-chain-with-slsa-github-and-tekton-laurent-simon-google-priya-wadhwa-chainguard?iframe=no",
+      "slides_name": "Securing Your Container Native Supply Chain with SLSA, Github and Tekton",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/d9/Securing%20Your%20Container%20Native%20Supply%20Chain%20with%20SLSA%2C%20Github%20and%20Tekton.pdf",
+      "video": "https://www.youtube.com/watch?v=iZpFtalj4xE"
+    },
+    {
+      "name": "Does Green Software need Open Hardware? - Hosted by Open Compute Project - Moderator Cliff Grossner, Ph.D.; Kate Mulhall, Senior Cloud Software Engineering Manager, Intel , VP Market Intelligence, Open Compute Project (OCP) Foundation; Dinesh Marjrekar, D",
+      "url": "https://kccnceu2022.sched.com/event/11767/does-green-software-need-open-hardware-hosted-by-open-compute-project-moderator-cliff-grossner-phd-kate-mulhall-senior-cloud-software-engineering-manager-intel-vp-market-intelligence-open-compute-project-ocp-foundation-dinesh-marjrekar-d?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Understanding Kubernetes Through Real-World Phenomena and Analogies - Lucas Käldström",
+      "url": "https://kccnceu2022.sched.com/event/ytr4/understanding-kubernetes-through-real-world-phenomena-and-analogies-lucas-kaldstrom?iframe=no",
+      "slides_name": "[KubeCon] Understanding Kubernetes Through Real World Phenomena and Analogies (4)",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/76/%5BKubeCon%5D%20Understanding%20Kubernetes%20Through%20Real-World%20Phenomena%20and%20Analogies%20%284%29.pdf",
+      "video": "https://www.youtube.com/watch?v=GpJz-Ab8R9M"
+    },
+    {
+      "name": "Building for the (Inevitable) Next Cloud Outage - Pavel Nikolov, Section",
+      "url": "https://kccnceu2022.sched.com/event/yttC/building-for-the-inevitable-next-cloud-outage-pavel-nikolov-section?iframe=no",
+      "slides_name": "KubeCon EU 2022 Presentation.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/c3/KubeCon_EU_2022_Presentation.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=02a8VB__UQ4"
+    },
+    {
+      "name": "Cloud Native Chaos Engineering with LitmusChaos - Karthik S, Umasankar Mukkara \u0026 Udit Gaurav, ChaosNative; Saiyam Pathak, Civo",
+      "url": "https://kccnceu2022.sched.com/event/ytr7/cloud-native-chaos-engineering-with-litmuschaos-karthik-s-umasankar-mukkara-udit-gaurav-chaosnative-saiyam-pathak-civo?iframe=no",
+      "slides_name": "KubeCon",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/48/KubeCon.pdf",
+      "video": "https://www.youtube.com/watch?v=ItUUqejdXr0"
+    },
+    {
+      "name": "Gateway API: Beta to GA - Rob Scott, Google \u0026 Nick Young, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytrD/gateway-api-beta-to-ga-rob-scott-google-nick-young-vmware?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=YPiuicxC8UU"
+    },
+    {
+      "name": "Unraveling the Magic Behind Buildpacks - Sambhav Kothari, Bloomberg \u0026 Natalie Arellano, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytrA/unraveling-the-magic-behind-buildpacks-sambhav-kothari-bloomberg-natalie-arellano-vmware?iframe=no",
+      "slides_name": "Kubecon EU 2022  Buildpacks",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/32/Kubecon%20EU%202022_%20Buildpacks.pdf",
+      "video": "https://www.youtube.com/watch?v=Mi_fb5ToOa8"
+    },
+    {
+      "name": "What Is the CNCF TAG Observability and How You Can Join Our Effort! - Bartłomiej Płotka, Red Hat; Alolita Sharma, Amazon; Richard Hartmann, Grafana Labs; Matthew Young, Everquote",
+      "url": "https://kccnceu2022.sched.com/event/ytrG/what-is-the-cncf-tag-observability-and-how-you-can-join-our-effort-bartlomiej-plotka-red-hat-alolita-sharma-amazon-richard-hartmann-grafana-labs-matthew-young-everquote?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Why, How to, and Issues: Tail-Based Sampling in the OpenTelemetry Collector - Reese Lee, New Relic",
+      "url": "https://kccnceu2022.sched.com/event/ytqp/why-how-to-and-issues-tail-based-sampling-in-the-opentelemetry-collector-reese-lee-new-relic?iframe=no",
+      "slides_name": "Why, How to, and Issues  Tail Based Sampling in the OpenTelemetry Collector.pptx (3)",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/19/Why%2C%20How%20to%2C%20and%20Issues_%20Tail-Based%20Sampling%20in%20the%20OpenTelemetry%20Collector.pptx%20%283%29.pdf",
+      "video": "https://www.youtube.com/watch?v=l4PeclHKl7I"
+    },
+    {
+      "name": "How a Couple of Characters (and GitOps) Brought Down Our Site - Guy Templeton \u0026 Stuart Davidson, Skyscanner",
+      "url": "https://kccnceu2022.sched.com/event/ytr1/how-a-couple-of-characters-and-gitops-brought-down-our-site-guy-templeton-stuart-davidson-skyscanner?iframe=no",
+      "slides_name": "Kubecon EU 2022   Skyscanner",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/c1/Kubecon%20EU%202022%20-%20Skyscanner.pdf",
+      "video": "https://www.youtube.com/watch?v=FiEm2zOuHsg"
+    },
+    {
+      "name": "Jet Energy Corrections with GNN Regression using Kubeflow at CERN - Daniel Holmberg \u0026 Dejan Golubovic, CERN",
+      "url": "https://kccnceu2022.sched.com/event/ytqv/jet-energy-corrections-with-gnn-regression-using-kubeflow-at-cern-daniel-holmberg-dejan-golubovic-cern?iframe=no",
+      "slides_name": "CERN KF Kubecon 2022 EU Jet Tagging",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/d2/CERN-KF-Kubecon-2022-EU-Jet-Tagging.pdf",
+      "video": "https://www.youtube.com/watch?v=iqbsbXZDjs8"
+    },
+    {
+      "name": "Registries After Dark, Part 2: Distributed Random Access Merkledags - Daniel Mangum, Upbound \u0026 Jason Hall, Chainguard",
+      "url": "https://kccnceu2022.sched.com/event/ytqs/registries-after-dark-part-2-distributed-random-access-merkledags-daniel-mangum-upbound-jason-hall-chainguard?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=Xt_G-pUArTM"
+    },
+    {
+      "name": "Threat Modelling Kubernetes: A Lightspeed Introduction - Lewis Denham-Parry, Control Plane",
+      "url": "https://kccnceu2022.sched.com/event/ytqj/threat-modelling-kubernetes-a-lightspeed-introduction-lewis-denham-parry-control-plane?iframe=no",
+      "slides_name": "Threat Modelling Kubernetes  A Lightspeed Introduction",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/61/Threat%20Modelling%20Kubernetes_%20A%20Lightspeed%20Introduction.pdf",
+      "video": "https://www.youtube.com/watch?v=gkXoYFKqQkE"
+    },
+    {
+      "name": "Service Mesh at Scale: How Xbox Cloud Gaming Secures 22k Pods with Linkerd - Christopher Voss, Microsoft",
+      "url": "https://kccnceu2022.sched.com/event/ytuJ/service-mesh-at-scale-how-xbox-cloud-gaming-secures-22k-pods-with-linkerd-christopher-voss-microsoft?iframe=no",
+      "slides_name": "KubeCon EU 2022   Xcloud Linkerd",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/96/KubeCon%20EU%202022%20-%20Xcloud%20Linkerd.pdf",
+      "video": "https://www.youtube.com/watch?v=Mh0Wqu3v8h0"
+    },
+    {
+      "name": "Virtual AMA Happy Hour with Priyanka Sharma",
+      "url": "https://kccnceu2022.sched.com/event/zATl/virtual-ama-happy-hour-with-priyanka-sharma?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "All-Attendee Party 🎉 Sponsored by Kasten by Veeam and Snyk",
+      "url": "https://kccnceu2022.sched.com/event/yu4B/all-attendee-party-sponsored-by-kasten-by-veeam-and-snyk?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "CNCF End User Reception (For active or applying CNCF End User Members only)",
+      "url": "https://kccnceu2022.sched.com/event/11yNA/cncf-end-user-reception-for-active-or-applying-cncf-end-user-members-only?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Registration + Badge Pick-up",
+      "url": "https://kccnceu2022.sched.com/event/zAlH/registration-badge-pick-up?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Keynote: Opening Remarks - Jasmine James, Senior Engineering Manager-Developer Experience; Ricardo Rocha, Computing Engineer, CERN; Emily Fox, Security Engineer, Apple",
+      "url": "https://kccnceu2022.sched.com/event/yuGf/keynote-opening-remarks-jasmine-james-senior-engineering-manager-developer-experience-ricardo-rocha-computing-engineer-cern-emily-fox-security-engineer-apple?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Keynote: Nurturing The Whole Project - Josh Berkus, Community Architect, Red Hat \u0026 Catherine Paganini, Head of Marketing \u0026 Community, Buoyant",
+      "url": "https://kccnceu2022.sched.com/event/yuGi/keynote-nurturing-the-whole-project-josh-berkus-community-architect-red-hat-catherine-paganini-head-of-marketing-community-buoyant?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=WnOKjfe3TUM"
+    },
+    {
+      "name": "Keynote: Supporting the Community – So Open Source Projects Can Grow and Thrive - Le Tran, Member of Technical Staff, Kasten by Veeam",
+      "url": "https://kccnceu2022.sched.com/event/12apy/keynote-supporting-the-community-so-open-source-projects-can-grow-and-thrive-le-tran-member-of-technical-staff-kasten-by-veeam?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=ygay5V_383I"
+    },
+    {
+      "name": "Keynote: How Developers Help Scale Kubernetes Security - Connor Gorman, Senior Principal Software Engineer, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/yuGl/keynote-how-developers-help-scale-kubernetes-security-connor-gorman-senior-principal-software-engineer-red-hat?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=zxPYK6O2sg0"
+    },
+    {
+      "name": "Keynote: CNCF Project Updates - Jasmine James, Senior Engineering Manager-Developer Experience; Ricardo Rocha, Computing Engineer, CERN; Emily Fox, Security Engineer, Apple",
+      "url": "https://kccnceu2022.sched.com/event/yuDh/keynote-cncf-project-updates-jasmine-james-senior-engineering-manager-developer-experience-ricardo-rocha-computing-engineer-cern-emily-fox-security-engineer-apple?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=ON-_2T5Ix2c"
+    },
+    {
+      "name": "Keynote: Push It to the Limit: From Canary Deployments to Canary Clusters - Henrik Høegh, Platform Engineer, Lunar",
+      "url": "https://kccnceu2022.sched.com/event/yuG5/keynote-push-it-to-the-limit-from-canary-deployments-to-canary-clusters-henrik-hoegh-platform-engineer-lunar?iframe=no",
+      "slides_name": "KubeCon 2022   Push it to the limit",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/60/KubeCon%202022%20-%20Push%20it%20to%20the%20limit.pdf",
+      "video": "https://www.youtube.com/watch?v=NpdHcrakhmo"
+    },
+    {
+      "name": "Keynote: Exploring the Frontiers of Cloud Native - Bryan Che, Chief Strategy Officer, Huawei",
+      "url": "https://kccnceu2022.sched.com/event/yuGw/keynote-exploring-the-frontiers-of-cloud-native-bryan-che-chief-strategy-officer-huawei?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=gKdN0VbCQ7M"
+    },
+    {
+      "name": "End User Awards",
+      "url": "https://kccnceu2022.sched.com/event/yuH0/end-user-awards?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=9GIQyQjs36o"
+    },
+    {
+      "name": "Keynote: Closing Remarks - Jasmine James, Senior Engineering Manager-Developer Experience; Ricardo Rocha, Computing Engineer, CERN; Emily Fox, Security Engineer, Apple",
+      "url": "https://kccnceu2022.sched.com/event/yuH3/keynote-closing-remarks-jasmine-james-senior-engineering-manager-developer-experience-ricardo-rocha-computing-engineer-cern-emily-fox-security-engineer-apple?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Coffee Break ☕",
+      "url": "https://kccnceu2022.sched.com/event/zAkF/coffee-break?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "IN-PERSON ONLY | Meditation Session: Gratitude + Self-Compassion",
+      "url": "https://kccnceu2022.sched.com/event/11jol/in-person-only-meditation-session-gratitude-self-compassion?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Virtual Project Office Hours: Metal3.io",
+      "url": "https://kccnceu2022.sched.com/event/zLAu/virtual-project-office-hours-metal3io?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Solutions Showcase",
+      "url": "https://kccnceu2022.sched.com/event/yulo/solutions-showcase?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "A Treasure Map of Hacking (and Defending) Kubernetes - Andrew Martin, ControlPlane",
+      "url": "https://kccnceu2022.sched.com/event/ytre/a-treasure-map-of-hacking-and-defending-kubernetes-andrew-martin-controlplane?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=1HbwfpE4XKY"
+    },
+    {
+      "name": "From Cloud Naive to Cloud Native – Avoiding Mistakes Everyone Does - Max Körbächer, Liquid Reply",
+      "url": "https://kccnceu2022.sched.com/event/ytrY/from-cloud-naive-to-cloud-native-avoiding-mistakes-everyone-does-max-korbacher-liquid-reply?iframe=no",
+      "slides_name": "KubeConEU Koerbaecher",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/98/KubeConEU_Koerbaecher.pdf",
+      "video": "https://www.youtube.com/watch?v=EhBJkbo0rIE"
+    },
+    {
+      "name": "Cloud Native Storage: The CNCF Storage TAG, Projects, Technology \u0026 Landscape - Alex Chircop, Ondat; Xing Yang, VMware; Raffaele Spazzoli, RedHat",
+      "url": "https://kccnceu2022.sched.com/event/ytrk/cloud-native-storage-the-cncf-storage-tag-projects-technology-landscape-alex-chircop-ondat-xing-yang-vmware-raffaele-spazzoli-redhat?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=lqDaOxGHbPM"
+    },
+    {
+      "name": "SIG Security Update: We Lift Together - Tabitha Sable, Datadog; Pushkar Joglekar, VMware; Rey Lejano, SUSE; Savitha Raghunathan, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytrn/sig-security-update-we-lift-together-tabitha-sable-datadog-pushkar-joglekar-vmware-rey-lejano-suse-savitha-raghunathan-red-hat?iframe=no",
+      "slides_name": "We Lift Together KubeCon EU 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/14/We_Lift_Together_KubeCon_EU_2022.pdf",
+      "video": "https://www.youtube.com/watch?v=ow2SkmWxLmU"
+    },
+    {
+      "name": "Staring Into the Abyss with the Security Technical Advisory Group - Andres Vega, VMware \u0026 Brandon Lum, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytrq/staring-into-the-abyss-with-the-security-technical-advisory-group-andres-vega-vmware-brandon-lum-google?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=p_yzWGcKCQA"
+    },
+    {
+      "name": "Observing Fastly’s Network at Scale Thanks to K8s and the Strimzi Operator - Fernando Crespo \u0026 Daniel Caballero, Fastly",
+      "url": "https://kccnceu2022.sched.com/event/ytrM/observing-fastlys-network-at-scale-thanks-to-k8s-and-the-strimzi-operator-fernando-crespo-daniel-caballero-fastly?iframe=no",
+      "slides_name": "Observing Fastly’s network at scale thanks to K8s and the Strimzi operator",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/06/Observing%20Fastly%E2%80%99s%20network%20at%20scale%20thanks%20to%20K8s%20and%20the%20Strimzi%20operator.pdf",
+      "video": "https://www.youtube.com/watch?v=eYZO7n_o0OQ"
+    },
+    {
+      "name": "Threat Hunting at Scale: Auditing Thousands of Clusters With Falco + Fluent - Furkan Türkal \u0026 Emin Aktaş, Trendyol",
+      "url": "https://kccnceu2022.sched.com/event/ytrP/threat-hunting-at-scale-auditing-thousands-of-clusters-with-falco-fluent-furkan-turkal-emin-aktas-trendyol?iframe=no",
+      "slides_name": "Threat Hunting At Scale Auditing Thousands Of Clusters With Falco Fluent FurkanTurkal EminAktas v1",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/dd/Threat_Hunting_At_Scale_Auditing_Thousands_Of_Clusters_With_Falco_Fluent_FurkanTurkal_EminAktas_v1.pdf.pdf",
+      "video": "https://www.youtube.com/watch?v=OyB0TWVjZvY"
+    },
+    {
+      "name": "TikTok’s Story: How To Manage a Thousand Applications on Edge With Argo CD - Qingkun Li, TikTok/Bytedance Inc. \u0026 Jesse Suen, Akuity, Inc.",
+      "url": "https://kccnceu2022.sched.com/event/ytrb/tiktoks-story-how-to-manage-a-thousand-applications-on-edge-with-argo-cd-qingkun-li-tiktokbytedance-inc-jesse-suen-akuity-inc?iframe=no",
+      "slides_name": "TikTok’s Story  How To Manage a Thousand Applications on Edge With Argo CD",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/9c/TikTok%E2%80%99s%20Story_%20How%20To%20Manage%20a%20Thousand%20Applications%20on%20Edge%20With%20Argo%20CD.pdf",
+      "video": "https://www.youtube.com/watch?v=Ftz5_lIepNA"
+    },
+    {
+      "name": "Attacking \u0026 Defending Kubernetes TEE Enclaves in Critical Infrastructure - Robert Ficcaglia, SunStone Secure, LLC",
+      "url": "https://kccnceu2022.sched.com/event/ytrJ/attacking-defending-kubernetes-tee-enclaves-in-critical-infrastructure-robert-ficcaglia-sunstone-secure-llc?iframe=no",
+      "slides_name": "KubeCon EU 2022   Attack and Defend TEE   v2",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/28/KubeCon%20EU%202022%20-%20Attack%20and%20Defend%20TEE%20-%20v2.pdf",
+      "video": "https://www.youtube.com/watch?v=s0ITAQxZffE"
+    },
+    {
+      "name": "Peer Group Mentoring + Career Networking",
+      "url": "https://kccnceu2022.sched.com/event/10eil/peer-group-mentoring-career-networking?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Kubernetes Networking 101 - Randy Abernethy, RX-M LLC",
+      "url": "https://kccnceu2022.sched.com/event/ytrV/kubernetes-networking-101-randy-abernethy-rx-m-llc?iframe=no",
+      "slides_name": "rx m net 101 kubecon eu 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/72/rx-m-net-101-kubecon-eu-2022.pdf",
+      "video": "https://www.youtube.com/watch?v=cUGXu2tiZMc"
+    },
+    {
+      "name": "Writing Crossplane Providers with Code Generation - Muvaffak Onuş \u0026 Hasan Türken, Upbound",
+      "url": "https://kccnceu2022.sched.com/event/ytrS/writing-crossplane-providers-with-code-generation-muvaffak-onus-hasan-turken-upbound?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "[CANCELLED] Virtual Project Office Hours: Krustlet",
+      "url": "https://kccnceu2022.sched.com/event/zLB9/cancelled-virtual-project-office-hours-krustlet?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "What Anime Taught Me About K8s Development \u0026 Tech Careers - Annie Talvasto, Camunda",
+      "url": "https://kccnceu2022.sched.com/event/yts8/what-anime-taught-me-about-k8s-development-tech-careers-annie-talvasto-camunda?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=XFkhulcRhCI"
+    },
+    {
+      "name": "How Linkerd Helped bink Partner up with Barclays - Mark Swarbrick, bink",
+      "url": "https://kccnceu2022.sched.com/event/ytsc/how-linkerd-helped-bink-partner-up-with-barclays-mark-swarbrick-bink?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=clICN5FXyNE"
+    },
+    {
+      "name": "CNCF TAG-Runtime: Cloud Native Open Source Core Components - Alex Scammon, G-Research; Zbynek Roubalik, Red Hat; Ricardo Aravena, Rakuten; Samuel Ortiz, Apple",
+      "url": "https://kccnceu2022.sched.com/event/ytsE/cncf-tag-runtime-cloud-native-open-source-core-components-alex-scammon-g-research-zbynek-roubalik-red-hat-ricardo-aravena-rakuten-samuel-ortiz-apple?iframe=no",
+      "slides_name": "CNCF TAG Runtime  Cloud Native Open Source Core Components",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/60/CNCF%20TAG-Runtime_%20Cloud%20Native%20Open%20Source%20Core%20Components.pdf",
+      "video": "https://www.youtube.com/watch?v=aKEFMrp1GJ0"
+    },
+    {
+      "name": "Intro + Deep Dive: SIG Scalability - Marcel Zięba \u0026 Wojciech Tyczyński, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytsB/intro-deep-dive-sig-scalability-marcel-zieba-wojciech-tyczynski-google?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=VTFmsD9odZ4"
+    },
+    {
+      "name": "Kubernetes SIG Apps Updates - Maciej Szulik, Red Hat; Janet Kuo, Google; Kenneth Owens, Brex",
+      "url": "https://kccnceu2022.sched.com/event/ytsH/kubernetes-sig-apps-updates-maciej-szulik-red-hat-janet-kuo-google-kenneth-owens-brex?iframe=no",
+      "slides_name": "KubeCon EU 2022   SIG Apps",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/85/KubeCon%20EU%202022%20-%20SIG-Apps.pdf",
+      "video": "https://www.youtube.com/watch?v=JAUIUNhYZWg"
+    },
+    {
+      "name": "Story of Correlation: Integrating Thanos Metrics with Observability Signals - Bartłomiej Płotka, Red Hat \u0026 Kemal Akkoyun, Polar Signals",
+      "url": "https://kccnceu2022.sched.com/event/ytsK/story-of-correlation-integrating-thanos-metrics-with-observability-signals-bartlomiej-plotka-red-hat-kemal-akkoyun-polar-signals?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=rWFb01GW0mQ"
+    },
+    {
+      "name": "Logs Told Us It Was DNS, It Felt Like DNS, It Had To Be DNS, It Wasn’t DNS - Laurent Bernaille \u0026 Elijah Andrews, Datadog",
+      "url": "https://kccnceu2022.sched.com/event/ytrw/logs-told-us-it-was-dns-it-felt-like-dns-it-had-to-be-dns-it-wasnt-dns-laurent-bernaille-elijah-andrews-datadog?iframe=no",
+      "slides_name": "Logs told us it was DNS",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/ea/Logs%20told%20us%20it%20was%20DNS.pdf",
+      "video": "https://www.youtube.com/watch?v=NunyPkN0n3c"
+    },
+    {
+      "name": "Show Me Your Labels and I’ll Tell You Who You Are - Sandor Guba, Cisco",
+      "url": "https://kccnceu2022.sched.com/event/ytrz/show-me-your-labels-and-ill-tell-you-who-you-are-sandor-guba-cisco?iframe=no",
+      "slides_name": "KubeCon EU 2022 ShowMeLabels",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/98/KubeCon_EU_2022_ShowMeLabels.pdf",
+      "video": "https://www.youtube.com/watch?v=TWf1ho0XMyM"
+    },
+    {
+      "name": "GitOpsify Everything: When Crossplane Meets Argo CD - Ying Mo \u0026 Ken Murray, IBM",
+      "url": "https://kccnceu2022.sched.com/event/yts5/gitopsify-everything-when-crossplane-meets-argo-cd-ying-mo-ken-murray-ibm?iframe=no",
+      "slides_name": "kubecon2022 gitopsify everything when crossplane meets argo cd",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/db/kubecon2022-gitopsify-everything-when-crossplane-meets-argo-cd.pdf",
+      "video": "https://www.youtube.com/watch?v=9odjdVqJkws"
+    },
+    {
+      "name": "Full Mesh Encryption in Kubernetes with WireGuard and Calico - Peter Kelly, Tigera",
+      "url": "https://kccnceu2022.sched.com/event/ytrt/full-mesh-encryption-in-kubernetes-with-wireguard-and-calico-peter-kelly-tigera?iframe=no",
+      "slides_name": "KubeCon2022 PeterKelly.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/b9/KubeCon2022_PeterKelly.pptx.pdf",
+      "video": ""
+    },
+    {
+      "name": "Virtual Peer Group Mentoring + Career Networking",
+      "url": "https://kccnceu2022.sched.com/event/10ejO/virtual-peer-group-mentoring-career-networking?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Lunch Break 🍲",
+      "url": "https://kccnceu2022.sched.com/event/yu48/lunch-break?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Contributor Summit SIG Meet \u0026 Greet",
+      "url": "https://kccnceu2022.sched.com/event/11hKt/contributor-summit-sig-meet-greet?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "IN-PERSON ONLY | Breathwork + Chair Yoga Session",
+      "url": "https://kccnceu2022.sched.com/event/11hQq/in-person-only-breathwork-chair-yoga-session?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Kubernetes Everywhere: Lessons Learned From Going Multi-Cloud - Niko Smeds, Grafana Labs",
+      "url": "https://kccnceu2022.sched.com/event/ytsi/kubernetes-everywhere-lessons-learned-from-going-multi-cloud-niko-smeds-grafana-labs?iframe=no",
+      "slides_name": "kubernetes everywhere slides",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/b3/kubernetes-everywhere-slides.pdf",
+      "video": "https://www.youtube.com/watch?v=ZY5h8Atc14A"
+    },
+    {
+      "name": "How Adobe is Optimizing Resource Usage in Kubernetes - Carlos Sanchez, Adobe",
+      "url": "https://kccnceu2022.sched.com/event/yts2/how-adobe-is-optimizing-resource-usage-in-kubernetes-carlos-sanchez-adobe?iframe=no",
+      "slides_name": "KubeCon EU 2022   How Adobe is Optimizing Resource Usage in Kubernetes",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/bc/KubeCon%20EU%202022%20-%20How%20Adobe%20is%20Optimizing%20Resource%20Usage%20in%20Kubernetes.pdf",
+      "video": "https://www.youtube.com/watch?v=iVD5YI1-U_M"
+    },
+    {
+      "name": "Removing Language Barriers for Spanish-speaking Professionals - Rael Garcia Arnés, Red Hat \u0026 Victor Morales, Samsung Electronics",
+      "url": "https://kccnceu2022.sched.com/event/ytsl/removing-language-barriers-for-spanish-speaking-professionals-rael-garcia-arnes-red-hat-victor-morales-samsung-electronics?iframe=no",
+      "slides_name": "KubeCon EU'22   SIG Docs",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/24/KubeCon%20EU%2722%20-%20SIG%20Docs.pdf",
+      "video": "https://www.youtube.com/watch?v=PhENoqEyowQ"
+    },
+    {
+      "name": "SIG Architecture Intro and Update - Davanum Srinivas, VMware \u0026 John Belamaric, Google",
+      "url": "https://kccnceu2022.sched.com/event/ytsr/sig-architecture-intro-and-update-davanum-srinivas-vmware-john-belamaric-google?iframe=no",
+      "slides_name": "2022 KubeCon EU   Kubernetes SIG Architecture Intro and Update",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/c8/2022%20KubeCon%20EU%20-%20Kubernetes%20SIG%20Architecture%20Intro%20and%20Update.pdf",
+      "video": "https://www.youtube.com/watch?v=jrQQuKSb7P8"
+    },
+    {
+      "name": "Updates from The Update Framework - Lukas Pühringer, NYU \u0026 Jussi Kukkonen, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytsu/updates-from-the-update-framework-lukas-puhringer-nyu-jussi-kukkonen-vmware?iframe=no",
+      "slides_name": "updates from tuf",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/72/updates_from_tuf.pdf",
+      "video": "https://www.youtube.com/watch?v=dCEUujPAIjM"
+    },
+    {
+      "name": "Better Bandwidth Management with eBPF - Daniel Borkmann \u0026 Christopher M. Luciano, Isovalent",
+      "url": "https://kccnceu2022.sched.com/event/ytsQ/better-bandwidth-management-with-ebpf-daniel-borkmann-christopher-m-luciano-isovalent?iframe=no",
+      "slides_name": "KubeCon EU Better Bandwidth Management with eBPF",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/08/KubeCon_EU_Better_Bandwidth_Management_with_eBPF.pdf",
+      "video": "https://www.youtube.com/watch?v=QTSS6ktK8hY"
+    },
+    {
+      "name": "Distributing PromQL for Fast and Efficient Kubernetes Fleet Monitoring - Moad Zardab, Red Hat \u0026 Filip Petkovski, Shopify",
+      "url": "https://kccnceu2022.sched.com/event/ytsT/distributing-promql-for-fast-and-efficient-kubernetes-fleet-monitoring-moad-zardab-red-hat-filip-petkovski-shopify?iframe=no",
+      "slides_name": "Distributing PromQL for Fast and Efficient Kubernetes Fleet Monitoring",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/fb/Distributing%20PromQL%20for%20Fast%20and%20Efficient%20Kubernetes%20Fleet%20Monitoring.pdf",
+      "video": "https://www.youtube.com/watch?v=fD-j9u8hzgY"
+    },
+    {
+      "name": "Komrade: an Open-Source Security Chaos Engineering (SCE) Tool for K8s - Aaron Rinehart, Verica.io \u0026 Matas Kulkovas, Cast.ai",
+      "url": "https://kccnceu2022.sched.com/event/ytsf/komrade-an-open-source-security-chaos-engineering-sce-tool-for-k8s-aaron-rinehart-vericaio-matas-kulkovas-castai?iframe=no",
+      "slides_name": "KubeCon EU 2022 Presentation",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/31/KubeCon_EU_2022_Presentation.pdf",
+      "video": "https://www.youtube.com/watch?v=9uzexriaXj4"
+    },
+    {
+      "name": "Too Much to Choose – Making Sense of a Smorgasbord of Security Standards - Anais Urlichs \u0026 Rory McCune, Aqua Security",
+      "url": "https://kccnceu2022.sched.com/event/ytsN/too-much-to-choose-making-sense-of-a-smorgasbord-of-security-standards-anais-urlichs-rory-mccune-aqua-security?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=yKqqCxvlDeE"
+    },
+    {
+      "name": "Linkerd End User Panel: Case Studies from Production - Catherine Paganini, Buoyant; Kasper Nissen, Lunar; Fredrik Klingenberg, Aurum AS; Eli Goldberg, Salt Security; Christian Hüning, Finleap Connect",
+      "url": "https://kccnceu2022.sched.com/event/ytsZ/linkerd-end-user-panel-case-studies-from-production-catherine-paganini-buoyant-kasper-nissen-lunar-fredrik-klingenberg-aurum-as-eli-goldberg-salt-security-christian-huning-finleap-connect?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=_DbZ6SFdY1g"
+    },
+    {
+      "name": "Charting Your Own Course Through the Cloud Native Landscape - Matty Stratton, Pulumi \u0026 Whitney Lee, VMware",
+      "url": "https://kccnceu2022.sched.com/event/ytsW/charting-your-own-course-through-the-cloud-native-landscape-matty-stratton-pulumi-whitney-lee-vmware?iframe=no",
+      "slides_name": "charting your course kubecon pdf",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/fe/charting-your-course-kubecon-pdf.pdf",
+      "video": "https://www.youtube.com/watch?v=dzcij4jDNbs"
+    },
+    {
+      "name": "Code of Conduct Best Practices Birds of a Feather - Joanna Lee, Attorney \u0026 Advisor, GesmerUpdegrove LLP",
+      "url": "https://kccnceu2022.sched.com/event/12PIO/code-of-conduct-best-practices-birds-of-a-feather-joanna-lee-attorney-advisor-gesmerupdegrove-llp?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Composability is to Software as Compounding Interest is to Finance - Bill Mulligan, Isovalent",
+      "url": "https://kccnceu2022.sched.com/event/ytqy/composability-is-to-software-as-compounding-interest-is-to-finance-bill-mulligan-isovalent?iframe=no",
+      "slides_name": "Composability is to Software as Compounding Interest is to Finance",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/57/Composability%20is%20to%20Software%20as%20Compounding%20Interest%20is%20to%20Finance%20.pdf",
+      "video": "https://www.youtube.com/watch?v=25aVkm89ZT8"
+    },
+    {
+      "name": "Contour Ingress Intro and Deep Dive - Nick Young, Orlin Vasilev \u0026 Nigel Brown, VMware",
+      "url": "https://kccnceu2022.sched.com/event/yttO/contour-ingress-intro-and-deep-dive-nick-young-orlin-vasilev-nigel-brown-vmware?iframe=no",
+      "slides_name": "Contour   Maintainers track   KubeCon EU 22",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/c3/Contour%20-%20Maintainers%20track%20-%20KubeCon%20EU%2022.pdf",
+      "video": "https://www.youtube.com/watch?v=nSc0te3QQ0o"
+    },
+    {
+      "name": "Optimize Kubernetes on vSphere with Event-Driven Automation - Steven Wong \u0026 Michael Gasch, VMware",
+      "url": "https://kccnceu2022.sched.com/event/yttR/optimize-kubernetes-on-vsphere-with-event-driven-automation-steven-wong-michael-gasch-vmware?iframe=no",
+      "slides_name": "KubeConEU22 K8s VMware User Group Optimize Kubernetes on vSphere with Event Driven Automation",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/f7/KubeConEU22-K8s%20VMware%20User%20Group%20Optimize%20Kubernetes%20on%20vSphere%20with%20Event-Driven%20Automation.pdf",
+      "video": "https://www.youtube.com/watch?v=NJYBwJemdoY"
+    },
+    {
+      "name": "Scaling Databases with Vitess - Harshit Gangal \u0026 Manan Gupta, Planetscale",
+      "url": "https://kccnceu2022.sched.com/event/yttU/scaling-databases-with-vitess-harshit-gangal-manan-gupta-planetscale?iframe=no",
+      "slides_name": "Scaling Databases with Vitess",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/9c/Scaling%20Databases%20with%20Vitess.pdf",
+      "video": "https://www.youtube.com/watch?v=HgSlmzC7O-E"
+    },
+    {
+      "name": "SPIRE: Intro \u0026 Deep Dive Into Windows Support - Agustín Martínez Fayó \u0026 Marcos Yacob, Hewlett Packard Enterprise",
+      "url": "https://kccnceu2022.sched.com/event/yttL/spire-intro-deep-dive-into-windows-support-agustin-martinez-fayo-marcos-yacob-hewlett-packard-enterprise?iframe=no",
+      "slides_name": "SPIRE  Intro \u0026 Deep Dive Into Windows Support",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/f7/SPIRE_%20Intro%20%26%20Deep%20Dive%20Into%20Windows%20Support.pdf",
+      "video": "https://www.youtube.com/watch?v=pcyOnX08jHs"
+    },
+    {
+      "name": "\"My CNI Plugin Did… What?!\": Debugging CNI with Style and Aplomb - Douglas Smith \u0026 Daniel Mellado Area, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytta/my-cni-plugin-did-what-debugging-cni-with-style-and-aplomb-douglas-smith-daniel-mellado-area-red-hat?iframe=no",
+      "slides_name": "Kubecon EU 2022   My CNI plugin did what",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/8b/Kubecon%20EU%202022%20-%20My%20CNI%20plugin%20did%20what.pdf",
+      "video": "https://www.youtube.com/watch?v=WSO-AFo7dEg"
+    },
+    {
+      "name": "Build a Cloud Native Logging Pipeline on the Edge with Fluentbit Operator - Feynman Zhou, QingCloud",
+      "url": "https://kccnceu2022.sched.com/event/ytt3/build-a-cloud-native-logging-pipeline-on-the-edge-with-fluentbit-operator-feynman-zhou-qingcloud?iframe=no",
+      "slides_name": "Build a Cloud Native Logging Pipeline on the Edge with Fluent Operator Feynman Zhou",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/c0/Build%20a%20Cloud%20Native%20Logging%20Pipeline%20on%20the%20Edge%20with%20Fluent%20Operator_Feynman%20Zhou.pdf",
+      "video": "https://www.youtube.com/watch?v=D_nyUhO8Y7Q"
+    },
+    {
+      "name": "Throw Away Your Passwords: Trusting Workload Identity - Ric Featherstone, ControlPlane",
+      "url": "https://kccnceu2022.sched.com/event/ytsx/throw-away-your-passwords-trusting-workload-identity-ric-featherstone-controlplane?iframe=no",
+      "slides_name": "Throw Away Your Passwords",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/b0/Throw%20Away%20Your%20Passwords.pdf",
+      "video": "https://www.youtube.com/watch?v=z-JxZblhCG8"
+    },
+    {
+      "name": "Simplifying Service Mesh Operations with Flux and Flagger - Mitch Connors, Google \u0026 Stefan Prodan, Weaveworks",
+      "url": "https://kccnceu2022.sched.com/event/ytt9/simplifying-service-mesh-operations-with-flux-and-flagger-mitch-connors-google-stefan-prodan-weaveworks?iframe=no",
+      "slides_name": "KubeCon EU 2022 Gitops talk (1)",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/ea/KubeCon%20EU%202022%20Gitops%20talk%20%281%29.pdf",
+      "video": "https://www.youtube.com/watch?v=1rJYsdLgJGA"
+    },
+    {
+      "name": "From Student to SRE That Loves CNCF in No Time - Jacob Valdemar Andreasen, Lunar",
+      "url": "https://kccnceu2022.sched.com/event/ytt6/from-student-to-sre-that-loves-cncf-in-no-time-jacob-valdemar-andreasen-lunar?iframe=no",
+      "slides_name": "slides",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/6d/slides.pdf",
+      "video": "https://www.youtube.com/watch?v=7_k8Ni7VQy0"
+    },
+    {
+      "name": "Coffee Break ☕",
+      "url": "https://kccnceu2022.sched.com/event/yu3z/coffee-break?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "EmpowerUs",
+      "url": "https://kccnceu2022.sched.com/event/10ejs/empowerus?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": ""
+    },
+    {
+      "name": "Building an Agile Platform in a Highly Regulated Industry - Fredrik Klingenberg, Aurum AS \u0026 Jonas Samuelson, If Insurance",
+      "url": "https://kccnceu2022.sched.com/event/yttm/building-an-agile-platform-in-a-highly-regulated-industry-fredrik-klingenberg-aurum-as-jonas-samuelson-if-insurance?iframe=no",
+      "slides_name": "KubeCon2022If Insurance",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/24/KubeCon2022If-Insurance.pdf",
+      "video": "https://www.youtube.com/watch?v=urWojY1jxdc"
+    },
+    {
+      "name": "CNCF TAG Network and Service Mesh Working Group Deep-Dive - Lee Calcote, Layer5; Ken Owens, Fiserv; Ed Warnicke, Cisco",
+      "url": "https://kccnceu2022.sched.com/event/yttv/cncf-tag-network-and-service-mesh-working-group-deep-dive-lee-calcote-layer5-ken-owens-fiserv-ed-warnicke-cisco?iframe=no",
+      "slides_name": "TAG Network at KubeCon EU 2022",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/17/TAG%20Network%20at%20KubeCon%20EU%202022.pdf",
+      "video": "https://www.youtube.com/watch?v=ofZyEMTwBwA"
+    },
+    {
+      "name": "CoreDNS: Intro and Deep Dive - John Belamaric, Google \u0026 Yong Tang, Ivanti, Inc",
+      "url": "https://kccnceu2022.sched.com/event/ytty/coredns-intro-and-deep-dive-john-belamaric-google-yong-tang-ivanti-inc?iframe=no",
+      "slides_name": "2022 KubeCon EU   CoreDNS Intro \u0026 Deep Dive",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/51/2022%20KubeCon%20EU%20-%20CoreDNS%20Intro%20%26%20Deep%20Dive.pdf",
+      "video": "https://www.youtube.com/watch?v=rNlSgYZoIYs"
+    },
+    {
+      "name": "Make Cloud Native Chaos Engineering Easier - Deep Dive into Chaos Mesh - Cwen Yin, PingCAP",
+      "url": "https://kccnceu2022.sched.com/event/ytu4/make-cloud-native-chaos-engineering-easier-deep-dive-into-chaos-mesh-cwen-yin-pingcap?iframe=no",
+      "slides_name": "Make Cloud Chaos Engineering Easier   Deep Dive into Chaos Mesh",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/4d/Make%20Cloud%20Chaos%20Engineering%20Easier%20-%20Deep%20Dive%20into%20Chaos%20Mesh.pdf",
+      "video": "https://www.youtube.com/watch?v=bZnI5omUKe4"
+    },
+    {
+      "name": "To IPv6 - The Dual-stack Adoption Advisory Panel - Bridget Kromhout, Microsoft; Tim Hockin, Google; Dinesh Majrekar, Civo; Lachie Evenson, Microsoft; Rags Srinivas, InfoQ",
+      "url": "https://kccnceu2022.sched.com/event/ytt0/to-ipv6-the-dual-stack-adoption-advisory-panel-bridget-kromhout-microsoft-tim-hockin-google-dinesh-majrekar-civo-lachie-evenson-microsoft-rags-srinivas-infoq?iframe=no",
+      "slides_name": "ipv6panelists.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/15/ipv6panelists.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=CqfEwzXI5W0"
+    },
+    {
+      "name": "From Monitoring to Observability: Left Shift your SLOs with Chaos - Michael Friedrich, GitLab",
+      "url": "https://kccnceu2022.sched.com/event/yttd/from-monitoring-to-observability-left-shift-your-slos-with-chaos-michael-friedrich-gitlab?iframe=no",
+      "slides_name": "From Monitoring to Observability   Left Shift your SLOs with Chaos",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/10/From%20Monitoring%20to%20Observability%20-%20Left%20Shift%20your%20SLOs%20with%20Chaos.pdf",
+      "video": "https://www.youtube.com/watch?v=BkREMg8adaI"
+    },
+    {
+      "name": "Multi-Cloud Workload Identity With SPIFFE - Jake Sanders \u0026 Charlie Egan, Jetstack",
+      "url": "https://kccnceu2022.sched.com/event/yttX/multi-cloud-workload-identity-with-spiffe-jake-sanders-charlie-egan-jetstack?iframe=no",
+      "slides_name": "KubeCon EU 2022 Multi Cloud Workload Identity With SPIFFE.pptx",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/31/KubeCon_EU_2022_Multi_Cloud_Workload_Identity_With_SPIFFE.pptx.pdf",
+      "video": "https://www.youtube.com/watch?v=vKRUq56xDiE"
+    },
+    {
+      "name": "A Guided Tour of Cilium Service Mesh - Liz Rice, Isovalent",
+      "url": "https://kccnceu2022.sched.com/event/yttj/a-guided-tour-of-cilium-service-mesh-liz-rice-isovalent?iframe=no",
+      "slides_name": "Guided Tour of Cilium ServiceMesh",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/16/Guided%20Tour%20of%20Cilium%20ServiceMesh.pdf",
+      "video": "https://www.youtube.com/watch?v=e10kDBEsZw4"
+    },
+    {
+      "name": "Kubectl Said What? - Christopher Hanson, RX-M, LLC",
+      "url": "https://kccnceu2022.sched.com/event/yttg/kubectl-said-what-christopher-hanson-rx-m-llc?iframe=no",
+      "slides_name": "kubectl said what",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/c6/kubectl-said-what.pdf",
+      "video": "https://www.youtube.com/watch?v=-cF8b9zcal0"
+    },
+    {
+      "name": "Running Kubernetes in a Manufacturing Line – What Could Possibly Go Wrong? - Mario Fahlandt \u0026 Tobias Schneck, Kubermatic GmbH",
+      "url": "https://kccnceu2022.sched.com/event/ytuM/running-kubernetes-in-a-manufacturing-line-what-could-possibly-go-wrong-mario-fahlandt-tobias-schneck-kubermatic-gmbh?iframe=no",
+      "slides_name": "KubeCon EU 2022 Running kubernetes in a manufacturing line   what could possible go wrong Tobias Schneck Mario Fahlandt Kubermat",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/78/KubeCon_EU_2022_Running%20kubernetes%20in%20a%20manufacturing%20line%20-%20what%20could%20possible%20go%20wrong_Tobias_Schneck_Mario_Fahlandt_Kubermatic.pdf",
+      "video": "https://www.youtube.com/watch?v=nE2RnhgUTHI"
+    },
+    {
+      "name": "Crossplane Intro \u0026 Deep Dive - Compose Your Custom Cloud Platform - Jared Watts, Steven Borreli \u0026 Yury Tsarev, Upbound; Christopher Haar, DKB AG",
+      "url": "https://kccnceu2022.sched.com/event/ytuY/crossplane-intro-deep-dive-compose-your-custom-cloud-platform-jared-watts-steven-borreli-yury-tsarev-upbound-christopher-haar-dkb-ag?iframe=no",
+      "slides_name": "Kubecon EU 2022 Crossplane Intro \u0026 Deep Dive",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/16/Kubecon%20EU%202022%20Crossplane%20Intro%20%26%20Deep%20Dive.pdf",
+      "video": "https://www.youtube.com/watch?v=xECc7XlD5kY"
+    },
+    {
+      "name": "Kubernetes SIG Node Intro and Deep Dive - Sergey Kanzhelev \u0026 Dawn Chen, Google; Elana Hashman \u0026 Derek Carr, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytue/kubernetes-sig-node-intro-and-deep-dive-sergey-kanzhelev-dawn-chen-google-elana-hashman-derek-carr-red-hat?iframe=no",
+      "slides_name": "Copy of KubeCon EU 2022 SIG Node maintainers track",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/dd/Copy%20of%20KubeCon%20EU%202022%20SIG%20Node%20maintainers%20track.pdf",
+      "video": "https://www.youtube.com/watch?v=FGRenKv4RgY"
+    },
+    {
+      "name": "Overview and State of Linkerd - Matei David, Buoyant, Inc.",
+      "url": "https://kccnceu2022.sched.com/event/ytub/overview-and-state-of-linkerd-matei-david-buoyant-inc?iframe=no",
+      "slides_name": "KubeConEU22  Overview and state of Linkerd",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/c1/KubeConEU22_%20Overview%20and%20state%20of%20Linkerd.pptx",
+      "video": "https://www.youtube.com/watch?v=9ksMUVhSW_k"
+    },
+    {
+      "name": "PolicyReport CRD: Manage Admission Control, Runtime, and Scan Reports! - Anushka Mittal \u0026 Mritunjay Sharma, Nirmata; Frank Jogeleit, Lovoo GmbH; Stephen Adeniyi",
+      "url": "https://kccnceu2022.sched.com/event/ytuV/policyreport-crd-manage-admission-control-runtime-and-scan-reports-anushka-mittal-mritunjay-sharma-nirmata-frank-jogeleit-lovoo-gmbh-stephen-adeniyi?iframe=no",
+      "slides_name": "",
+      "slides": "",
+      "video": "https://www.youtube.com/watch?v=tG-YLGF9_Aw"
+    },
+    {
+      "name": "Making On-Prem Bare-Metal Kubernetes Network Stack Telco Ready - Christopher Dziomba \u0026 Marcel Fest, Deutsche Telekom",
+      "url": "https://kccnceu2022.sched.com/event/ytuA/making-on-prem-bare-metal-kubernetes-network-stack-telco-ready-christopher-dziomba-marcel-fest-deutsche-telekom?iframe=no",
+      "slides_name": "On Prem Bare Metal Kubernetes Network Stack Telco Ready",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/8e/On-Prem_Bare-Metal_Kubernetes_Network_Stack_Telco_Ready.pdf",
+      "video": "https://www.youtube.com/watch?v=ICvfr0sPSjs"
+    },
+    {
+      "name": "Metrics as a First-Class Citizen in the E2E Testing Landscape - Matej Gera \u0026 Jéssica Lins, Red Hat",
+      "url": "https://kccnceu2022.sched.com/event/ytuD/metrics-as-a-first-class-citizen-in-the-e2e-testing-landscape-matej-gera-jessica-lins-red-hat?iframe=no",
+      "slides_name": "metrics e2e final",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/a4/metrics-e2e-final.pdf",
+      "video": "https://www.youtube.com/watch?v=jFm3WBtFhv4"
+    },
+    {
+      "name": "Making Sense of Chaos: Implementing Chaos Engineering in a Fintech Company - Iqbal Farabi \u0026 Giovanni Sakti, GoTo Financial",
+      "url": "https://kccnceu2022.sched.com/event/ytuP/making-sense-of-chaos-implementing-chaos-engineering-in-a-fintech-company-iqbal-farabi-giovanni-sakti-goto-financial?iframe=no",
+      "slides_name": "KubeCon EU 2022 Making Sense of Chaos Rev 20220520",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/4e/KubeCon%20EU%202022%20Making%20Sense%20of%20Chaos%20Rev%2020220520.pdf",
+      "video": "https://www.youtube.com/watch?v=-7NdVuSVZFo"
+    },
+    {
+      "name": "Three Surprising K8s Networking “Features” and How to Defend Against Them - James Cleverley-Prance, ControlPlane",
+      "url": "https://kccnceu2022.sched.com/event/ytu7/three-surprising-k8s-networking-features-and-how-to-defend-against-them-james-cleverley-prance-controlplane?iframe=no",
+      "slides_name": "Three Surprising K8s Networking Features and How to Defend Against Them",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/cf/Three%20Surprising%20K8s%20Networking%20Features%20and%20How%20to%20Defend%20Against%20Them.pdf",
+      "video": "https://www.youtube.com/watch?v=7iwnwbbmxqQ"
+    },
+    {
+      "name": "Navigating the CNCF Landscape, the Right Way - Divya Mohan, SUSE; Savitha Raghunathan, Red Hat; Kunal Kushwaha \u0026 Saiyam Pathak, Civo",
+      "url": "https://kccnceu2022.sched.com/event/ytuG/navigating-the-cncf-landscape-the-right-way-divya-mohan-suse-savitha-raghunathan-red-hat-kunal-kushwaha-saiyam-pathak-civo?iframe=no",
+      "slides_name": "Navigating the CNCF landscape, the right way",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/38/Navigating%20the%20CNCF%20landscape%2C%20the%20right%20way.pdf",
+      "video": "https://www.youtube.com/watch?v=u7vUA61sZI4"
+    },
+    {
+      "name": "Navigating the CNCF Landscape, the Right Way - Divya Mohan, SUSE; Savitha Raghunathan, Red Hat; Kunal Kushwaha \u0026 Saiyam Pathak, Civo",
+      "url": "https://kccnceu2022.sched.com/event/ytuG/navigating-the-cncf-landscape-the-right-way-divya-mohan-suse-savitha-raghunathan-red-hat-kunal-kushwaha-saiyam-pathak-civo?iframe=no",
+      "slides_name": "Navigating the CNCF landscape, the right way",
+      "slides": "https://static.sched.com/hosted_files/kccnceu2022/38/Navigating%20the%20CNCF%20landscape%2C%20the%20right%20way.pdf",
+      "video": "https://www.youtube.com/watch?v=u7vUA61sZI4"
+    }
+  ]
+}
