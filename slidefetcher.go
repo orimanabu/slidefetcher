@@ -7,6 +7,7 @@ import (
 	"io"
 	"log"
 	"net/http"
+	"path/filepath"
 	"os"
 	"strings"
 	"time"
@@ -181,7 +182,10 @@ type Attachment struct {
 	URL string `json:"url"`
 }
 
-var pageCount int = 0
+var confName string
+var downloadMode bool = false
+var doDownload bool = false
+var topDir string = "./downloaded"
 
 func existsAttachment(s Session, at Attachment) bool {
 	for _, v := range s.Attachments {
@@ -210,12 +214,13 @@ func prepare(targetURL, queryURL string) {
 	}
 	// fmt.Fprintf(os.Stderr, "XXX %s %s %s\n", targetURL, queryURL, targetDomain)
 	c := colly.NewCollector(
-		colly.AllowedDomains(targetDomain),
+		colly.AllowedDomains(targetDomain, "static.sched.com"),
 		colly.CacheDir("./.cache"),
-		// colly.Debugger(&debug.LogDebugger{}),
 		// colly.UserAgent("Mozilla/5.0 (Macintosh; Intel Mac OS X 14.7; rv:131.0) Gecko/20100101 Firefox/131.0"),
 		colly.UserAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"),
 		colly.MaxBodySize(100 * 1024 * 1024),
+		colly.MaxDepth(5),
+		// colly.Debugger(&debug.LogDebugger{}),
 	)
 	c.Limit(&colly.LimitRule{
 		DomainGlob: targetDomain,
@@ -230,17 +235,40 @@ func prepare(targetURL, queryURL string) {
 		if (conf.URL == "") {
 			conf.URL = r.URL.String()
 		}
-		// fmt.Fprintf(os.Stderr, "<OnRequest> [%s]\n", conf.URL)
+		// fmt.Fprintf(os.Stderr, "<OnRequest> [%s]\n", r.URL.String())
 	})
 
 	c.OnError(func(_ *colly.Response, err error) {
-		fmt.Fprintln(os.Stderr, "<OnError> ", err)
+		// fmt.Fprintln(os.Stderr, "<OnError> ", err)
 	})
 
 	c.OnResponse(func(r *colly.Response) {
-		pageCount++
-		// fmt.Fprintln(os.Stderr, "Page visited: ", r.Request.URL)
-		// fmt.Fprintln("")
+		if downloadMode && doDownload {
+			var err error
+			dir := topDir + "/" + confName + "/" + s.Name
+			fpath := dir + "/" + filepath.Base(r.Request.URL.Path)
+
+			err = os.MkdirAll(dir, 0755)
+			if err != nil {
+				log.Fatal(err)
+			}
+
+			_, err = os.Stat(fpath)
+			if err != nil {
+				if os.IsNotExist(err) {
+					err = r.Save(fpath)
+					if err != nil {
+						fmt.Fprintf(os.Stderr, "** [%s] %v\n", fpath, err)
+						log.Fatal(err)
+					}
+					fmt.Fprintf(os.Stderr, "=> %s\n", fpath)
+				}
+			} else {
+				fmt.Fprintf(os.Stderr, "=> %s (exists)\n", fpath)
+			}
+
+			doDownload = false
+		}
 	})
 
 	c.OnHTML(selectorHTMLTitle, func(e *colly.HTMLElement) {
@@ -260,18 +288,39 @@ func prepare(targetURL, queryURL string) {
 	})
 
 	c.OnHTML(selectorPDF, func(e *colly.HTMLElement) {
-		// fmt.Fprintf(os.Stderr"<OnHTML-selectorPDF> [%s]\n", e.Text)
+		// fmt.Fprintf(os.Stderr, "<OnHTML-selectorPDF> [%s] (%v)\n", e.Text, downloadMode)
 		at := setupAttachment(e, "slides")
-		if !existsAttachment(s, at) {
-			s.Attachments = append(s.Attachments, at)
+		if existsAttachment(s, at) {
+			return
+		}
+		s.Attachments = append(s.Attachments, at)
+		if downloadMode {
+			doDownload = true
+			// fmt.Fprintf(os.Stderr, "<OnHTML-selectorPDF> !!! [%s]\n", at.URL)
+			e.Request.Visit(at.URL)
+			// err := e.Request.Visit(at.URL)
+			// if err != nil {
+			// 	fmt.Fprintf(os.Stderr, "<OnHTML-selectorPDF> !! [%s] [%d] [%v]\n", at.URL, err, e.Response.StatusCode)
+			// 	log.Fatal(err)
+			// }
 		}
 	})
 
 	c.OnHTML(selectorFile, func(e *colly.HTMLElement) {
-		// fmt.Fprintf(os.Stderr, "<OnHTML-selectorFile> [%s]\n", e.Text)
+		// fmt.Fprintf(os.Stderr, "<OnHTML-selectorFile> [%s] (%v)\n", e.Text, downloadMode)
 		at := setupAttachment(e, "other")
-		if !existsAttachment(s, at) {
-			s.Attachments = append(s.Attachments, at)
+		if existsAttachment(s, at) {
+			return
+		}
+		s.Attachments = append(s.Attachments, at)
+		if downloadMode {
+			doDownload = true
+			// fmt.Fprintf(os.Stderr, "<OnHTML-selectorFile> !! [%s]\n", at.URL)
+			err := e.Request.Visit(at.URL)
+			if err != nil {
+				fmt.Fprintf(os.Stderr, "<OnHTML-selectorFile> !! [%s] %v\n", at.URL, err)
+				log.Fatal(err)
+			}
 		}
 	})
 
@@ -409,7 +458,16 @@ func main() {
 				Aliases: []string{"d"},
 				Usage: "Do download",
 				Action: func(cCtx *cli.Context) error {
-					fmt.Fprintln(os.Stderr, "XXX not implemented")
+					downloadMode = true
+					if cCtx.Args().Len() != 1 {
+						return errors.New("download gets 1 arg")
+					}
+					confName = cCtx.Args().Get(0)
+					targetURL, queryURL, err := name2url(confName)
+					if err != nil {
+						return err
+					}
+					prepare(targetURL, queryURL)
 					return nil
 				},
 			},
